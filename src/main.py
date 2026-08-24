@@ -4,7 +4,7 @@ import build_db
 import chart
 import fetch
 
-# YOUR WORK, STEP 1 OF 2
+# YOUR WORK, STEP 1 OF 2 of 3
 # Uncomment this once you have created src/analyze.py on your branch:
 #
 
