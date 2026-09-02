@@ -1,3 +1,7 @@
+# This file retrieves data from Open-Meteo by querying the API for 7 days of weather forecasts.
+# The api_call() function takes the JSON data from the API and makes a pandas DataFrame.
+# It shortens long API names to high, low, and rain so writing SQL queries later is much easier.
+
 """Getting the data. One job: go to the API and come back with a table.
 
 This file knows about Open-Meteo. Nothing else in the project does, which
