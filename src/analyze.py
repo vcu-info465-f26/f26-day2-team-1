@@ -1,3 +1,7 @@
+"""# This file connects to the weather database and finds the highest temperature in the forecast data.
+# The get_max() function returns a pandas DataFrame containing the day and maximum high temperature.
+# The query selects the day along with the maximum temperature, which is not obvious because it does not explicitly match the day to the maximum value."""
+
 import sqlite3
 from pathlib import Path
 
