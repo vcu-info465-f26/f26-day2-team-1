@@ -1,3 +1,7 @@
+# Chart.py reads stored forecast data to create a bar chart for the project.
+# The 'make_chart()' function saves the chart as 'output/chart.png'.
+# It reads the data back from the database to confirm the stored data can be used by later parts of the pipeline.
+
 """Drawing the picture. One job: read the database, write a PNG.
 
 Note that matplotlib is never imported here. pandas plots by calling it
