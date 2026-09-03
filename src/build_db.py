@@ -1,3 +1,7 @@
+# This file stores forecast data in a SQLite database so it can be saved and used later.
+# save_to_db() takes a forecast DataFrame, writes its rows to the forecast table in weather.db, and does not return a value.
+# It uses INSERT OR REPLACE so running the program again updates rows for the same day instead of creating duplicates.
+
 """Storing the data. One job: put the table somewhere it will stay.
 
 A SQLite database is a single file. There is no server to start, no
