@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 #this script essentially just requests for any earthquakes with a minimum magnitude of 2.5
 #from the start point of 30 days ago to present with a limit of 10 earthquakes
 url = "https://earthquake.usgs.gov/fdsnws/event/1/query"
@@ -15,7 +16,13 @@ response = requests.get(url, params=parameters) #this is what initiates the requ
 data = response.json()
 
 for earthquake in data["features"]: #basically a loop that says for each earthquake in "features" (where the earthquake data is stored), print its place and magnitude
-    print(earthquake["properties"]["place"]) #prints the properties of each earthquake (ie location and distance from major city)
-    print(earthquake["properties"]["mag"]) #prints the magnitude of each earthquake (should be a min of 2.5)
-    print() #just an extra space for readability
+    earthquake_id = earthquake["id"]
+    location = earthquake["properties"]["place"]
+    magnitude = earthquake["properties"]["mag"]
+    time = datetime.fromtimestamp(earthquake["properties"]["time"]/1000)
 
+print("ID:", earthquake_id)
+print("Location:", location)
+print("Magnitude:", magnitude)
+print("Time:", time)
+print()
