@@ -12,11 +12,12 @@ parameters = { #these are the parameters by which the api is following
 }
 
 response = requests.get(url, params=parameters) #this is what initiates the request
-
 data = response.json()
 
-for earthquake in data["features"]: #basically a loop that says for each earthquake in "features" (where the earthquake data is stored), print its id, place, magnitude, and time
-    earthquake_id = earthquake["id"] #this is what retrieves the ID of the earthquake
+print(data.keys()) #shows the main sections in the data we requested form the api
+
+def show_earthquake(earthquake): #creates a function which basically holds instructions or parameters im using
+    earthquake_id = earthquake["id"] #this is what retrieves the ID of the earthquake and saves it as a variable
     location = earthquake["properties"]["place"] #^ and for location
     magnitude = earthquake["properties"]["mag"]#^ and for magnitude
     time = datetime.fromtimestamp(earthquake["properties"]["time"]/1000) #and finally the time, which it converts from a timestamp into a normal date and time
@@ -25,3 +26,6 @@ for earthquake in data["features"]: #basically a loop that says for each earthqu
     print("Magnitude:", magnitude)
     print("Time:", time)
     print()
+
+for earthquake in data["features"]: #this is a loop which tells the program that for every earthquake inside "features", send it through the show_earthquake function which then gathers all the requested data
+    show_earthquake(earthquake)
