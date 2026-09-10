@@ -1,8 +1,8 @@
 import requests
-
+# uses earthquake id from endpoint 1 to get more details about that specific earthquake
 def get_earthquake_details(event_id):
     url = "https://earthquake.usgs.gov/fdsnws/event/1/query"
-
+# eventid talks to the api about which specific earthquake to return
     parameters = {
         "format": "geojson",
         "eventid": event_id
@@ -13,10 +13,11 @@ def get_earthquake_details(event_id):
     print(data.keys())
     print(data["properties"].keys())
     
-
+# properties saves the earthquake info so details are easier to access
     properties = data["properties"]
+# coordinates include longitude,lat,and depth
     coordinates = data["geometry"]["coordinates"]
-
+# cherry picking the specific earthquake details we want from the response
     details = {
         "id": data["id"],
         "status": properties["status"],
