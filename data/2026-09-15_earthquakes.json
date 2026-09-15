@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.7982,
+    -25.4555,
+    3.03,
+    129.2771,
+    59.973,
+    185.605
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -112.904333333333,
+          38.5216666666667,
+          3.03
+        ],
+        "type": "Point"
+      },
+      "id": "uu80157046",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "80157046",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80157046&format=geojson",
+        "dmin": 0.01251,
+        "felt": null,
+        "gap": 54,
+        "ids": ",us7000thp9,uu80157046,",
+        "mag": 2.63,
+        "magType": "ml",
+        "mmi": 3.312,
+        "net": "uu",
+        "nst": 25,
+        "place": "16 km NE of Milford, Utah",
+        "rms": 0.1,
+        "sig": 106,
+        "sources": ",us,uu,",
+        "status": "reviewed",
+        "time": 1789500240740,
+        "title": "M 2.6 - 16 km NE of Milford, Utah",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789501768730,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157046"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.4443,
+          -8.1982,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thp0",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thp0",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thp0&format=geojson",
+        "dmin": 3.237,
+        "felt": null,
+        "gap": 119,
+        "ids": ",us7000thp0,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 33,
+        "place": "45 km N of Ruteng, Indonesia",
+        "rms": 0.89,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789496793369,
+        "title": "M 4.3 - 45 km N of Ruteng, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789499425040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thp0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.4888,
+          -25.4555,
+          185.605
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thni",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thni",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thni&format=geojson",
+        "dmin": 2.931,
+        "felt": null,
+        "gap": 52,
+        "ids": ",us7000thni,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 59,
+        "place": "49 km SW of Cach\u00ed, Argentina",
+        "rms": 0.79,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789494085765,
+        "title": "M 4.5 - 49 km SW of Cach\u00ed, Argentina",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789498905040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thni"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.6736,
+          25.0311,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thne",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thne",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thne&format=geojson",
+        "dmin": 0.823,
+        "felt": null,
+        "gap": 108,
+        "ids": ",us7000thne,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 48,
+        "place": "90 km NNW of Ishigaki, Japan",
+        "rms": 0.52,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789492608369,
+        "title": "M 4.3 - 90 km NNW of Ishigaki, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789498113040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.113,
+          31.615,
+          6.0999
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026sfaiyw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026sfaiyw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026sfaiyw&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 57,
+        "ids": ",us7000thn6,tx2026sfaiyw,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 40,
+        "place": "45 km NW of Toyah, Texas",
+        "rms": 0.2,
+        "sig": 104,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1789489664534,
+        "title": "M 2.6 - 45 km NW of Toyah, Texas",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789509513040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sfaiyw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.0754,
+          -4.2614,
+          76.224
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thn3",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thn3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thn3&format=geojson",
+        "dmin": 6.268,
+        "felt": null,
+        "gap": 150,
+        "ids": ",us7000thn3,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 41,
+        "place": "55 km SSW of Bengkulu, Indonesia",
+        "rms": 0.53,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789488769382,
+        "title": "M 4.5 - 55 km SSW of Bengkulu, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789508855040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -178.7982,
+          51.3647,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thn0",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thn0",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thn0&format=geojson",
+        "dmin": 0.189,
+        "felt": null,
+        "gap": 199,
+        "ids": ",aka2026shxzeg,us7000thn0,",
+        "mag": 3.4,
+        "magType": "ml",
+        "mmi": 3.112,
+        "net": "us",
+        "nst": 36,
+        "place": "160 km WSW of Adak, Alaska",
+        "rms": 1.35,
+        "sig": 178,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1789488621484,
+        "title": "M 3.4 - 160 km WSW of Adak, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789508342040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thn0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.756,
+          59.973,
+          100.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026shvxvf",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026shvxvf",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026shvxvf&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 52,
+        "ids": ",us7000thly,aka2026shvxvf,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 95,
+        "place": "56 km WNW of Anchor Point, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1789484911093,
+        "title": "M 2.5 - 56 km WNW of Anchor Point, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789506358040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shvxvf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.488,
+          56.199,
+          17.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026shusro",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026shusro",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026shusro&format=geojson",
+        "dmin": 1.1,
+        "felt": null,
+        "gap": 170,
+        "ids": ",us7000thlv,aka2026shusro,",
+        "mag": 4,
+        "magType": "ml",
+        "mmi": 3.083,
+        "net": "ak",
+        "nst": 188,
+        "place": "119 km E of Chignik, Alaska",
+        "rms": 1,
+        "sig": 246,
+        "sources": ",us,ak,",
+        "status": "reviewed",
+        "time": 1789482758168,
+        "title": "M 4.0 - 119 km E of Chignik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789505267885,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shusro"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.2771,
+          -8.3244,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000thlq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000thlq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000thlq&format=geojson",
+        "dmin": 4.847,
+        "felt": null,
+        "gap": 124,
+        "ids": ",us7000thlq,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 17,
+        "place": "251 km E of Lospalos, Timor Leste",
+        "rms": 0.84,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789481771033,
+        "title": "M 4.5 - 251 km E of Lospalos, Timor Leste",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789498426040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thlq"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1789512154000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
