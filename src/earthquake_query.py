@@ -1,5 +1,11 @@
 import requests
+import json #lets python save API response as a JSON file
+import os #constructs a path from query.py -> data folder
 from datetime import datetime #this is just so the time actually converts into something readable when requesting time
+
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
+
 #this script essentially just requests for any earthquakes with a minimum magnitude of 2.5
 #from the start point of 30 days ago to present with a limit of 10 earthquakes
 url = "https://earthquake.usgs.gov/fdsnws/event/1/query"
