@@ -19,6 +19,13 @@ parameters = { #these are the parameters by which the api is following
 
 response = requests.get(url, params=parameters) #this is what initiates the request
 data = response.json()
+today_str = datetime.now().strftime("%Y-%m-%d")
+output_path = os.path.join(DATA_DIR, f"{today_str}_earthquake_query.json") #makes a dated filename inside DATA_DIR
+
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, indent=2, sort_keys=True)
+
+print(f"Successfully saved earthquake query to {output_path}")
 
 print(data.keys()) #shows the main sections in the data we requested form the api
 
