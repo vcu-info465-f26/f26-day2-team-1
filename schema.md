@@ -6,26 +6,26 @@
 | --------- | --------- | ----------------------------- |
 | id        | String    | ID for the earthquake         |
 | location  | String    | Where the earthquake happened |
-| magnitude | Number    | Magnitude of the earthquake   |
+| magnitude | Number    | Earthquake magnitude          |
 | time      | Date/Time | When the earthquake happened  |
 | latitude  | Number    | Latitude of the earthquake    |
 | longitude | Number    | Longitude of the earthquake   |
 
-## Regions
+## Earthquake Details
 
-| Field     | Type   | What it is                        |
-| --------- | ------ | --------------------------------- |
-| country   | String | Country the earthquake is in      |
-| iso       | String | Country code                      |
-| region    | String | Region the earthquake is in       |
-| latitude  | Number | Latitude used to find the region  |
-| longitude | Number | Longitude used to find the region |
+| Field          | Type   | What it is                       |
+| -------------- | ------ | -------------------------------- |
+| event_id       | String | ID of the earthquake             |
+| status         | String | Current status of the earthquake |
+| tsunami        | Number | Whether a tsunami was reported   |
+| significance   | Number | USGS significance value          |
+| stations       | Number | Number of stations used          |
+| magnitude_type | String | Type of magnitude measurement    |
+| depth_km       | Number | Depth of the earthquake          |
 
-## Relational Key
+## How They Connect
 
-The two tables can be connected using the **latitude and longitude**. The earthquake data gives us the coordinates, and we can use those coordinates with the Regions API to get the region information.
-
-The earthquake `id` is used to identify each earthquake, but it isn't what connects the two tables.
+The `id` from the Earthquakes endpoint is used as the `event_id` for the Earthquake Details endpoint. This lets us take a specific earthquake from the first endpoint and use its ID to get more information about that same earthquake.
 
 ```text
 Earthquakes
@@ -37,14 +37,16 @@ time
 latitude
 longitude
      |
-     | latitude + longitude
+     | id → event_id
      |
      v
-Regions
--------
-country
-iso
-region
-latitude
-longitude
+Earthquake Details
+------------------
+event_id
+status
+tsunami
+significance
+stations
+magnitude_type
+depth_km
 ```
