@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -171.186,
+    -7.7411,
+    0.55000001192093,
+    104.5828,
+    57.229,
+    111.2
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -104.539,
+          31.696,
+          4.2542
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026sjbtxd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026sjbtxd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026sjbtxd&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 68,
+        "ids": ",us7000ti63,tx2026sjbtxd,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 24,
+        "place": "55 km SSW of Whites City, New Mexico",
+        "rms": 0.2,
+        "sig": 112,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1789680483994,
+        "title": "M 2.7 - 55 km SSW of Whites City, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789681208309,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sjbtxd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.208999633789,
+          33.8648338317871,
+          13.210000038147
+        ],
+        "type": "Point"
+      },
+      "id": "ci41334231",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "41334231",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41334231&format=geojson",
+        "dmin": 0.03212,
+        "felt": 481,
+        "gap": 48,
+        "ids": ",ci41334231,",
+        "mag": 3.08823882840527,
+        "magType": "ml",
+        "mmi": 3.478,
+        "net": "ci",
+        "nst": 118,
+        "place": "4 km SSE of Compton, CA",
+        "rms": 0.300000012,
+        "sig": 296,
+        "sources": ",ci,",
+        "status": "automatic",
+        "time": 1789677150020,
+        "title": "M 3.1 - 4 km SSE of Compton, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,shakemap,",
+        "tz": null,
+        "updated": 1789683831769,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -42.1489,
+          30.1619,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ti5b",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ti5b",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ti5b&format=geojson",
+        "dmin": 15.726,
+        "felt": null,
+        "gap": 77,
+        "ids": ",us7000ti5b,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 81,
+        "place": "northern Mid-Atlantic Ridge",
+        "rms": 0.51,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789672746799,
+        "title": "M 4.9 - northern Mid-Atlantic Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789674019040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.5828,
+          -7.7411,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ti5c",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ti5c",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ti5c&format=geojson",
+        "dmin": 2.905,
+        "felt": null,
+        "gap": 131,
+        "ids": ",us7000ti5c,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 32,
+        "place": "204 km SW of Labuan, Indonesia",
+        "rms": 1.11,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1789672653000,
+        "title": "M 4.5 - 204 km SW of Labuan, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789675770040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5c"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.347,
+          57.229,
+          54.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026sluzec",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026sluzec",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026sluzec&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 154,
+        "ids": ",aka2026sluzec,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 65,
+        "place": "65 km SW of Karluk, Alaska",
+        "rms": 0.6,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1789670321308,
+        "title": "M 2.5 - 65 km SW of Karluk, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789670519642,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sluzec"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.617668151855,
+          36.8938331604004,
+          0.550000011920929
+        ],
+        "type": "Point"
+      },
+      "id": "nc75437317",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75437317",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75437317&format=geojson",
+        "dmin": 0.02263,
+        "felt": null,
+        "gap": 86,
+        "ids": ",nc75437317,",
+        "mag": 2.59,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 8,
+        "place": "2 km ENE of Aromas, CA",
+        "rms": 0.04,
+        "sig": 103,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1789668863190,
+        "title": "M 2.6 - 2 km ENE of Aromas, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1789672941063,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437317"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.679,
+          32.074,
+          7.7533
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026sipbbo",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026sipbbo",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026sipbbo&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 39,
+        "ids": ",us7000ti2c,tx2026sipbbo,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 36,
+        "place": "40 km ESE of Malaga, New Mexico",
+        "rms": 0.2,
+        "sig": 112,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1789657456188,
+        "title": "M 2.7 - 40 km ESE of Malaga, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1789675141040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sipbbo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -171.071,
+          52.226,
+          111.2
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026slngie",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026slngie",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026slngie&format=geojson",
+        "dmin": 0.9,
+        "felt": null,
+        "gap": 205,
+        "ids": ",aka2026slngie,",
+        "mag": 3.9,
+        "magType": "ml",
+        "mmi": 1.86,
+        "net": "ak",
+        "nst": 57,
+        "place": "169 km WSW of Nikolski, Alaska",
+        "rms": 1,
+        "sig": 234,
+        "sources": ",ak,",
+        "status": "reviewed",
+        "time": 1789656402339,
+        "title": "M 3.9 - 169 km WSW of Nikolski, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789659882559,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slngie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -171.186,
+          52.372,
+          108.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026slmzxy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026slmzxy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026slmzxy&format=geojson",
+        "dmin": 0.9,
+        "felt": null,
+        "gap": 197,
+        "ids": ",aka2026slmzxy,",
+        "mag": 3.8,
+        "magType": "ml",
+        "mmi": 1.801,
+        "net": "ak",
+        "nst": 56,
+        "place": "169 km WSW of Nikolski, Alaska",
+        "rms": 0.8,
+        "sig": 222,
+        "sources": ",ak,",
+        "status": "reviewed",
+        "time": 1789655981720,
+        "title": "M 3.8 - 169 km WSW of Nikolski, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789659767301,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slmzxy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -170.7271,
+          51.6411,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ti2d",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ti2d",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ti2d&format=geojson",
+        "dmin": 1.255,
+        "felt": null,
+        "gap": 225,
+        "ids": ",aka2026slmvhn,us7000ti2d,",
+        "mag": 3.5,
+        "magType": "ml",
+        "mmi": 1.97,
+        "net": "us",
+        "nst": 19,
+        "place": "192 km SW of Nikolski, Alaska",
+        "rms": 0.92,
+        "sig": 188,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1789655655922,
+        "title": "M 3.5 - 192 km SW of Nikolski, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1789671282040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti2d"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1789683930000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}

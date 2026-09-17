@@ -1,5 +1,11 @@
 import requests
+import json #lets python save API response as a JSON file
+import os #constructs a path from query.py -> data folder
 from datetime import datetime #this is just so the time actually converts into something readable when requesting time
+
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
+
 #this script essentially just requests for any earthquakes with a minimum magnitude of 2.5
 #from the start point of 30 days ago to present with a limit of 10 earthquakes
 url = "https://earthquake.usgs.gov/fdsnws/event/1/query"
@@ -13,6 +19,13 @@ parameters = { #these are the parameters by which the api is following
 
 response = requests.get(url, params=parameters) #this is what initiates the request
 data = response.json()
+today_str = datetime.now().strftime("%Y-%m-%d")
+output_path = os.path.join(DATA_DIR, f"{today_str}_earthquake_query.json") #makes a dated filename inside DATA_DIR
+
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, indent=2, sort_keys=True)
+
+print(f"Successfully saved earthquake query to {output_path}")
 
 print(data.keys()) #shows the main sections in the data we requested form the api
 
