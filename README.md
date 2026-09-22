@@ -9,7 +9,9 @@
 **Connection:** Both calls use the earthquake event ID, so we can use the ID from the recent earthquake results to retrieve and connect the detailed information for the same earthquake.
 ## Sprint 1 Team Workflow
 
-- Project Manager: Danny Truong
+- Project Manager:
+Week 1: Danny Truong
+Week 2: Joshua Hanes
 - Approval Rotation: Joshua → Danny → Hira → Vishvag → Joshua
 - Tester: Vishvag
 
