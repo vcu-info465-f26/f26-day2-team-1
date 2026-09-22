@@ -1,0 +1,92 @@
+[
+  {
+    "depth_km": 10,
+    "id": "us7000tj1s",
+    "magnitude_type": "mb",
+    "significance": 416,
+    "stations": 47,
+    "status": "reviewed",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 5.21999979019165,
+    "id": "nc75439717",
+    "magnitude_type": "md",
+    "significance": 102,
+    "stations": 40,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 10.460000038147,
+    "id": "nc75439702",
+    "magnitude_type": "md",
+    "significance": 96,
+    "stations": 22,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 10,
+    "id": "us7000tj0z",
+    "magnitude_type": "mb",
+    "significance": 385,
+    "stations": 32,
+    "status": "reviewed",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 100.5,
+    "id": "aka2026stkjjp",
+    "magnitude_type": "ml",
+    "significance": 121,
+    "stations": 120,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 583.682,
+    "id": "us7000tj0r",
+    "magnitude_type": "mb",
+    "significance": 298,
+    "stations": 52,
+    "status": "reviewed",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 52,
+    "id": "aka2026stgwir",
+    "magnitude_type": "ml",
+    "significance": 148,
+    "stations": 63,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 30.8299999237061,
+    "id": "hv75041332",
+    "magnitude_type": "ml",
+    "significance": 109,
+    "stations": 55,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 5.65000009536743,
+    "id": "nc75439497",
+    "magnitude_type": "md",
+    "significance": 135,
+    "stations": 27,
+    "status": "automatic",
+    "tsunami": 0
+  },
+  {
+    "depth_km": 10,
+    "id": "us7000tizt",
+    "magnitude_type": "mb",
+    "significance": 312,
+    "stations": 43,
+    "status": "reviewed",
+    "tsunami": 0
+  }
+]

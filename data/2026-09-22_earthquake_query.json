@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -177.5544,
+    -56.4621,
+    5.2199997901917,
+    125.3746,
+    61.651,
+    583.682
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.3746,
+          4.5722,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tj1s",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tj1s",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tj1s&format=geojson",
+        "dmin": 2.489,
+        "felt": null,
+        "gap": 112,
+        "ids": ",us7000tj1s,",
+        "mag": 5.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 47,
+        "place": "92 km S of Sarangani, Philippines",
+        "rms": 0.98,
+        "sig": 416,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790034493824,
+        "title": "M 5.2 - 92 km S of Sarangani, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790035216040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.017669677734,
+          35.7215003967285,
+          5.21999979019165
+        ],
+        "type": "Point"
+      },
+      "id": "nc75439717",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "75439717",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75439717&format=geojson",
+        "dmin": 0.1065,
+        "felt": 1,
+        "gap": 77,
+        "ids": ",nc75439717,",
+        "mag": 2.57,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 40,
+        "place": "12 km W of Lake Nacimiento, CA",
+        "rms": 0.07,
+        "sig": 102,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1790032082630,
+        "title": "M 2.6 - 12 km W of Lake Nacimiento, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1790033843527,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439717"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.535835266113,
+          40.3035011291504,
+          10.460000038147
+        ],
+        "type": "Point"
+      },
+      "id": "nc75439702",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75439702",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75439702&format=geojson",
+        "dmin": 0.1737,
+        "felt": null,
+        "gap": 274,
+        "ids": ",nc75439702,",
+        "mag": 2.5,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 22,
+        "place": "21 km W of Petrolia, CA",
+        "rms": 0.17,
+        "sig": 96,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1790030511820,
+        "title": "M 2.5 - 21 km W of Petrolia, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1790036542847,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439702"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -23.969,
+          -56.4621,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tj0z",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tj0z",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tj0z&format=geojson",
+        "dmin": 7.46,
+        "felt": null,
+        "gap": 73,
+        "ids": ",us7000tj0z,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 32,
+        "place": "South Sandwich Islands region",
+        "rms": 0.61,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790026625134,
+        "title": "M 5.0 - South Sandwich Islands region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790027679040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.659,
+          61.651,
+          100.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026stkjjp",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "a2026stkjjp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026stkjjp&format=geojson",
+        "dmin": 0.2,
+        "felt": 1,
+        "gap": 35,
+        "ids": ",aka2026stkjjp,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 120,
+        "place": "40 km SSW of Skwentna, Alaska",
+        "rms": 0.6,
+        "sig": 121,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1790025468156,
+        "title": "M 2.8 - 40 km SSW of Skwentna, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1790029372116,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stkjjp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -177.5544,
+          -19.1407,
+          583.682
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tj0r",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tj0r",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tj0r&format=geojson",
+        "dmin": 3.949,
+        "felt": null,
+        "gap": 122,
+        "ids": ",us7000tj0r,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 52,
+        "place": "Fiji region",
+        "rms": 0.75,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790023995107,
+        "title": "M 4.4 - Fiji region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790024926040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0r"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.339,
+          56.675,
+          52
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026stgwir",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026stgwir",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026stgwir&format=geojson",
+        "dmin": 1,
+        "felt": null,
+        "gap": 187,
+        "ids": ",aka2026stgwir,",
+        "mag": 3.1,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 63,
+        "place": "77 km WSW of Akhiok, Alaska",
+        "rms": 0.5,
+        "sig": 148,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1790019167655,
+        "title": "M 3.1 - 77 km WSW of Akhiok, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790019449239,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026stgwir"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.512329101562,
+          19.1793327331543,
+          30.8299999237061
+        ],
+        "type": "Point"
+      },
+      "id": "hv75041332",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75041332",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75041332&format=geojson",
+        "dmin": 0.0531,
+        "felt": null,
+        "gap": 101,
+        "ids": ",us7000tizw,hv75041332,",
+        "mag": 2.66,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 55,
+        "place": "4 km SW of P\u0101hala, Hawaii",
+        "rms": 0.119999997,
+        "sig": 109,
+        "sources": ",us,hv,",
+        "status": "automatic",
+        "time": 1790017093210,
+        "title": "M 2.7 - 4 km SW of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790017468040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.529998779297,
+          40.2763328552246,
+          5.65000009536743
+        ],
+        "type": "Point"
+      },
+      "id": "nc75439497",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "75439497",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75439497&format=geojson",
+        "dmin": 0.1808,
+        "felt": 2,
+        "gap": 249,
+        "ids": ",nc75439497,us7000tizu,",
+        "mag": 2.96,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 27,
+        "place": "21 km WSW of Petrolia, CA",
+        "rms": 0.18,
+        "sig": 135,
+        "sources": ",nc,us,",
+        "status": "automatic",
+        "time": 1790016881390,
+        "title": "M 3.0 - 21 km WSW of Petrolia, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1790026040629,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439497"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.5116,
+          3.8759,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tizt",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "7000tizt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tizt&format=geojson",
+        "dmin": 1.528,
+        "felt": 1,
+        "gap": 103,
+        "ids": ",us7000tizt,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 43,
+        "place": "5 km SW of San Antonio, Colombia",
+        "rms": 0.53,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790016524774,
+        "title": "M 4.5 - 5 km SW of San Antonio, Colombia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1790023986911,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizt"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1790036850000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
