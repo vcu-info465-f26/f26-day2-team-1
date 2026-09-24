@@ -1,31 +1,33 @@
 import sqlite3
+from pathlib import Path
 
-# connects to the database
-connection = sqlite3.connect("project.db")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATABASE_PATH = PROJECT_ROOT / "project.db"
 
-# compares earthquakes based on their depth
 query = """
 SELECT
     CASE
-        WHEN d.depth_km < 40 THEN 'Shallow'
-        ELSE 'Deep'
+        WHEN d.depth_km < 30 THEN 'Shallow (< 30 km)'
+        ELSE 'Deep (>= 30 km)'
     END AS depth_group,
     COUNT(*) AS earthquake_count,
     AVG(d.significance) AS average_significance,
     AVG(e.magnitude) AS average_magnitude
-FROM earthquakes e
-JOIN earthquake_details d
+FROM earthquakes AS e
+INNER JOIN earthquake_details AS d
     ON e.id = d.event_id
-GROUP BY depth_group;
+WHERE d.depth_km IS NOT NULL
+  AND d.significance IS NOT NULL
+  AND e.magnitude IS NOT NULL
+GROUP BY depth_group
+ORDER BY CASE WHEN d.depth_km < 30 THEN 1 ELSE 2 END;
 """
 
-# runs the query and gets the results
-results = connection.execute(query).fetchall()
+with sqlite3.connect(DATABASE_PATH) as connection:
+    results = connection.execute(query).fetchall()
 
-print("Earthquake Depth Comparison")
-print()
+print("Earthquake Depth Comparison\n")
 
-# prints the results for each depth group
 for row in results:
     print("Group:", row[0])
     print("Count:", row[1])
@@ -33,19 +35,23 @@ for row in results:
     print("Average magnitude:", round(row[3], 2))
     print()
 
-# separates the shallow and deep results
-shallow = [row for row in results if row[0] == "Shallow"][0]
-deep = [row for row in results if row[0] == "Deep"][0]
+groups = {row[0]: row for row in results}
+shallow = groups.get("Shallow (< 30 km)")
+deep = groups.get("Deep (>= 30 km)")
 
 print("Conclusion:")
 
-# compares the average magnitude of the two groups
-if shallow[3] > deep[3]:
-    print("Shallow earthquakes had a higher average magnitude than deep earthquakes.")
-elif shallow[3] < deep[3]:
-    print("Deep earthquakes had a higher average magnitude than shallow earthquakes.")
-else:
-    print("Shallow and deep earthquakes had the same average magnitude.")
+if shallow and deep:
+    if shallow[2] > deep[2]:
+        print("Shallow earthquakes had higher average significance than deep earthquakes.")
+    elif shallow[2] < deep[2]:
+        print("Deep earthquakes had higher average significance than shallow earthquakes.")
+    else:
+        print("Shallow and deep earthquakes had the same average significance.")
 
-# closes the database connection
-connection.close()
+    print(
+        f"Average magnitude was {shallow[3]:.2f} for shallow earthquakes "
+        f"and {deep[3]:.2f} for deep earthquakes."
+    )
+else:
+    print("Only one depth group was present in the joined data.")
