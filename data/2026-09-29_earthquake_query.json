@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -174.0813,
+    -35.204,
+    2.2799999713898,
+    168.5924,
+    59.162,
+    157.801
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -122.424003601074,
+          38.3988342285156,
+          8.30000019073486
+        ],
+        "type": "Point"
+      },
+      "id": "nc75444432",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "75444432",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75444432&format=geojson",
+        "dmin": 0.0509,
+        "felt": 36,
+        "gap": 32,
+        "ids": ",nc75444432,",
+        "mag": 2.58,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 81,
+        "place": "6 km W of Yountville, CA",
+        "rms": 0.15,
+        "sig": 114,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1790697997410,
+        "title": "M 2.6 - 6 km W of Yountville, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1790700233142,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444432"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.0495,
+          -8.7834,
+          157.801
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tyc9",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000tyc9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tyc9&format=geojson",
+        "dmin": 5.676,
+        "felt": null,
+        "gap": 110,
+        "ids": ",us6000tyc9,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 30,
+        "place": "58 km NW of Pante Makasar, Timor Leste",
+        "rms": 0.87,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790691246077,
+        "title": "M 5.0 - 58 km NW of Pante Makasar, Timor Leste",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790694934040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -16.1859,
+          -35.204,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tyc3",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "6000tyc3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tyc3&format=geojson",
+        "dmin": 3.643,
+        "felt": null,
+        "gap": 27,
+        "ids": ",us6000tyc3,",
+        "mag": 5.6,
+        "magType": "mww",
+        "mmi": 0,
+        "net": "us",
+        "nst": 131,
+        "place": "southern Mid-Atlantic Ridge",
+        "rms": 0.78,
+        "sig": 482,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790687170191,
+        "title": "M 5.6 - southern Mid-Atlantic Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1790694771453,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -174.0813,
+          -20.6773,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tyc1",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "6000tyc1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tyc1&format=geojson",
+        "dmin": 7.483,
+        "felt": null,
+        "gap": 182,
+        "ids": ",us6000tyc1,",
+        "mag": 5.4,
+        "magType": "mb",
+        "mmi": 3.709,
+        "net": "us",
+        "nst": 43,
+        "place": "99 km SSE of Pangai, Tonga",
+        "rms": 1.12,
+        "sig": 449,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790685635064,
+        "title": "M 5.4 - 99 km SSE of Pangai, Tonga",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1790693239014,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.605003356934,
+          37.3976669311523,
+          8.59000015258789
+        ],
+        "type": "Point"
+      },
+      "id": "nc75444342",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75444342",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75444342&format=geojson",
+        "dmin": 0.1436,
+        "felt": null,
+        "gap": 129,
+        "ids": ",nc75444342,nn00925030,",
+        "mag": 2.51,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 20,
+        "place": "2 km SSW of Round Valley, CA",
+        "rms": 0.08,
+        "sig": 97,
+        "sources": ",nc,nn,",
+        "status": "automatic",
+        "time": 1790684324820,
+        "title": "M 2.5 - 2 km SSW of Round Valley, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1790697465911,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -125.459831237793,
+          40.4329986572266,
+          2.27999997138977
+        ],
+        "type": "Point"
+      },
+      "id": "nc75444322",
+      "properties": {
+        "alert": "green",
+        "cdi": 2.7,
+        "code": "75444322",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75444322&format=geojson",
+        "dmin": 0.8575,
+        "felt": 15,
+        "gap": 236,
+        "ids": ",ew1790681810,nc75444322,us6000tybt,",
+        "mag": 4.73,
+        "magType": "mw",
+        "mmi": 2.219,
+        "net": "nc",
+        "nst": 192,
+        "place": "100 km W of Petrolia, CA",
+        "rms": 0.48,
+        "sig": 348,
+        "sources": ",ew,nc,us,",
+        "status": "reviewed",
+        "time": 1790681797910,
+        "title": "M 4.7 - 100 km W of Petrolia, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,event-sequence,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+        "tz": null,
+        "updated": 1790699367316,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          167.5446,
+          -18.2306,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tybs",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000tybs",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tybs&format=geojson",
+        "dmin": 3.845,
+        "felt": null,
+        "gap": 115,
+        "ids": ",us6000tybs,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 26,
+        "place": "98 km SW of Port-Vila, Vanuatu",
+        "rms": 1.09,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790681268406,
+        "title": "M 4.8 - 98 km SW of Port-Vila, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790682345040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.5924,
+          -21.3447,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tybr",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000tybr",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tybr&format=geojson",
+        "dmin": 1.65,
+        "felt": null,
+        "gap": 93,
+        "ids": ",us6000tybr,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 31,
+        "place": "77 km ENE of Tadine, New Caledonia",
+        "rms": 0.55,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790678577409,
+        "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790679559040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -153.117,
+          59.162,
+          74.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026thiuub",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026thiuub",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026thiuub&format=geojson",
+        "dmin": 0.7,
+        "felt": null,
+        "gap": 222,
+        "ids": ",aka2026thiuub,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 55,
+        "place": "71 km WSW of Nanwalek, Alaska",
+        "rms": 1,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1790677563088,
+        "title": "M 2.5 - 71 km WSW of Nanwalek, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790677818975,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026thiuub"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -161.5901,
+          54.66,
+          49.875
+        ],
+        "type": "Point"
+      },
+      "id": "us6000tybl",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000tybl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000tybl&format=geojson",
+        "dmin": 0.877,
+        "felt": null,
+        "gap": 179,
+        "ids": ",us6000tybl,aka2026thitnz,",
+        "mag": 4,
+        "magType": "mb",
+        "mmi": 2.431,
+        "net": "us",
+        "nst": 37,
+        "place": "64 km SE of King Cove, Alaska",
+        "rms": 0.54,
+        "sig": 246,
+        "sources": ",us,ak,",
+        "status": "reviewed",
+        "time": 1790677477599,
+        "title": "M 4.0 - 64 km SE of King Cove, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1790680115040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybl"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1790700390000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
