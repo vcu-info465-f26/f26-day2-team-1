@@ -7,14 +7,28 @@
 **Endpoint 2:** Specific earthquake detail query using the USGS FDSN Event query service with an earthquake event ID.
 
 **Connection:** Both calls use the earthquake event ID, so we can use the ID from the recent earthquake results to retrieve and connect the detailed information for the same earthquake.
-## Sprint 1 Team Workflow
 
-- Project Manager:
-Week 1: Danny Truong
-Week 2: Joshua Hanes
+## Sprint 1 Roles
+
+### Program Manager 
+- Week 1: Danny Truong
+- Week 2: Joshua Hanes
 - Approval Rotation: Joshua → Danny → Hira → Vishvag → Joshua
 - Tester: Vishvag
 
 ## Sprint 1 Statement
 
 By September 24, we can answer one real question about whether shallow earthquakes feel stronger than deeper ones by running a SQL query across data our own code has been collecting since September 10.
+
+## Sprint 2 Roles
+
+### Program Manager
+- Week 1, Sept. 24–Oct. 1: [Hira]
+- Week 2, Oct. 2–Oct. 8: [Vishvag]
+- Week 3, Oct. 9–Oct. 15: [Joshua]
+
+### Reviewer ring
+Joshua → Danny → Hira → Vishvag → Joshua
+
+### Tester
+[Danny]

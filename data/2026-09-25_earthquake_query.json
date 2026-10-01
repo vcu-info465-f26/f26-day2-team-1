@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -149.943,
+    -6.0863,
+    3.014,
+    152.2767,
+    63.084,
+    93.994
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          147.3935,
+          -6.0863,
+          53.586
+        ],
+        "type": "Point"
+      },
+      "id": "us6000txhp",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000txhp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000txhp&format=geojson",
+        "dmin": 3.305,
+        "felt": null,
+        "gap": 43,
+        "ids": ",us6000txhp,",
+        "mag": 5.3,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 57,
+        "place": "72 km NW of Finschhafen, Papua New Guinea",
+        "rms": 0.91,
+        "sig": 432,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790292628053,
+        "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790293735040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.908666666667,
+          41.7891666666667,
+          13.05
+        ],
+        "type": "Point"
+      },
+      "id": "uu80157946",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "80157946",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80157946&format=geojson",
+        "dmin": 0.7075,
+        "felt": null,
+        "gap": 231,
+        "ids": ",uu80157946,",
+        "mag": 3.04,
+        "magType": "ml",
+        "mmi": null,
+        "net": "uu",
+        "nst": 11,
+        "place": "6 km ENE of Superior, Wyoming",
+        "rms": 0.27,
+        "sig": 142,
+        "sources": ",uu,",
+        "status": "reviewed",
+        "time": 1790285657230,
+        "title": "M 3.0 - 6 km ENE of Superior, Wyoming",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790287477030,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157946"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.9596666666667,
+          17.9326666666667,
+          7.71
+        ],
+        "type": "Point"
+      },
+      "id": "pr71534443",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71534443",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71534443&format=geojson",
+        "dmin": 0.08738,
+        "felt": null,
+        "gap": 227,
+        "ids": ",pr71534443,",
+        "mag": 2.65,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 8,
+        "place": "6 km SW of Gu\u00e1nica, Puerto Rico",
+        "rms": 0.11,
+        "sig": 108,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1790284905340,
+        "title": "M 2.7 - 6 km SW of Gu\u00e1nica, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790286921280,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534443"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.746,
+          31.676,
+          4.9072
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026svwvaw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026svwvaw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026svwvaw&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 59,
+        "ids": ",us6000txgl,tx2026svwvaw,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 19,
+        "place": "32 km SW of Garden City, Texas",
+        "rms": 0.1,
+        "sig": 121,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1790283421030,
+        "title": "M 2.8 - 32 km SW of Garden City, Texas",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790286598040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svwvaw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.74,
+          31.671,
+          5.4932
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026svwaxy",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "2026svwaxy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026svwaxy&format=geojson",
+        "dmin": 0,
+        "felt": 1,
+        "gap": 59,
+        "ids": ",us6000txgd,tx2026svwaxy,",
+        "mag": 3.2,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 26,
+        "place": "32 km SW of Garden City, Texas",
+        "rms": 0.1,
+        "sig": 158,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1790282001651,
+        "title": "M 3.2 - 32 km SW of Garden City, Texas",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1790285315138,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026svwaxy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -149.943,
+          63.084,
+          85.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026sywlqq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026sywlqq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026sywlqq&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 30,
+        "ids": ",us6000txg8,aka2026sywlqq,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 92,
+        "place": "60 km SW of Cantwell, Alaska",
+        "rms": 0.8,
+        "sig": 104,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1790281107490,
+        "title": "M 2.6 - 60 km SW of Cantwell, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790286346040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sywlqq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.5357,
+          1.9132,
+          48.469
+        ],
+        "type": "Point"
+      },
+      "id": "us6000txg5",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000txg5",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000txg5&format=geojson",
+        "dmin": 9.658,
+        "felt": null,
+        "gap": 77,
+        "ids": ",us6000txg5,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 62,
+        "place": "155 km NW of Ternate, Indonesia",
+        "rms": 0.99,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790280325988,
+        "title": "M 4.6 - 155 km NW of Ternate, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790286075040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txg5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.2767,
+          -4.6356,
+          93.994
+        ],
+        "type": "Point"
+      },
+      "id": "us6000txf9",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000txf9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000txf9&format=geojson",
+        "dmin": 0.456,
+        "felt": null,
+        "gap": 86,
+        "ids": ",us6000txf9,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 65,
+        "place": "32 km S of Kokopo, Papua New Guinea",
+        "rms": 0.89,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790272847703,
+        "title": "M 5.1 - 32 km S of Kokopo, Papua New Guinea",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790273876040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.91,
+          18.7776666666667,
+          20.14
+        ],
+        "type": "Point"
+      },
+      "id": "pr71534418",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71534418",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71534418&format=geojson",
+        "dmin": 0.5176,
+        "felt": null,
+        "gap": 203,
+        "ids": ",pr71534418,",
+        "mag": 3.04,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 6,
+        "place": "56 km ENE of Punta Cana, Dominican Republic",
+        "rms": 0.29,
+        "sig": 142,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1790272649290,
+        "title": "M 3.0 - 56 km ENE of Punta Cana, Dominican Republic",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790275723320,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534418"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.6362,
+          32.5187,
+          3.014
+        ],
+        "type": "Point"
+      },
+      "id": "us6000txf7",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000txf7",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000txf7&format=geojson",
+        "dmin": 0.086,
+        "felt": null,
+        "gap": 78,
+        "ids": ",us6000txf7,",
+        "mag": 3.4,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 34,
+        "place": "33 km SSE of Hope, New Mexico",
+        "rms": 0.23,
+        "sig": 178,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1790272573809,
+        "title": "M 3.4 - 33 km SSE of Hope, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1790273640040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf7"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1790294860000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
