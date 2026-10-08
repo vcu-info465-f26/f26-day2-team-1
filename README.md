@@ -27,7 +27,7 @@ By September 24, we can answer one real question about whether shallow earthquak
 - Week 2, Oct. 2–Oct. 8: [Vishvag]
 - Week 3, Oct. 9–Oct. 15: [Joshua]
 
-### Reviewer ring
+### Reviewer Ring
 Joshua → Danny → Hira → Vishvag → Joshua
 
 ### Tester

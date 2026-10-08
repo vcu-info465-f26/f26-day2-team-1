@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -172.833,
+    -22.196,
+    5,
+    154.8085,
+    58.802,
+    525.781
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -153.609,
+          58.802,
+          87.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026tuxgky",
+      "properties": {
+        "alert": "green",
+        "cdi": 4.6,
+        "code": "a2026tuxgky",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026tuxgky&format=geojson",
+        "dmin": 0.1,
+        "felt": 289,
+        "gap": 67,
+        "ids": ",aka2026tuxgky,us6000u0ju,",
+        "mag": 5.5,
+        "magType": "ml",
+        "mmi": 4.215,
+        "net": "ak",
+        "nst": 121,
+        "place": "92 km NNW of Aleneva, Alaska",
+        "rms": 0.5,
+        "sig": 598,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1791311671760,
+        "title": "M 5.5 - 92 km NNW of Aleneva, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,event-sequence,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791314076819,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.2731,
+          38.9117,
+          8.4359
+        ],
+        "type": "Point"
+      },
+      "id": "nn00925376",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "00925376",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00925376&format=geojson",
+        "dmin": 0.368,
+        "felt": null,
+        "gap": 226,
+        "ids": ",nn00925376,",
+        "mag": 2.81,
+        "magType": "ml",
+        "mmi": null,
+        "net": "nn",
+        "nst": 3,
+        "place": "18 km W of Preston, Nevada",
+        "rms": 0.2136,
+        "sig": 121,
+        "sources": ",nn,",
+        "status": "reviewed",
+        "time": 1791308622249,
+        "title": "M 2.8 - 18 km W of Preston, Nevada",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791309519322,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925376"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -157.483,
+          56.065,
+          26.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026tuvccy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026tuvccy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026tuvccy&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 249,
+        "ids": ",aka2026tuvccy,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 15,
+        "place": "62 km ESE of Chignik, Alaska",
+        "rms": 0.5,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1791307778354,
+        "title": "M 2.5 - 62 km ESE of Chignik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791307846532,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuvccy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.6148,
+          30.1171,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u0hz",
+      "properties": {
+        "alert": "green",
+        "cdi": 4.6,
+        "code": "6000u0hz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u0hz&format=geojson",
+        "dmin": 6.444,
+        "felt": 45,
+        "gap": 125,
+        "ids": ",us6000u0hz,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": 5.32,
+        "net": "us",
+        "nst": 70,
+        "place": "34 km NNW of B\u0101geshwar, India",
+        "rms": 0.63,
+        "sig": 421,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791305591296,
+        "title": "M 5.1 - 34 km NNW of B\u0101geshwar, India",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,ground-failure,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791313172445,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          154.8085,
+          48.4554,
+          26.047
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u0hy",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "6000u0hy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u0hy&format=geojson",
+        "dmin": 5.006,
+        "felt": null,
+        "gap": 47,
+        "ids": ",usauto6000u0hy,us6000u0hy,",
+        "mag": 5.9,
+        "magType": "mww",
+        "mmi": 3.825,
+        "net": "us",
+        "nst": 216,
+        "place": "264 km SSW of Severo-Kuril\u2019sk, Russia",
+        "rms": 0.67,
+        "sig": 536,
+        "sources": ",usauto,us,",
+        "status": "reviewed",
+        "time": 1791305301805,
+        "title": "M 5.9 - 264 km SSW of Severo-Kuril\u2019sk, Russia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",internal-moment-tensor,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791312832600,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -63.6857,
+          -22.196,
+          525.781
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u0d2",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u0d2",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u0d2&format=geojson",
+        "dmin": 3.623,
+        "felt": null,
+        "gap": 47,
+        "ids": ",us6000u0d2,",
+        "mag": 4.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 48,
+        "place": "19 km S of Yacuiba, Bolivia",
+        "rms": 0.66,
+        "sig": 259,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791302244056,
+        "title": "M 4.1 - 19 km S of Yacuiba, Bolivia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791309572040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0d2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.0446666666667,
+          18.4088333333333,
+          112.96
+        ],
+        "type": "Point"
+      },
+      "id": "pr71535908",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71535908",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71535908&format=geojson",
+        "dmin": 0.1059,
+        "felt": null,
+        "gap": 172,
+        "ids": ",us6000u07a,pr71535908,",
+        "mag": 3.07,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 21,
+        "place": "7 km NNW of Trujillo Alto, Puerto Rico",
+        "rms": 0.16,
+        "sig": 145,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1791301326800,
+        "title": "M 3.1 - 7 km NNW of Trujillo Alto, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791305633310,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535908"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.3385,
+          38.9946,
+          5
+        ],
+        "type": "Point"
+      },
+      "id": "nn00925363",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "00925363",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00925363&format=geojson",
+        "dmin": 0.398,
+        "felt": null,
+        "gap": 214,
+        "ids": ",nn00925363,us6000u054,",
+        "mag": 3.45,
+        "magType": "mwr",
+        "mmi": 3.483,
+        "net": "nn",
+        "nst": 7,
+        "place": "25 km WNW of Preston, Nevada",
+        "rms": 0.1799,
+        "sig": 183,
+        "sources": ",nn,us,",
+        "status": "reviewed",
+        "time": 1791300869755,
+        "title": "M 3.5 - 25 km WNW of Preston, Nevada",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791308264792,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925363"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.295,
+          -6.6864,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u01m",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u01m",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u01m&format=geojson",
+        "dmin": 0.738,
+        "felt": null,
+        "gap": 49,
+        "ids": ",us6000u01m,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 92,
+        "place": "Chagos Archipelago region",
+        "rms": 0.6,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791299529822,
+        "title": "M 4.7 - Chagos Archipelago region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791303185040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u01m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -172.833,
+          50.5237,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u0jh",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u0jh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u0jh&format=geojson",
+        "dmin": 1.885,
+        "felt": null,
+        "gap": 200,
+        "ids": ",aka2026tuowca,us6000u0jh,",
+        "mag": 3.9,
+        "magType": "mb",
+        "mmi": 1.22,
+        "net": "us",
+        "nst": 50,
+        "place": "209 km SSE of Atka, Alaska",
+        "rms": 1.18,
+        "sig": 234,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1791296546014,
+        "title": "M 3.9 - 209 km SSE of Atka, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791312284040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0jh"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.7.0",
+    "generated": 1791314269000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
