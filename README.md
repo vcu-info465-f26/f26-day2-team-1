@@ -36,4 +36,4 @@ Joshua → Danny → Hira → Vishvag → Joshua
 ## Sprint 2 Dashboard
 Public dashboard: https://f26-day2-team-1-itrbe4l8dsa5dbcui2bgpv.streamlit.app/
 
-From the repository root, install dependencies with `pip install -r requirements.txt`, then run `streamlit run src/app.py`.
+From the repository root, install dependencies with: `pip install -r requirements.txt`, then run: `streamlit run src/app.py`.
