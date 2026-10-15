@@ -1,22 +1,18 @@
 # Streamlit dashboard entry point.
-# This file imports the chart and data functions, then displays them together.
+# Imports the data and chart functions, then displays them together.
 
 import streamlit as st
 
-# build_db.py turns committed JSON snapshots in data/ into project.db.
 from build_db import main as rebuild_database
-
-# Import dashboard modules.
 from comparison_plot import make_comparison_plot
 from data_queries import filter_by_magnitude, load_earthquake_data
-from map_plot import make_map
+from map import make_map
 from time_plot import make_time_plot
 
 
-# Configure the browser tab title and use the full page width.
 st.set_page_config(page_title="Earthquake Dashboard", layout="wide")
 
-# Make regular page text, sidebar controls, and the displayed table easier to read.
+# Make page text and sidebar controls easier to read.
 st.markdown(
     """
     <style>
@@ -56,21 +52,13 @@ st.markdown(
 
 @st.cache_resource
 def build_dashboard_database():
-    """
-    Build project.db once per app session.
-
-    project.db is ignored by Git, so this creates it locally from the
-    committed JSON snapshots in data/.
-    """
+    """Build project.db from committed snapshots once per cached app startup."""
     rebuild_database()
 
 
 @st.cache_data
 def get_dashboard_data():
-    """
-    Load and cache the dataframe so the database is not queried again
-    every time a visitor changes the sidebar filter.
-    """
+    """Cache the dataframe so filters do not repeatedly query the database."""
     return load_earthquake_data()
 
 
@@ -78,14 +66,13 @@ def get_dashboard_data():
 build_dashboard_database()
 dataframe = get_dashboard_data()
 
-# Dashboard heading and introduction.
 st.title("Earthquake Depth and Significance Dashboard")
 st.write(
-    "Explore how earthquake magnitude, depth, and USGS significance appear in "
-    "our collected USGS earthquake snapshots."
+    "Explore where earthquakes happen, how large they are, "
+    "and how their significance compares at different depths."
 )
 
-# One readable, shared key for every visualization on the page.
+# Shared depth key uses the same colors as every chart.
 st.markdown(
     """
     <div class="depth-key">
@@ -94,12 +81,17 @@ st.markdown(
         <span class="deep-dot">●</span> <strong>Deep:</strong> ≥ 30 km deep
     </div>
     <style>
-        .depth-key { font-size: 1.2rem; margin-bottom: 1rem; }
+        .depth-key {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
         .shallow-dot, .deep-dot {
             font-size: 1.35rem;
             vertical-align: -0.08em;
             margin-left: 1rem;
         }
+
         .shallow-dot { color: #7EC8FF; }
         .deep-dot { color: #1673D1; }
     </style>
@@ -107,11 +99,10 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Get the minimum and maximum magnitudes in the real data.
+# Get slider limits from the actual data.
 minimum_magnitude = float(dataframe["magnitude"].min())
 maximum_magnitude = float(dataframe["magnitude"].max())
 
-# Sidebar slider filters earthquakes by a selected magnitude range.
 selected_range = st.sidebar.slider(
     "Magnitude Range",
     min_value=minimum_magnitude,
@@ -119,24 +110,24 @@ selected_range = st.sidebar.slider(
     value=(minimum_magnitude, maximum_magnitude),
 )
 
-# Apply the selected magnitude range to all visualizations and the dataframe.
 filtered_dataframe = filter_by_magnitude(dataframe, selected_range)
+
 selected_status = st.sidebar.selectbox(
     "USGS Review Status",
     ["All", "Reviewed", "Automatic"],
 )
 
+# Apply the status filter after the magnitude filter.
 if selected_status != "All":
     filtered_dataframe = filtered_dataframe[
         filtered_dataframe["status"].str.lower() == selected_status.lower()
     ]
 
-# Prevent errors when a filter produces no matching earthquakes.
 if filtered_dataframe.empty:
     st.warning("No earthquakes match the selected magnitude range.")
 
 else:
-    # Put the first two charts beside each other with a clear visual gap.
+    # Place both charts beside each other with extra spacing.
     left_column, right_column = st.columns(2, gap="large")
 
     with left_column:
@@ -151,13 +142,12 @@ else:
             use_container_width=True,
         )
 
-    # Show the map below both charts across the full page width.
+    # The map sits below both charts and uses the same filtered data.
     st.plotly_chart(
         make_map(filtered_dataframe),
         use_container_width=True,
     )
 
-    # Show the actual data records behind the visualizations.
     st.subheader("Earthquake Dataframe")
 
     displayed_columns = [
@@ -170,9 +160,10 @@ else:
         "status",
     ]
 
-    # Convert only the table's numeric values to text so they are left-aligned.
-    # The original numeric dataframe is still used by all filters and charts.
+    # Convert only the displayed numeric columns to text for left alignment.
+    # The original numeric data is still used by the filters and charts.
     displayed_dataframe = filtered_dataframe[displayed_columns].copy()
+
     for column in ["magnitude", "depth_km", "significance"]:
         displayed_dataframe[column] = displayed_dataframe[column].map(
             lambda value: f"{value:g}"
