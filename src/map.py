@@ -1,4 +1,4 @@
-# This file creates an interactive earthquake location map.
+# Creates an interactive earthquake location map.
 
 import plotly.express as px
 
@@ -6,29 +6,29 @@ import plotly.express as px
 def make_map(dataframe):
     """
     Create a full-width interactive map.
-
     Marker size represents magnitude.
-    Marker color represents shallow versus deep earthquakes.
+    Marker color represents depth group.
     """
 
     figure = px.scatter_map(
         dataframe,
 
-        # Latitude and longitude place earthquakes on the map.
+        # Place earthquakes using their actual coordinates.
         lat="latitude",
         lon="longitude",
 
-        # Marker size represents earthquake magnitude.
+        # Larger markers represent larger magnitudes.
         size="magnitude",
         size_max=28,
 
-        # Marker color separates shallow and deep earthquakes.
+        # Keep depth colors consistent with the other charts and shared key.
         color="depth_group",
+        color_discrete_map={
+            "Shallow (< 30 km)": "#7EC8FF",
+            "Deep (>= 30 km)": "#1673D1",
+        },
 
-        # Location is the main hover label.
         hover_name="location",
-
-        # information displayed when hovering
         hover_data={
             "magnitude": ":.2f",
             "depth_km": ":.1f",
@@ -37,7 +37,6 @@ def make_map(dataframe):
             "latitude": False,
             "longitude": False,
         },
-
         labels={
             "depth_group": "Depth group",
             "magnitude": "Magnitude",
@@ -46,17 +45,16 @@ def make_map(dataframe):
             "event_time": "Event time",
         },
 
-        # map style
+        # Dark map tiles that do not require an API key.
         map_style="carto-darkmatter",
 
-        # map centering
+        # Set the initial map view.
         zoom=1.55,
         center={"lat": 20, "lon": 0},
 
         title="Locations of Earthquakes",
     )
 
-    # map sizing
     figure.update_layout(
         height=520,
         margin={"r": 0, "t": 55, "l": 0, "b": 0},
@@ -65,4 +63,5 @@ def make_map(dataframe):
         title_font=dict(size=25),
         hoverlabel=dict(font_size=18),
     )
+
     return figure

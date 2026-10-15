@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -156.198,
+    -20.0692,
+    0.1,
+    -67.944833333333,
+    66.664,
+    111.7
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -67.9448333333333,
+          18.9758333333333,
+          10.42
+        ],
+        "type": "Point"
+      },
+      "id": "pr71536828",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71536828",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71536828&format=geojson",
+        "dmin": 0.6176,
+        "felt": null,
+        "gap": 178,
+        "ids": ",pr71536828,",
+        "mag": 3.44,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 18,
+        "place": "65 km NE of Punta Cana, Dominican Republic",
+        "rms": 0.31,
+        "sig": 182,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1792098748970,
+        "title": "M 3.4 - 65 km NE of Punta Cana, Dominican Republic",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792100428750,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536828"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.8178,
+          13.9013,
+          59.487
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u2kz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u2kz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u2kz&format=geojson",
+        "dmin": 1.979,
+        "felt": null,
+        "gap": 179,
+        "ids": ",us6000u2kz,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 98,
+        "place": "44 km SSE of Champerico, Guatemala",
+        "rms": 0.89,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792096765755,
+        "title": "M 4.5 - 44 km SSE of Champerico, Guatemala",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792097955040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.6992,
+          -20.0692,
+          72.177
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u2kw",
+      "properties": {
+        "alert": null,
+        "cdi": 3.3,
+        "code": "6000u2kw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u2kw&format=geojson",
+        "dmin": 0.452,
+        "felt": 6,
+        "gap": 96,
+        "ids": ",us6000u2kw,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 34,
+        "place": "11 km SE of Huara, Chile",
+        "rms": 0.69,
+        "sig": 286,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792095920509,
+        "title": "M 4.3 - 11 km SE of Huara, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792101208863,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.198,
+          57.083,
+          0.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026ulqgjv",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026ulqgjv",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ulqgjv&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 74,
+        "ids": ",us6000u2kn,aka2026ulqgjv,",
+        "mag": 2.9,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 41,
+        "place": "86 km SE of Ugashik, Alaska",
+        "rms": 0.8,
+        "sig": 129,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1792094317884,
+        "title": "M 2.9 - 86 km SE of Ugashik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792097388040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulqgjv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -146.915,
+          66.664,
+          1.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026ulpwbm",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026ulpwbm",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ulpwbm&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 28,
+        "ids": ",us6000u2km,aka2026ulpwbm,",
+        "mag": 3.6,
+        "magType": "ml",
+        "mmi": 3.73,
+        "net": "ak",
+        "nst": 90,
+        "place": "40 km NNE of Beaver, Alaska",
+        "rms": 1.1,
+        "sig": 199,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1792093601894,
+        "title": "M 3.6 - 40 km NNE of Beaver, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1792097213040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpwbm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.84,
+          60.018,
+          111.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026ulpmpu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026ulpmpu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ulpmpu&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 66,
+        "ids": ",us6000u2kk,aka2026ulpmpu,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 80,
+        "place": "62 km W of Happy Valley, Alaska",
+        "rms": 0.6,
+        "sig": 112,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1792092947176,
+        "title": "M 2.7 - 62 km W of Happy Valley, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792093630040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulpmpu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.460502624512,
+          36.988166809082,
+          5.13000011444092
+        ],
+        "type": "Point"
+      },
+      "id": "nc75449961",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "75449961",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75449961&format=geojson",
+        "dmin": 0.04182,
+        "felt": 2,
+        "gap": 60,
+        "ids": ",nc75449961,",
+        "mag": 2.54,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 67,
+        "place": "10 km ESE of Gilroy, CA",
+        "rms": 0.13,
+        "sig": 100,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1792087052790,
+        "title": "M 2.5 - 10 km ESE of Gilroy, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1792095629547,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449961"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.023,
+          60.273,
+          54.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026ulmeki",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "a2026ulmeki",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ulmeki&format=geojson",
+        "dmin": 0.5,
+        "felt": 1,
+        "gap": 63,
+        "ids": ",aka2026ulmeki,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 35,
+        "place": "15 km ESE of Kasilof, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1792086992715,
+        "title": "M 2.5 - 15 km ESE of Kasilof, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792087985178,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulmeki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.434997558594,
+          40.3370018005371,
+          19.6200008392334
+        ],
+        "type": "Point"
+      },
+      "id": "nc75449946",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75449946",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75449946&format=geojson",
+        "dmin": null,
+        "felt": null,
+        "gap": 269,
+        "ids": ",nc75449946,",
+        "mag": 2.95,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 23,
+        "place": "13 km W of Petrolia, CA",
+        "rms": 0.15,
+        "sig": 134,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1792085132550,
+        "title": "M 3.0 - 13 km W of Petrolia, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1792086447373,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449946"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.284,
+          64.174,
+          14
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026ulkzip",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026ulkzip",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ulkzip&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 41,
+        "ids": ",us6000u2k1,aka2026ulkzip,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 39,
+        "place": "59 km ENE of Lake Minchumina, Alaska",
+        "rms": 1,
+        "sig": 121,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1792084831535,
+        "title": "M 2.8 - 59 km ENE of Lake Minchumina, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792090873040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulkzip"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.1",
+    "generated": 1792101393000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
