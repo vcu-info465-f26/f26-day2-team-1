@@ -1,4 +1,5 @@
 
+from matplotlib.pyplot import figure
 import plotly.express as px
 
 

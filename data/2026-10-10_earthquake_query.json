@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -157.108,
+    7.1444,
+    10,
+    157.5832,
+    64.712,
+    79.2
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -79.8903,
+          7.1444,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1b3",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "6000u1b3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1b3&format=geojson",
+        "dmin": 2.01,
+        "felt": 1,
+        "gap": 190,
+        "ids": ",us6000u1b3,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 36,
+        "place": "45 km SSE of Pedas\u00ed, Panama",
+        "rms": 0.89,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791590062924,
+        "title": "M 4.5 - 45 km SSE of Pedas\u00ed, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1791593602993,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -149.635,
+          64.712,
+          16.3
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026uavhxe",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026uavhxe",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026uavhxe&format=geojson",
+        "dmin": 0.3,
+        "felt": null,
+        "gap": 33,
+        "ids": ",us6000u1b0,aka2026uavhxe,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 33,
+        "place": "27 km WNW of Four Mile Road, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1791588852188,
+        "title": "M 2.5 - 27 km WNW of Four Mile Road, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791591079040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uavhxe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.4005,
+          7.6651,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1az",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "6000u1az",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1az&format=geojson",
+        "dmin": 2.149,
+        "felt": 3,
+        "gap": 133,
+        "ids": ",us6000u1az,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 56,
+        "place": "9 km SW of R\u00edo Grande, Panama",
+        "rms": 0.72,
+        "sig": 370,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791588193082,
+        "title": "M 4.9 - 9 km SW of R\u00edo Grande, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1791590527029,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1az"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.0968,
+          7.4366,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1ay",
+      "properties": {
+        "alert": "green",
+        "cdi": 5.3,
+        "code": "6000u1ay",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1ay&format=geojson",
+        "dmin": 1.738,
+        "felt": 3,
+        "gap": 53,
+        "ids": ",us6000u1ay,",
+        "mag": 5.4,
+        "magType": "mb",
+        "mmi": 6.661,
+        "net": "us",
+        "nst": 105,
+        "place": "9 km SSE of Los Asientos, Panama",
+        "rms": 1.53,
+        "sig": 450,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791587557790,
+        "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,ground-failure,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1791589348769,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.5284,
+          7.3962,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1ax",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u1ax",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1ax&format=geojson",
+        "dmin": 1.887,
+        "felt": null,
+        "gap": 73,
+        "ids": ",us6000u1ax,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 58,
+        "place": "8 km ESE of La Tronosa, Panama",
+        "rms": 1.13,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791587402875,
+        "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791589087040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ax"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -157.108,
+          56.402,
+          79.2
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026uasrgd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026uasrgd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026uasrgd&format=geojson",
+        "dmin": 0.7,
+        "felt": null,
+        "gap": 164,
+        "ids": ",us6000u1an,aka2026uasrgd,",
+        "mag": 3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 58,
+        "place": "81 km E of Chignik, Alaska",
+        "rms": 0.6,
+        "sig": 138,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1791584109665,
+        "title": "M 3.0 - 81 km E of Chignik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791586383040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uasrgd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.319,
+          7.7551,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1ai",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "6000u1ai",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1ai&format=geojson",
+        "dmin": 2.028,
+        "felt": 1,
+        "gap": 130,
+        "ids": ",us6000u1ai,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 30,
+        "place": "4 km NNE of R\u00edo Grande, Panama",
+        "rms": 0.66,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791582469913,
+        "title": "M 4.6 - 4 km NNE of R\u00edo Grande, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1791590337909,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          157.5832,
+          52.0441,
+          78.277
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1ah",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u1ah",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1ah&format=geojson",
+        "dmin": 1.068,
+        "felt": null,
+        "gap": 137,
+        "ids": ",us6000u1ah,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 38,
+        "place": "96 km NE of Ozernovskiy, Russia",
+        "rms": 0.69,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791580756481,
+        "title": "M 4.6 - 96 km NE of Ozernovskiy, Russia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791584055040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ah"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.452,
+          7.7299,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1a9",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u1a9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1a9&format=geojson",
+        "dmin": 2.142,
+        "felt": null,
+        "gap": 129,
+        "ids": ",us6000u1a9,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 37,
+        "place": "13 km W of R\u00edo Grande, Panama",
+        "rms": 0.79,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791579925304,
+        "title": "M 4.9 - 13 km W of R\u00edo Grande, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791582829040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.467,
+          7.8349,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u1a6",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u1a6",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u1a6&format=geojson",
+        "dmin": 2.085,
+        "felt": null,
+        "gap": 136,
+        "ids": ",us6000u1a6,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 30,
+        "place": "16 km SSW of Calidonia, Panama",
+        "rms": 1.16,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1791579296367,
+        "title": "M 4.9 - 16 km SSW of Calidonia, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1791584313040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1a6"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.1",
+    "generated": 1791594732000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
