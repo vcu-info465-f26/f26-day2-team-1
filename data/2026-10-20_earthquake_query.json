@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.9413,
+    -25.9915,
+    0.46999999880791,
+    126.8562,
+    58.348,
+    353.846
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -178.9413,
+          -25.9915,
+          353.846
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3p9",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3p9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3p9&format=geojson",
+        "dmin": 3.363,
+        "felt": null,
+        "gap": 112,
+        "ids": ",us6000u3p9,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 48,
+        "place": "south of the Fiji Islands",
+        "rms": 1.14,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792521363727,
+        "title": "M 4.2 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792524471040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -154.78,
+          58.348,
+          103.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026uusvca",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026uusvca",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026uusvca&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 91,
+        "ids": ",us6000u3p2,aka2026uusvca,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 76,
+        "place": "88 km NNW of Karluk, Alaska",
+        "rms": 0.5,
+        "sig": 112,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1792519956729,
+        "title": "M 2.7 - 88 km NNW of Karluk, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792523613040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uusvca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -26.2588,
+          37.9575,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3p1",
+      "properties": {
+        "alert": null,
+        "cdi": 4.6,
+        "code": "6000u3p1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3p1&format=geojson",
+        "dmin": 0.613,
+        "felt": 5,
+        "gap": 33,
+        "ids": ",us6000u3p1,",
+        "mag": 5.1,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 132,
+        "place": "39 km W of Mosteiros, Portugal",
+        "rms": 0.8,
+        "sig": 402,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792519638131,
+        "title": "M 5.1 - 39 km W of Mosteiros, Portugal",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1792525923689,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.8562,
+          2.4707,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3nz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3nz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3nz&format=geojson",
+        "dmin": 14.628,
+        "felt": null,
+        "gap": 94,
+        "ids": ",us6000u3nz,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 22,
+        "place": "152 km WNW of Tobelo, Indonesia",
+        "rms": 0.87,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792519377367,
+        "title": "M 4.2 - 152 km WNW of Tobelo, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792523395040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.6622,
+          6.0926,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3nn",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3nn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3nn&format=geojson",
+        "dmin": 3.202,
+        "felt": null,
+        "gap": 169,
+        "ids": ",us6000u3nn,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 80,
+        "place": "215 km S of Burica, Panama",
+        "rms": 0.78,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792516716707,
+        "title": "M 4.5 - 215 km S of Burica, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792522868040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.5693,
+          6.3226,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3nl",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3nl",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3nl&format=geojson",
+        "dmin": 2.997,
+        "felt": null,
+        "gap": 126,
+        "ids": ",us6000u3nl,",
+        "mag": 5.4,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 94,
+        "place": "192 km S of Burica, Panama",
+        "rms": 0.56,
+        "sig": 449,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792515948338,
+        "title": "M 5.4 - 192 km S of Burica, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1792517006040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.407833333333,
+          19.059,
+          34.35
+        ],
+        "type": "Point"
+      },
+      "id": "hv75061376",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "75061376",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75061376&format=geojson",
+        "dmin": 0.1088,
+        "felt": 1,
+        "gap": 201,
+        "ids": ",hv75061376,us6000u3nb,",
+        "mag": 2.81,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 48,
+        "place": "17 km SSE of P\u0101hala, Hawaii",
+        "rms": 0.15,
+        "sig": 122,
+        "sources": ",hv,us,",
+        "status": "reviewed",
+        "time": 1792513883430,
+        "title": "M 2.8 - 17 km SSE of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792521096797,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061376"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -177.0103,
+          -24.1803,
+          109.548
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3nd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3nd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3nd&format=geojson",
+        "dmin": 5.111,
+        "felt": null,
+        "gap": 104,
+        "ids": ",us6000u3nd,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 59,
+        "place": "south of the Fiji Islands",
+        "rms": 0.81,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792513783678,
+        "title": "M 4.8 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792515630040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.993,
+          4.0005,
+          75.876
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3nc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3nc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3nc&format=geojson",
+        "dmin": 4.814,
+        "felt": null,
+        "gap": 67,
+        "ids": ",us6000u3nc,",
+        "mag": 5,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 110,
+        "place": "21 km SW of Meulaboh, Indonesia",
+        "rms": 0.81,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792513778818,
+        "title": "M 5.0 - 21 km SW of Meulaboh, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792514695040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.771667480469,
+          38.7866668701172,
+          0.469999998807907
+        ],
+        "type": "Point"
+      },
+      "id": "nc75452571",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "75452571",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75452571&format=geojson",
+        "dmin": 0.01678,
+        "felt": 1,
+        "gap": 51,
+        "ids": ",nc75452571,",
+        "mag": 2.51,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 55,
+        "place": "2 km NW of The Geysers, CA",
+        "rms": 0.07,
+        "sig": 97,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1792513384060,
+        "title": "M 2.5 - 2 km NW of The Geysers, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1792515142950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452571"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1792526258000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
