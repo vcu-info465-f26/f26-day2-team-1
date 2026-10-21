@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -120.6061630249,
+    -52.8338,
+    6.0101,
+    165.5402,
+    57.1591,
+    168.596
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -33.9973,
+          57.1591,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3x2",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3x2",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3x2&format=geojson",
+        "dmin": 7.107,
+        "felt": null,
+        "gap": 124,
+        "ids": ",us6000u3x2,",
+        "mag": 5,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 37,
+        "place": "Reykjanes Ridge",
+        "rms": 0.59,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792609566706,
+        "title": "M 5.0 - Reykjanes Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1792611086040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3x2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.282,
+          31.988,
+          6.0101
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026uthiey",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026uthiey",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026uthiey&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 46,
+        "ids": ",tx2026uthiey,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 38,
+        "place": "16 km SSW of Jal, New Mexico",
+        "rms": 0.2,
+        "sig": 104,
+        "sources": ",tx,",
+        "status": "reviewed",
+        "time": 1792608797123,
+        "title": "M 2.6 - 16 km SSW of Jal, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792612002328,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026uthiey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.5329,
+          -52.8338,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3wh",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3wh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3wh&format=geojson",
+        "dmin": 21.013,
+        "felt": null,
+        "gap": 56,
+        "ids": ",us6000u3wh,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 78,
+        "place": "south of Africa",
+        "rms": 0.78,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792606355440,
+        "title": "M 5.1 - south of Africa",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792608623040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          158.0282,
+          49.2528,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3w6",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3w6",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3w6&format=geojson",
+        "dmin": 3.866,
+        "felt": null,
+        "gap": 121,
+        "ids": ",us6000u3w6,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 151,
+        "place": "208 km SE of Severo-Kuril\u2019sk, Russia",
+        "rms": 0.5,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792603173362,
+        "title": "M 4.6 - 208 km SE of Severo-Kuril\u2019sk, Russia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792608129040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3w6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.606163024902,
+          40.8834991455078,
+          6.23000001907349
+        ],
+        "type": "Point"
+      },
+      "id": "nc75452891",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "75452891",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75452891&format=geojson",
+        "dmin": 0.16,
+        "felt": 3,
+        "gap": 94,
+        "ids": ",nc75452891,nn00926046,us6000u3uq,",
+        "mag": 3.13,
+        "magType": "ml",
+        "mmi": null,
+        "net": "nc",
+        "nst": 44,
+        "place": "39 km SSW of Likely, CA",
+        "rms": 0.19,
+        "sig": 152,
+        "sources": ",nc,nn,us,",
+        "status": "automatic",
+        "time": 1792598124610,
+        "title": "M 3.1 - 39 km SSW of Likely, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1792602452040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452891"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.3793,
+          -14.1338,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3uk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3uk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3uk&format=geojson",
+        "dmin": 6.466,
+        "felt": null,
+        "gap": 113,
+        "ids": ",us6000u3uk,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 49,
+        "place": "208 km WNW of Port-Olry, Vanuatu",
+        "rms": 0.96,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792596153566,
+        "title": "M 4.9 - 208 km WNW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792602042040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3uk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.3141,
+          31.0896,
+          168.596
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3un",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3un",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3un&format=geojson",
+        "dmin": 0.435,
+        "felt": null,
+        "gap": 123,
+        "ids": ",us6000u3un,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 36,
+        "place": "19 km S of Makurazaki, Japan",
+        "rms": 0.87,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792595587067,
+        "title": "M 4.3 - 19 km S of Makurazaki, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792601647040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3un"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.5402,
+          -14.105,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3ue",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3ue",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3ue&format=geojson",
+        "dmin": 6.521,
+        "felt": null,
+        "gap": 98,
+        "ids": ",us6000u3ue,",
+        "mag": 5,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 78,
+        "place": "194 km WNW of Port-Olry, Vanuatu",
+        "rms": 0.79,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792594587447,
+        "title": "M 5.0 - 194 km WNW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792595835040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.6247,
+          42.573,
+          94.112
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3uc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3uc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3uc&format=geojson",
+        "dmin": 0.683,
+        "felt": null,
+        "gap": 71,
+        "ids": ",us6000u3uc,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 67,
+        "place": "33 km NE of Shizunai-furukawach\u014d, Japan",
+        "rms": 0.67,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792593650748,
+        "title": "M 4.7 - 33 km NE of Shizunai-furukawach\u014d, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792601177040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3uc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.4684,
+          -14.0069,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u3ub",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u3ub",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u3ub&format=geojson",
+        "dmin": 6.605,
+        "felt": null,
+        "gap": 104,
+        "ids": ",us6000u3ub,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 40,
+        "place": "207 km WNW of Port-Olry, Vanuatu",
+        "rms": 0.78,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792593351111,
+        "title": "M 4.9 - 207 km WNW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792600866040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ub"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1792612941000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
