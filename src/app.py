@@ -1,6 +1,7 @@
 # Streamlit dashboard entry point.
 # Imports the data and chart functions, then displays them together.
 
+from pathlib import Path
 import streamlit as st
 
 from build_db import main as rebuild_database
@@ -71,6 +72,18 @@ st.write(
     "Explore where earthquakes happen, how large they are, "
     "and how their significance compares at different depths."
 )
+
+# Display the saved AI-generated summary from the full earthquake dataset.
+summary_path = Path(__file__).resolve().parent.parent / "data" / "summary.md"
+
+st.subheader("Earthquake Data Summary")
+
+if summary_path.exists():
+    st.caption("Generated using Groq AI based on the full earthquake dataset. "
+    "Not affected by dashboard filters.")
+    st.markdown(summary_path.read_text(encoding="utf-8"))
+else:
+    st.info("The earthquake summary is not available yet.")
 
 # Shared depth key uses the same colors as every chart.
 st.markdown(
