@@ -37,3 +37,17 @@ Joshua → Danny → Hira → Vishvag → Joshua
 Public dashboard: https://f26-day2-team-1-itrbe4l8dsa5dbcui2bgpv.streamlit.app/
 
 From the repository root, install dependencies with: `pip install -r requirements.txt`, then run: `streamlit run src/app.py`.
+
+## Sprint 3 Roles
+
+### Program Manager
+- Week 1: [Danny]
+- Week 2: [Joshua]
+- Week 3: [Hira]
+- Week 4: [Vishvag]
+
+### Reviewer Ring
+Joshua → Danny → Hira → Vishvag → Joshua
+
+### Tester
+[Hira]
