@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -144.492,
+    -54.0304,
+    -0.13,
+    165.9365,
+    69.02,
+    123.988
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -112.9215,
+          38.525,
+          -0.13
+        ],
+        "type": "Point"
+      },
+      "id": "uu80161711",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "80161711",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80161711&format=geojson",
+        "dmin": 0.02368,
+        "felt": null,
+        "gap": 55,
+        "ids": ",us6000u4nh,uu80161711,",
+        "mag": 2.67,
+        "magType": "ml",
+        "mmi": 3.033,
+        "net": "uu",
+        "nst": 19,
+        "place": "16 km NNE of Milford, Utah",
+        "rms": 0.13,
+        "sig": 110,
+        "sources": ",us,uu,",
+        "status": "reviewed",
+        "time": 1792864741470,
+        "title": "M 2.7 - 16 km NNE of Milford, Utah",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1792866524040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161711"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -126.6544,
+          41.8193,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4ng",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4ng",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4ng&format=geojson",
+        "dmin": 1.786,
+        "felt": null,
+        "gap": 263,
+        "ids": ",us6000u4ng,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 33,
+        "place": "193 km WSW of Pistol River, Oregon",
+        "rms": 0.77,
+        "sig": 121,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792864186312,
+        "title": "M 2.8 - 193 km WSW of Pistol River, Oregon",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792865386040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ng"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.9699,
+          -21.3025,
+          123.988
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4na",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4na",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4na&format=geojson",
+        "dmin": 0.548,
+        "felt": null,
+        "gap": 55,
+        "ids": ",us6000u4na,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 39,
+        "place": "74 km W of Ollag\u00fce, Chile",
+        "rms": 0.89,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792862070377,
+        "title": "M 4.2 - 74 km W of Ollag\u00fce, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792863868040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4na"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.9365,
+          -14.2056,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4n8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4n8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4n8&format=geojson",
+        "dmin": 6.504,
+        "felt": null,
+        "gap": 37,
+        "ids": ",us6000u4n8,",
+        "mag": 4.8,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 65,
+        "place": "153 km NW of Port-Olry, Vanuatu",
+        "rms": 0.55,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792860855523,
+        "title": "M 4.8 - 153 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1792862257040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -144.492,
+          69.02,
+          1.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vbyigb",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vbyigb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vbyigb&format=geojson",
+        "dmin": 0.7,
+        "felt": null,
+        "gap": 137,
+        "ids": ",aka2026vbyigb,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 28,
+        "place": "108 km NNE of Arctic Village, Alaska",
+        "rms": 0.9,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1792857264778,
+        "title": "M 2.7 - 108 km NNE of Arctic Village, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792857482656,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbyigb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.1696,
+          -13.9412,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4my",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4my",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4my&format=geojson",
+        "dmin": 6.627,
+        "felt": null,
+        "gap": 113,
+        "ids": ",us6000u4my,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 37,
+        "place": "238 km WNW of Port-Olry, Vanuatu",
+        "rms": 0.9,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792856747533,
+        "title": "M 4.7 - 238 km WNW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792860411040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4my"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0149,
+          -54.0304,
+          12.486
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4mn",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "6000u4mn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4mn&format=geojson",
+        "dmin": 21.582,
+        "felt": null,
+        "gap": 43,
+        "ids": ",attnf44p,us6000u4mn,",
+        "mag": 5.8,
+        "magType": "mb",
+        "mmi": 0,
+        "net": "us",
+        "nst": 141,
+        "place": "Bouvet Island region",
+        "rms": 0.45,
+        "sig": 518,
+        "sources": ",at,us,",
+        "status": "reviewed",
+        "time": 1792855459882,
+        "title": "M 5.8 - Bouvet Island region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",internal-origin,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1792862937309,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.4608,
+          -13.8535,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4mm",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4mm",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4mm&format=geojson",
+        "dmin": 6.754,
+        "felt": null,
+        "gap": 105,
+        "ids": ",us6000u4mm,",
+        "mag": 4.9,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 68,
+        "place": "217 km NW of Port-Olry, Vanuatu",
+        "rms": 0.74,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792855165185,
+        "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1792857100040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.5148,
+          -13.8267,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4ml",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4ml",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4ml&format=geojson",
+        "dmin": 6.789,
+        "felt": null,
+        "gap": 105,
+        "ids": ",us6000u4ml,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 61,
+        "place": "215 km NW of Port-Olry, Vanuatu",
+        "rms": 0.55,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792854460810,
+        "title": "M 4.8 - 215 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792859924040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ml"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.5398,
+          -13.7777,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4mi",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4mi",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4mi&format=geojson",
+        "dmin": 6.841,
+        "felt": null,
+        "gap": 105,
+        "ids": ",us6000u4mi,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 111,
+        "place": "216 km NW of Port-Olry, Vanuatu",
+        "rms": 0.57,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792849980775,
+        "title": "M 4.8 - 216 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792854265040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mi"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1792867422000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
