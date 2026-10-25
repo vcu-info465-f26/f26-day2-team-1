@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.8056,
+    -16.0993,
+    2.87,
+    94.0534,
+    59.0757,
+    152.896
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -178.8056,
+          52.1923,
+          152.896
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4vb",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4vb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4vb&format=geojson",
+        "dmin": 0.413,
+        "felt": null,
+        "gap": 83,
+        "ids": ",us6000u4vb,aka2026vdyenf,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": 2.122,
+        "net": "us",
+        "nst": 74,
+        "place": "153 km WNW of Adak, Alaska",
+        "rms": 0.8,
+        "sig": 326,
+        "sources": ",us,ak,",
+        "status": "reviewed",
+        "time": 1792950598419,
+        "title": "M 4.6 - 153 km WNW of Adak, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1792952599894,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          71.1025,
+          36.274,
+          110.025
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4va",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "6000u4va",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4va&format=geojson",
+        "dmin": 2.315,
+        "felt": 6,
+        "gap": 20,
+        "ids": ",us6000u4va,",
+        "mag": 5.2,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 93,
+        "place": "59 km SW of Ashk\u0101sham, Afghanistan",
+        "rms": 0.77,
+        "sig": 418,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792950263735,
+        "title": "M 5.2 - 59 km SW of Ashk\u0101sham, Afghanistan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792952874570,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.4741,
+          -16.0993,
+          62.095
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4v1",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4v1",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4v1&format=geojson",
+        "dmin": 3.75,
+        "felt": null,
+        "gap": 130,
+        "ids": ",us6000u4v1,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 74,
+        "place": "19 km NE of Atico, Peru",
+        "rms": 1.46,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792948309932,
+        "title": "M 4.7 - 19 km NE of Atico, Peru",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792949795040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.4578333333333,
+          18.1705,
+          120.96
+        ],
+        "type": "Point"
+      },
+      "id": "pr71537653",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71537653",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71537653&format=geojson",
+        "dmin": 0.2924,
+        "felt": null,
+        "gap": 258,
+        "ids": ",pr71537653,",
+        "mag": 3.06,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 9,
+        "place": "39 km ESE of Cruz Bay, U.S. Virgin Islands",
+        "rms": 0.16,
+        "sig": 144,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1792944640700,
+        "title": "M 3.1 - 39 km ESE of Cruz Bay, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792945992960,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537653"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -138.9347,
+          59.0757,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4uj",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4uj",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4uj&format=geojson",
+        "dmin": 1.805,
+        "felt": null,
+        "gap": 161,
+        "ids": ",us6000u4uj,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 14,
+        "place": "69 km SE of Yakutat, Alaska",
+        "rms": 1,
+        "sig": 112,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792938701374,
+        "title": "M 2.7 - 69 km SE of Yakutat, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792942165040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4uj"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.6805,
+          48.311,
+          2.87
+        ],
+        "type": "Point"
+      },
+      "id": "uw714127632",
+      "properties": {
+        "alert": null,
+        "cdi": 3.8,
+        "code": "714127632",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uw714127632&format=geojson",
+        "dmin": 0.01717,
+        "felt": 4,
+        "gap": 112,
+        "ids": ",uw714127632,us6000u4ui,",
+        "mag": 2.55,
+        "magType": "ml",
+        "mmi": null,
+        "net": "uw",
+        "nst": 23,
+        "place": "41 km WSW of Winthrop, Washington",
+        "rms": 0.22,
+        "sig": 102,
+        "sources": ",uw,us,",
+        "status": "reviewed",
+        "time": 1792937720440,
+        "title": "M 2.6 - 41 km WSW of Winthrop, Washington",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792951464863,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127632"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -108.3744,
+          26.6022,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4u9",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "6000u4u9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4u9&format=geojson",
+        "dmin": 2.446,
+        "felt": 1,
+        "gap": 235,
+        "ids": ",us6000u4u9,",
+        "mag": 4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 43,
+        "place": "7 km NNW of Agua Caliente Grande (De Gast\u00e9lum), Mexico",
+        "rms": 0.8,
+        "sig": 246,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792934553573,
+        "title": "M 4.0 - 7 km NNW of Agua Caliente Grande (De Gast\u00e9lum), Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792944949009,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4u9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.0534,
+          32.4625,
+          7
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4ty",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "6000u4ty",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4ty&format=geojson",
+        "dmin": 8.712,
+        "felt": null,
+        "gap": 35,
+        "ids": ",us6000u4ty,usauto6000u4ty,",
+        "mag": 5.9,
+        "magType": "mww",
+        "mmi": 7.105,
+        "net": "us",
+        "nst": 110,
+        "place": "218 km ENE of Nagqu, China",
+        "rms": 0.69,
+        "sig": 536,
+        "sources": ",us,usauto,",
+        "status": "reviewed",
+        "time": 1792927557101,
+        "title": "M 5.9 - 218 km ENE of Nagqu, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",ground-failure,internal-moment-tensor,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1792935138398,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.8872,
+          32.3695,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4tx",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4tx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4tx&format=geojson",
+        "dmin": 8.879,
+        "felt": null,
+        "gap": 71,
+        "ids": ",us6000u4tx,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 55,
+        "place": "199 km ENE of Nagqu, China",
+        "rms": 0.52,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792927454089,
+        "title": "M 5.1 - 199 km ENE of Nagqu, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792928904040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -63.9966666666667,
+          18.1245,
+          12.83
+        ],
+        "type": "Point"
+      },
+      "id": "pr71537633",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71537633",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71537633&format=geojson",
+        "dmin": 0.53,
+        "felt": null,
+        "gap": 170,
+        "ids": ",us6000u4tu,pr71537633,",
+        "mag": 3.37,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 13,
+        "place": "85 km ENE of Christiansted, U.S. Virgin Islands",
+        "rms": 0.35,
+        "sig": 175,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1792925736700,
+        "title": "M 3.4 - 85 km ENE of Christiansted, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792927600040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537633"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1792954359000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
