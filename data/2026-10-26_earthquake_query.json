@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -148.8246,
+    -20.3438,
+    4.8299999237061,
+    165.9223,
+    61.636,
+    119.519
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -103.7821,
+          28.9437,
+          8.211
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttc5",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttc5",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttc5&format=geojson",
+        "dmin": 0.402,
+        "felt": null,
+        "gap": 232,
+        "ids": ",us7000ttc5,",
+        "mag": 3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 21,
+        "place": "44 km SSW of Terlingua, Texas",
+        "rms": 0.48,
+        "sig": 138,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793047653837,
+        "title": "M 3.0 - 44 km SSW of Terlingua, Texas",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793048066040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttc5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -148.8246,
+          56.0636,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttbv",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttbv",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttbv&format=geojson",
+        "dmin": 2.686,
+        "felt": null,
+        "gap": 243,
+        "ids": ",us7000ttbv,",
+        "mag": 3.3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 28,
+        "place": "272 km SE of Chiniak, Alaska",
+        "rms": 0.29,
+        "sig": 168,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793045452377,
+        "title": "M 3.3 - 272 km SE of Chiniak, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793046446040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.72,
+          32.073,
+          7.9327
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026vcnlki",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026vcnlki",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026vcnlki&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 35,
+        "ids": ",tx2026vcnlki,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 34,
+        "place": "37 km ESE of Malaga, New Mexico",
+        "rms": 0.1,
+        "sig": 104,
+        "sources": ",tx,",
+        "status": "reviewed",
+        "time": 1793043484946,
+        "title": "M 2.6 - 37 km ESE of Malaga, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793044448338,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vcnlki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.6903,
+          -20.3438,
+          119.519
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttbh",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttbh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttbh&format=geojson",
+        "dmin": 0.479,
+        "felt": null,
+        "gap": 56,
+        "ids": ",us7000ttbh,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 61,
+        "place": "100 km E of La Tirana, Chile",
+        "rms": 0.88,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793043376160,
+        "title": "M 4.9 - 100 km E of La Tirana, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793044333040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          71.0764,
+          38.6442,
+          47.345
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttb5",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttb5",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttb5&format=geojson",
+        "dmin": 1.005,
+        "felt": null,
+        "gap": 152,
+        "ids": ",us7000ttb5,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 35,
+        "place": "74 km SE of Rasht, Tajikistan",
+        "rms": 1,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793038024209,
+        "title": "M 4.5 - 74 km SE of Rasht, Tajikistan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793039372040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.9223,
+          -14.2093,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttby",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttby",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttby&format=geojson",
+        "dmin": 6.497,
+        "felt": null,
+        "gap": 130,
+        "ids": ",us7000ttby,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 19,
+        "place": "154 km NW of Port-Olry, Vanuatu",
+        "rms": 1.13,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793027305118,
+        "title": "M 4.6 - 154 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793046393040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttby"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -141.316,
+          61.636,
+          5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vfmqfn",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vfmqfn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vfmqfn&format=geojson",
+        "dmin": 0.4,
+        "felt": null,
+        "gap": 52,
+        "ids": ",us6000u4zs,aka2026vfmqfn,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 46,
+        "place": "88 km ENE of McCarthy, Alaska",
+        "rms": 0.6,
+        "sig": 121,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1793023374892,
+        "title": "M 2.8 - 88 km ENE of McCarthy, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793043600040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfmqfn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.9536,
+          35.0335,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4zm",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "6000u4zm",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4zm&format=geojson",
+        "dmin": 0.908,
+        "felt": 1,
+        "gap": 61,
+        "ids": ",us6000u4zm,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 50,
+        "place": "18 km E of Kentr\u00ed, Greece",
+        "rms": 0.55,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793020802823,
+        "title": "M 4.4 - 18 km E of Kentr\u00ed, Greece",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1793043507092,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.605003356934,
+          36.8626670837402,
+          4.82999992370605
+        ],
+        "type": "Point"
+      },
+      "id": "nc75455061",
+      "properties": {
+        "alert": null,
+        "cdi": 3.4,
+        "code": "75455061",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75455061&format=geojson",
+        "dmin": 0.02413,
+        "felt": 6,
+        "gap": 49,
+        "ids": ",nc75455061,",
+        "mag": 2.5,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 64,
+        "place": "4 km SE of Aromas, CA",
+        "rms": 0.17,
+        "sig": 98,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1793020233190,
+        "title": "M 2.5 - 4 km SE of Aromas, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,",
+        "tz": null,
+        "updated": 1793032980468,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455061"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.6029,
+          -13.8613,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4zb",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4zb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4zb&format=geojson",
+        "dmin": 6.77,
+        "felt": null,
+        "gap": 104,
+        "ids": ",us6000u4zb,",
+        "mag": 5.2,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 45,
+        "place": "205 km NW of Port-Olry, Vanuatu",
+        "rms": 0.66,
+        "sig": 416,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793016810652,
+        "title": "M 5.2 - 205 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1793017859040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1793048324000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
