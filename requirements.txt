@@ -1,12 +1,8 @@
 # Third-party packages this project needs. One per line.
-#
-# sqlite3 is deliberately NOT here. It ships with Python itself, so
-# there is nothing to install. If a module is in the standard library
-# it does not belong in requirements.txt.
 
 requests>=2.32,<3
 pandas>=3.0,<4
 matplotlib>=3.9,<4
 plotly>=6.0,<7
 streamlit>=1.40,<2
-groq>=1.0,<2
+openai>=1.60,<3
