@@ -1,13 +1,133 @@
 {
   "bbox": [
     -163.0279,
-    -22.0285,
+    -15.1891,
     0.10000000149012,
-    143.5623,
+    167.4523,
     68.688,
-    527.609
+    142.833
   ],
   "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          167.4523,
+          -15.1891,
+          142.833
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu4f",
+      "properties": {
+        "alert": "green",
+        "cdi": 3.4,
+        "code": "7000tu4f",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu4f&format=geojson",
+        "dmin": 6.125,
+        "felt": 2,
+        "gap": 32,
+        "ids": ",us7000tu4f,usauto7000tu4f,",
+        "mag": 6.2,
+        "magType": "mww",
+        "mmi": 4.195,
+        "net": "us",
+        "nst": 87,
+        "place": "43 km ESE of Port-Olry, Vanuatu",
+        "rms": 0.8,
+        "sig": 592,
+        "sources": ",us,usauto,",
+        "status": "reviewed",
+        "time": 1793310404786,
+        "title": "M 6.2 - 43 km ESE of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,ground-failure,internal-moment-tensor,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793313624076,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          148.1794,
+          44.1091,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu4a",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tu4a",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu4a&format=geojson",
+        "dmin": 4.023,
+        "felt": null,
+        "gap": 181,
+        "ids": ",us7000tu4a,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 53,
+        "place": "121 km ENE of Shikotan, Russia",
+        "rms": 0.91,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793308356287,
+        "title": "M 4.6 - 121 km ENE of Shikotan, Russia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793314025040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4a"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9523,
+          51.5608,
+          5
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu46",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tu46",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu46&format=geojson",
+        "dmin": 1.235,
+        "felt": null,
+        "gap": 35,
+        "ids": ",us7000tu46,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 58,
+        "place": "1 km SSE of Radwanice, Poland",
+        "rms": 0.92,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793307615784,
+        "title": "M 4.7 - 1 km SSE of Radwanice, Poland",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793311812040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu46"
+      },
+      "type": "Feature"
+    },
     {
       "geometry": {
         "coordinates": [
@@ -83,7 +203,7 @@
         "type": "earthquake",
         "types": ",event-sequence,moment-tensor,oaf,origin,phase-data,shakemap,",
         "tz": null,
-        "updated": 1793307332655,
+        "updated": 1793312680666,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3j"
       },
       "type": "Feature"
@@ -287,131 +407,11 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537918"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.7,
-          -22.0285,
-          527.609
-        ],
-        "type": "Point"
-      },
-      "id": "us7000tu0w",
-      "properties": {
-        "alert": null,
-        "cdi": null,
-        "code": "7000tu0w",
-        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu0w&format=geojson",
-        "dmin": 3.456,
-        "felt": null,
-        "gap": 29,
-        "ids": ",us7000tu0w,",
-        "mag": 4.2,
-        "magType": "mb",
-        "mmi": null,
-        "net": "us",
-        "nst": 53,
-        "place": "2 km WSW of Yacuiba, Bolivia",
-        "rms": 0.73,
-        "sig": 271,
-        "sources": ",us,",
-        "status": "reviewed",
-        "time": 1793290096529,
-        "title": "M 4.2 - 2 km WSW of Yacuiba, Bolivia",
-        "tsunami": 0,
-        "type": "earthquake",
-        "types": ",origin,phase-data,",
-        "tz": null,
-        "updated": 1793291315040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu0w"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -151.866,
-          61.279,
-          101.4
-        ],
-        "type": "Point"
-      },
-      "id": "aka2026vledir",
-      "properties": {
-        "alert": null,
-        "cdi": null,
-        "code": "a2026vledir",
-        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vledir&format=geojson",
-        "dmin": 0.1,
-        "felt": null,
-        "gap": 47,
-        "ids": ",us7000tu0s,aka2026vledir,",
-        "mag": 2.5,
-        "magType": "ml",
-        "mmi": null,
-        "net": "ak",
-        "nst": 94,
-        "place": "44 km WNW of Beluga, Alaska",
-        "rms": 0.7,
-        "sig": 96,
-        "sources": ",us,ak,",
-        "status": "automatic",
-        "time": 1793288762938,
-        "title": "M 2.5 - 44 km WNW of Beluga, Alaska",
-        "tsunami": 0,
-        "type": "earthquake",
-        "types": ",origin,phase-data,",
-        "tz": null,
-        "updated": 1793290389040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vledir"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -147.594,
-          60.862,
-          20.7
-        ],
-        "type": "Point"
-      },
-      "id": "aka2026vlcdmm",
-      "properties": {
-        "alert": null,
-        "cdi": null,
-        "code": "a2026vlcdmm",
-        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vlcdmm&format=geojson",
-        "dmin": 0.2,
-        "felt": null,
-        "gap": 48,
-        "ids": ",us7000ttz1,aka2026vlcdmm,",
-        "mag": 2.5,
-        "magType": "ml",
-        "mmi": null,
-        "net": "ak",
-        "nst": 58,
-        "place": "49 km W of Tatitlek, Alaska",
-        "rms": 0.9,
-        "sig": 96,
-        "sources": ",us,ak,",
-        "status": "automatic",
-        "time": 1793285394107,
-        "title": "M 2.5 - 49 km W of Tatitlek, Alaska",
-        "tsunami": 0,
-        "type": "earthquake",
-        "types": ",origin,phase-data,",
-        "tz": null,
-        "updated": 1793286016040,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlcdmm"
-      },
-      "type": "Feature"
     }
   ],
   "metadata": {
     "api": "2.8.2",
-    "generated": 1793307585000,
+    "generated": 1793315897000,
     "limit": 10,
     "offset": 1,
     "status": 200,
