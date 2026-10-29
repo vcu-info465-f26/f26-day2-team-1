@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -155.49116666667,
+    -7.3421,
+    10,
+    142.572,
+    59.574,
+    128.107
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -152.665,
+          59.574,
+          93.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vaivkz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vaivkz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vaivkz&format=geojson",
+        "dmin": 0.3,
+        "felt": null,
+        "gap": 72,
+        "ids": ",aka2026vaivkz,",
+        "mag": 3.1,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 147,
+        "place": "48 km WNW of Nanwalek, Alaska",
+        "rms": 0.9,
+        "sig": 148,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1792782645124,
+        "title": "M 3.1 - 48 km WNW of Nanwalek, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792782932709,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaivkz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          95.6545,
+          25.9295,
+          116.703
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4f5",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4f5",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4f5&format=geojson",
+        "dmin": 4.75,
+        "felt": null,
+        "gap": 87,
+        "ids": ",us6000u4f5,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 66,
+        "place": "91 km ESE of Tuensang, India",
+        "rms": 0.54,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792775185116,
+        "title": "M 4.6 - 91 km ESE of Tuensang, India",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792776626040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4f5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.572,
+          40.4159,
+          38.138
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4e2",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "6000u4e2",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4e2&format=geojson",
+        "dmin": 1.207,
+        "felt": 1,
+        "gap": 100,
+        "ids": ",us6000u4e2,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 74,
+        "place": "72 km ENE of Noda, Japan",
+        "rms": 0.67,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792771671754,
+        "title": "M 5.1 - 72 km ENE of Noda, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792773309026,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.491166666667,
+          19.1738333333333,
+          29.18
+        ],
+        "type": "Point"
+      },
+      "id": "hv75062811",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "75062811",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75062811&format=geojson",
+        "dmin": 0.03302,
+        "felt": 6,
+        "gap": 98,
+        "ids": ",hv75062811,us6000u4dz,",
+        "mag": 3.29,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 55,
+        "place": "3 km SSW of P\u0101hala, Hawaii",
+        "rms": 0.13,
+        "sig": 168,
+        "sources": ",hv,us,",
+        "status": "reviewed",
+        "time": 1792770750590,
+        "title": "M 3.3 - 3 km SSW of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792779257779,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062811"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3074,
+          38.8141,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4dx",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4dx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4dx&format=geojson",
+        "dmin": 1.343,
+        "felt": null,
+        "gap": 66,
+        "ids": ",us6000u4dx,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 70,
+        "place": "52 km WNW of Malfa, Italy",
+        "rms": 0.78,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792769533051,
+        "title": "M 4.7 - 52 km WNW of Malfa, Italy",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792779071040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          94.1749,
+          32.5642,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4dk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4dk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4dk&format=geojson",
+        "dmin": 8.575,
+        "felt": null,
+        "gap": 122,
+        "ids": ",us6000u4dk,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 31,
+        "place": "233 km ENE of Nagqu, China",
+        "rms": 0.51,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792766476206,
+        "title": "M 4.5 - 233 km ENE of Nagqu, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792781694040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.9443,
+          32.5717,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4df",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4df",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4df&format=geojson",
+        "dmin": 8.748,
+        "felt": null,
+        "gap": 71,
+        "ids": ",us6000u4df,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 55,
+        "place": "215 km NE of Nagqu, China",
+        "rms": 0.6,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792764844311,
+        "title": "M 4.7 - 215 km NE of Nagqu, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792781165040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4df"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.315,
+          38.7787,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4dc",
+      "properties": {
+        "alert": null,
+        "cdi": 2.7,
+        "code": "6000u4dc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4dc&format=geojson",
+        "dmin": 1.308,
+        "felt": 1,
+        "gap": 35,
+        "ids": ",us6000u4dc,",
+        "mag": 5.2,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 102,
+        "place": "50 km WNW of Malfa, Italy",
+        "rms": 0.7,
+        "sig": 416,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792763736149,
+        "title": "M 5.2 - 50 km WNW of Malfa, Italy",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1792765364737,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.9736,
+          -5.6817,
+          81.955
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4c8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4c8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4c8&format=geojson",
+        "dmin": 7.118,
+        "felt": null,
+        "gap": 139,
+        "ids": ",us6000u4c8,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 20,
+        "place": "197 km W of Tual, Indonesia",
+        "rms": 1.02,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792761080125,
+        "title": "M 4.2 - 197 km W of Tual, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792779967040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4c8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.4666,
+          -7.3421,
+          128.107
+        ],
+        "type": "Point"
+      },
+      "id": "us6000u4bw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000u4bw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000u4bw&format=geojson",
+        "dmin": 6.064,
+        "felt": null,
+        "gap": 130,
+        "ids": ",us6000u4bw,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 22,
+        "place": "207 km NE of Lospalos, Timor Leste",
+        "rms": 0.73,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1792758264746,
+        "title": "M 4.5 - 207 km NE of Lospalos, Timor Leste",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1792759759040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1792785297000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -179.7358,
+    -23.7469,
+    6.7699999809265,
+    119.8508,
+    62.156,
+    509.065
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -121.678337097168,
+          37.3110008239746,
+          6.76999998092651
+        ],
+        "type": "Point"
+      },
+      "id": "nc75455701",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "75455701",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75455701&format=geojson",
+        "dmin": 0.04181,
+        "felt": 5,
+        "gap": 44,
+        "ids": ",nc75455701,",
+        "mag": 2.63,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 74,
+        "place": "14 km E of Seven Trees, CA",
+        "rms": 0.06,
+        "sig": 108,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1793129881610,
+        "title": "M 2.6 - 14 km E of Seven Trees, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1793131640068,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455701"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          93.9028,
+          32.5388,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttis",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "7000ttis",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttis&format=geojson",
+        "dmin": 8.793,
+        "felt": null,
+        "gap": 56,
+        "ids": ",us7000ttis,",
+        "mag": 5.4,
+        "magType": "mb",
+        "mmi": 6.556,
+        "net": "us",
+        "nst": 110,
+        "place": "210 km ENE of Nagqu, China",
+        "rms": 0.72,
+        "sig": 449,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793127473135,
+        "title": "M 5.4 - 210 km ENE of Nagqu, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",ground-failure,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793129276079,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.519166666667,
+          19.1915,
+          30.38
+        ],
+        "type": "Point"
+      },
+      "id": "hv75064501",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75064501",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75064501&format=geojson",
+        "dmin": 0.05971,
+        "felt": null,
+        "gap": 91,
+        "ids": ",us7000ttip,hv75064501,",
+        "mag": 2.54,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 50,
+        "place": "4 km WSW of P\u0101hala, Hawaii",
+        "rms": 0.13,
+        "sig": 99,
+        "sources": ",us,hv,",
+        "status": "reviewed",
+        "time": 1793127008810,
+        "title": "M 2.5 - 4 km WSW of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793129608040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75064501"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -149.535,
+          62.156,
+          14.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vhpcrg",
+      "properties": {
+        "alert": null,
+        "cdi": 3.2,
+        "code": "a2026vhpcrg",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vhpcrg&format=geojson",
+        "dmin": 0.4,
+        "felt": 14,
+        "gap": 26,
+        "ids": ",aka2026vhpcrg,us7000tti8,",
+        "mag": 3.7,
+        "magType": "ml",
+        "mmi": 3.549,
+        "net": "ak",
+        "nst": 204,
+        "place": "16 km E of Susitna North, Alaska",
+        "rms": 1.2,
+        "sig": 215,
+        "sources": ",ak,us,",
+        "status": "automatic",
+        "time": 1793121391164,
+        "title": "M 3.7 - 16 km E of Susitna North, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793129146367,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhpcrg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.8508,
+          18.2708,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tth4",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tth4",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tth4&format=geojson",
+        "dmin": 4.668,
+        "felt": null,
+        "gap": 78,
+        "ids": ",us7000tth4,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 143,
+        "place": "70 km WNW of Callaguip, Philippines",
+        "rms": 0.68,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793117273845,
+        "title": "M 4.9 - 70 km WNW of Callaguip, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",impact-text,origin,phase-data,",
+        "tz": null,
+        "updated": 1793126324040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tth4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          71.318,
+          36.4496,
+          123.853
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttgz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttgz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttgz&format=geojson",
+        "dmin": 2.079,
+        "felt": null,
+        "gap": 60,
+        "ids": ",us7000ttgz,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 63,
+        "place": "32 km SW of Ashk\u0101sham, Afghanistan",
+        "rms": 0.77,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793116622376,
+        "title": "M 4.4 - 32 km SW of Ashk\u0101sham, Afghanistan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793125032040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.304,
+          60.975,
+          73.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vhmjgz",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "a2026vhmjgz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vhmjgz&format=geojson",
+        "dmin": 0.2,
+        "felt": 1,
+        "gap": 28,
+        "ids": ",aka2026vhmjgz,us7000ttgx,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 129,
+        "place": "13 km SW of Tyonek, Alaska",
+        "rms": 1,
+        "sig": 121,
+        "sources": ",ak,us,",
+        "status": "automatic",
+        "time": 1793116453714,
+        "title": "M 2.8 - 13 km SW of Tyonek, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1793124324040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhmjgz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.0494,
+          14.0626,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttgu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttgu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttgu&format=geojson",
+        "dmin": 2.376,
+        "felt": null,
+        "gap": 173,
+        "ids": ",us7000ttgu,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 89,
+        "place": "99 km SW of Puerto Madero, Mexico",
+        "rms": 0.62,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793115932718,
+        "title": "M 4.3 - 99 km SW of Puerto Madero, Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793122949040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -179.7358,
+          -23.7469,
+          509.065
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttgq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ttgq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttgq&format=geojson",
+        "dmin": 5.71,
+        "felt": null,
+        "gap": 99,
+        "ids": ",us7000ttgq,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 32,
+        "place": "south of the Fiji Islands",
+        "rms": 1.22,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793115102073,
+        "title": "M 5.0 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793116256040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.584,
+          7.706,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ttgm",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "7000ttgm",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ttgm&format=geojson",
+        "dmin": 2.256,
+        "felt": 1,
+        "gap": 128,
+        "ids": ",us7000ttgm,",
+        "mag": 5,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 138,
+        "place": "27 km W of R\u00edo Grande, Panama",
+        "rms": 0.77,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793114762987,
+        "title": "M 5.0 - 27 km W of R\u00edo Grande, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1793124484723,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1793133269000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
