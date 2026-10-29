@@ -5,6 +5,7 @@ from pathlib import Path
 import streamlit as st
 
 from build_db import main as rebuild_database
+from chat import render_chat
 from comparison_plot import make_comparison_plot
 from data_queries import filter_by_magnitude, load_earthquake_data
 from map import make_map
@@ -192,3 +193,6 @@ st.caption(
     "Data source: USGS Earthquake Catalog API. "
     "Data is built from committed snapshots in data/."
 )
+
+# Give the chat the same filtered rows used by the charts and dataframe.
+render_chat(filtered_dataframe, selected_range, selected_status)
