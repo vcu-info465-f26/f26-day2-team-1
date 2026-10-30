@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.0028,
+    -17.9769,
+    10,
+    155.7595,
+    65.0985,
+    615.692
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -151.046,
+          62.99,
+          130.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vnjdai",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vnjdai",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vnjdai&format=geojson",
+        "dmin": 0.5,
+        "felt": null,
+        "gap": 54,
+        "ids": ",aka2026vnjdai,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 78,
+        "place": "56 km NNW of Petersville, Alaska",
+        "rms": 0.5,
+        "sig": 121,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793391293127,
+        "title": "M 2.8 - 56 km NNW of Petersville, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793391513294,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.846,
+          60.069,
+          117.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vnhpxc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vnhpxc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vnhpxc&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 64,
+        "ids": ",aka2026vnhpxc,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 82,
+        "place": "63 km WNW of Happy Valley, Alaska",
+        "rms": 0.6,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793388580455,
+        "title": "M 2.5 - 63 km WNW of Happy Valley, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793388862532,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnhpxc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.6793333333333,
+          19.4125,
+          58.16
+        ],
+        "type": "Point"
+      },
+      "id": "pr71537968",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71537968",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71537968&format=geojson",
+        "dmin": 0.9541,
+        "felt": null,
+        "gap": 282,
+        "ids": ",pr71537968,",
+        "mag": 3.39,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 6,
+        "place": "120 km N of Cruz Bay, U.S. Virgin Islands",
+        "rms": 0.12,
+        "sig": 177,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1793387635660,
+        "title": "M 3.4 - 120 km N of Cruz Bay, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793389781810,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537968"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -147.003,
+          61.833,
+          19.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vngzyw",
+      "properties": {
+        "alert": null,
+        "cdi": 3.6,
+        "code": "a2026vngzyw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vngzyw&format=geojson",
+        "dmin": 0.2,
+        "felt": 50,
+        "gap": 29,
+        "ids": ",aka2026vngzyw,us7000tudy,",
+        "mag": 4.4,
+        "magType": "ml",
+        "mmi": 3.992,
+        "net": "ak",
+        "nst": 151,
+        "place": "14 km SE of Eureka Roadhouse, Alaska",
+        "rms": 1.1,
+        "sig": 316,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1793387483943,
+        "title": "M 4.4 - 14 km SE of Eureka Roadhouse, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793391177387,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vngzyw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          155.7595,
+          65.0985,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tudk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tudk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tudk&format=geojson",
+        "dmin": 6.008,
+        "felt": null,
+        "gap": 99,
+        "ids": ",us7000tudk,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 90,
+        "place": "236 km ESE of Zyryanka, Russia",
+        "rms": 0.54,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793383270672,
+        "title": "M 4.5 - 236 km ESE of Zyryanka, Russia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793388755040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tudk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.607,
+          59.719,
+          91.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vnecvk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vnecvk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vnecvk&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 75,
+        "ids": ",aka2026vnecvk,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 98,
+        "place": "44 km W of Anchor Point, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793382284994,
+        "title": "M 2.5 - 44 km W of Anchor Point, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793382452814,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnecvk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.2834,
+          9.0593,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tub8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tub8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tub8&format=geojson",
+        "dmin": 2.096,
+        "felt": null,
+        "gap": 88,
+        "ids": ",us7000tub8,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 68,
+        "place": "7 km NE of Tago, Philippines",
+        "rms": 0.73,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793379986864,
+        "title": "M 4.6 - 7 km NE of Tago, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793389042040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tub8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.2892,
+          -6.5295,
+          361.426
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu97",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tu97",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu97&format=geojson",
+        "dmin": 6.871,
+        "felt": null,
+        "gap": 129,
+        "ids": ",us7000tu97,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 19,
+        "place": "262 km NNE of Lospalos, Timor Leste",
+        "rms": 0.47,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793379282737,
+        "title": "M 4.2 - 262 km NNE of Lospalos, Timor Leste",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793386421040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -178.0028,
+          -17.9769,
+          615.692
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu93",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tu93",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu93&format=geojson",
+        "dmin": 2.92,
+        "felt": null,
+        "gap": 123,
+        "ids": ",us7000tu93,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 45,
+        "place": "284 km E of Levuka, Fiji",
+        "rms": 0.9,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793378929917,
+        "title": "M 4.4 - 284 km E of Levuka, Fiji",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793381170040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.2141,
+          14.3043,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tu91",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tu91",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tu91&format=geojson",
+        "dmin": 2.224,
+        "felt": null,
+        "gap": 225,
+        "ids": ",us7000tu91,",
+        "mag": 4.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 9,
+        "place": "97 km WSW of Puerto Madero, Mexico",
+        "rms": 0.79,
+        "sig": 259,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793378605499,
+        "title": "M 4.1 - 97 km WSW of Puerto Madero, Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793385319040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1793392723000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
