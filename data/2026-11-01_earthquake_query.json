@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -150.953,
+    -56.2566,
+    7.2278,
+    123.2705,
+    60.54,
+    108.234
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -150.953,
+          60.54,
+          52.2
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vrataq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vrataq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vrataq&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 53,
+        "ids": ",aka2026vrataq,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 96,
+        "place": "7 km E of Ridgeway, Alaska",
+        "rms": 0.8,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793563325041,
+        "title": "M 2.7 - 7 km E of Ridgeway, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793563532021,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrataq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.4169,
+          -35.441,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tur0",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tur0",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tur0&format=geojson",
+        "dmin": 35.12,
+        "felt": null,
+        "gap": 80,
+        "ids": ",us7000tur0,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 45,
+        "place": "Mid-Indian Ridge",
+        "rms": 0.65,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793559237590,
+        "title": "M 4.8 - Mid-Indian Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793560361040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.328,
+          19.7626,
+          38.488
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuqy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuqy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuqy&format=geojson",
+        "dmin": 3.049,
+        "felt": null,
+        "gap": 107,
+        "ids": ",us7000tuqy,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 78,
+        "place": "101 km SW of Basco, Philippines",
+        "rms": 1.11,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793558577023,
+        "title": "M 4.6 - 101 km SW of Basco, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793562120040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.5217,
+          -23.8735,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuqx",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuqx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuqx&format=geojson",
+        "dmin": 21.296,
+        "felt": null,
+        "gap": 69,
+        "ids": ",us7000tuqx,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 74,
+        "place": "Mid-Indian Ridge",
+        "rms": 0.51,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793558079200,
+        "title": "M 5.0 - Mid-Indian Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793559241040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.5065,
+          -23.9496,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuqv",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuqv",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuqv&format=geojson",
+        "dmin": 37.225,
+        "felt": null,
+        "gap": 94,
+        "ids": ",us7000tuqv,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 40,
+        "place": "Mid-Indian Ridge",
+        "rms": 0.53,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793557823197,
+        "title": "M 4.6 - Mid-Indian Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793559328040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -27.1985,
+          -56.2566,
+          108.234
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuqk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuqk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuqk&format=geojson",
+        "dmin": 5.666,
+        "felt": null,
+        "gap": 67,
+        "ids": ",us7000tuqk,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 63,
+        "place": "South Sandwich Islands region",
+        "rms": 0.92,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793553116053,
+        "title": "M 5.1 - South Sandwich Islands region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793554232040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.2705,
+          23.8055,
+          18.483
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuqi",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuqi",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuqi&format=geojson",
+        "dmin": 0.7,
+        "felt": null,
+        "gap": 76,
+        "ids": ",us7000tuqi,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 59,
+        "place": "78 km SSE of Yonakuni, Japan",
+        "rms": 0.6,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793552478126,
+        "title": "M 4.7 - 78 km SSE of Yonakuni, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793554810040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.315,
+          31.674,
+          7.2278
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026vnfuzk",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026vnfuzk",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026vnfuzk&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 89,
+        "ids": ",us7000tuqb,tx2026vnfuzk,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 39,
+        "place": "55 km S of Whites City, New Mexico",
+        "rms": 0.2,
+        "sig": 112,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1793547602290,
+        "title": "M 2.7 - 55 km S of Whites City, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793548436951,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vnfuzk"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.3145,
+          19.413,
+          28
+        ],
+        "type": "Point"
+      },
+      "id": "pr2026305000",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026305000",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026305000&format=geojson",
+        "dmin": 0.9671,
+        "felt": null,
+        "gap": 239,
+        "ids": ",pr2026305000,",
+        "mag": 3.46,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 15,
+        "place": "104 km NNW of San Antonio, Puerto Rico",
+        "rms": 0.42,
+        "sig": 184,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1793543604440,
+        "title": "M 3.5 - 104 km NNW of San Antonio, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793545595127,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026305000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.037,
+          19.038,
+          19.36
+        ],
+        "type": "Point"
+      },
+      "id": "pr71538243",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71538243",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538243&format=geojson",
+        "dmin": 0.6862,
+        "felt": null,
+        "gap": 244,
+        "ids": ",us7000tupz,pr71538243,",
+        "mag": 3.22,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 17,
+        "place": "77 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "rms": 0.34,
+        "sig": 160,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1793537748560,
+        "title": "M 3.2 - 77 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793540414040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538243"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.2",
+    "generated": 1793564718000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
