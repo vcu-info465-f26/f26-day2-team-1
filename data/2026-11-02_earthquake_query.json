@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -152.572,
+    -13.8072,
+    0.1,
+    165.3938,
+    64.966,
+    399.286
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -149.459,
+          62.01,
+          0.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vtdcvd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vtdcvd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vtdcvd&format=geojson",
+        "dmin": 0.3,
+        "felt": null,
+        "gap": 42,
+        "ids": ",aka2026vtdcvd,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 59,
+        "place": "26 km SE of Susitna North, Alaska",
+        "rms": 0.9,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793661172619,
+        "title": "M 2.5 - 26 km SE of Susitna North, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793661326257,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtdcvd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -150.842,
+          64.966,
+          16.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vtbewf",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vtbewf",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vtbewf&format=geojson",
+        "dmin": 0.5,
+        "felt": null,
+        "gap": 137,
+        "ids": ",aka2026vtbewf,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 15,
+        "place": "10 km WSW of Manley Hot Springs, Alaska",
+        "rms": 0.5,
+        "sig": 104,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793657699633,
+        "title": "M 2.6 - 10 km WSW of Manley Hot Springs, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793657772278,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtbewf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.9302,
+          50.7109,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tv08",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "7000tv08",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv08&format=geojson",
+        "dmin": 1.146,
+        "felt": null,
+        "gap": 192,
+        "ids": ",us7000tv08,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": 1.862,
+        "net": "us",
+        "nst": 13,
+        "place": "201 km W of Port McNeill, Canada",
+        "rms": 0.74,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793653829183,
+        "title": "M 4.2 - 201 km W of Port McNeill, Canada",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793661369714,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.517997741699,
+          38.9039993286133,
+          7.11999988555908
+        ],
+        "type": "Point"
+      },
+      "id": "nc75461677",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75461677",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75461677&format=geojson",
+        "dmin": 0.05424,
+        "felt": null,
+        "gap": 91,
+        "ids": ",nc75461677,",
+        "mag": 2.79,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 52,
+        "place": "8 km E of Lower Lake, CA",
+        "rms": 0.18,
+        "sig": 120,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1793653328810,
+        "title": "M 2.8 - 8 km E of Lower Lake, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1793657848782,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461677"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          165.3938,
+          -13.8072,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tv03",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tv03",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv03&format=geojson",
+        "dmin": 6.789,
+        "felt": null,
+        "gap": 114,
+        "ids": ",us7000tv03,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 29,
+        "place": "226 km NW of Port-Olry, Vanuatu",
+        "rms": 0.81,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793652865928,
+        "title": "M 4.6 - 226 km NW of Port-Olry, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793653885040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.521667480469,
+          38.9206657409668,
+          0.930000007152557
+        ],
+        "type": "Point"
+      },
+      "id": "nc75461642",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75461642",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75461642&format=geojson",
+        "dmin": 0.07077,
+        "felt": null,
+        "gap": 198,
+        "ids": ",nc75461642,",
+        "mag": 2.51,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 15,
+        "place": "8 km E of Lower Lake, CA",
+        "rms": 0.09,
+        "sig": 97,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1793651656470,
+        "title": "M 2.5 - 8 km E of Lower Lake, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1793653040230,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461642"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.6114,
+          13.795,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuzd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuzd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuzd&format=geojson",
+        "dmin": 1.636,
+        "felt": null,
+        "gap": 91,
+        "ids": ",us7000tuzd,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 64,
+        "place": "168 km SE of San Jose Village, Northern Mariana Islands",
+        "rms": 0.61,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793649544529,
+        "title": "M 4.5 - 168 km SE of San Jose Village, Northern Mariana Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793650705040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.572,
+          60.178,
+          111.8
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vswaye",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vswaye",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vswaye&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 88,
+        "ids": ",aka2026vswaye,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 81,
+        "place": "52 km WNW of Ninilchik, Alaska",
+        "rms": 0.7,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793648423363,
+        "title": "M 2.7 - 52 km WNW of Ninilchik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793648673578,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vswaye"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.1534,
+          29.962,
+          399.286
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuy2",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuy2",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuy2&format=geojson",
+        "dmin": 5.663,
+        "felt": null,
+        "gap": 142,
+        "ids": ",us7000tuy2,",
+        "mag": 4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 27,
+        "place": "Izu Islands, Japan region",
+        "rms": 0.6,
+        "sig": 246,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793638705889,
+        "title": "M 4.0 - Izu Islands, Japan region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793644884040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuy2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.4694,
+          34.4807,
+          48.525
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tuxy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tuxy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tuxy&format=geojson",
+        "dmin": 1.206,
+        "felt": null,
+        "gap": 48,
+        "ids": ",us7000tuxy,",
+        "mag": 5.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 80,
+        "place": "81 km SSE of Palekastro, Greece",
+        "rms": 0.64,
+        "sig": 432,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793638157895,
+        "title": "M 5.3 - 81 km SSE of Palekastro, Greece",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793639236040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1793661876000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}

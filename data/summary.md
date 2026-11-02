@@ -1,15 +1,16 @@
-**Data covered:** 2026-09-17 to 2026-11-01 (UTC).
+**Data covered:** 2026-09-17 to 2026-11-02 (UTC).
 
-**Earthquake Summary (2026‑09‑17 to 2026‑11‑01)**  
+**Earthquake Summary (2026‑09‑17 to 2026‑11‑02)**  
 
-- Total earthquakes recorded: **220**  
+- **Total earthquakes recorded:** 230  
 
-| Depth group | Average magnitude | Average significance |
-|-------------|-------------------|----------------------|
-| Deep (≥ 30 km) | **4.03** | **265.81** |
-| Shallow (< 30 km) | **4.03** | **267.94** |
+- **Average magnitude**  
+  - Deep earthquakes (≥ 30 km): **4.03**  
+  - Shallow earthquakes (< 30 km): **4.00**  
 
-**Comparison**
+- **Average significance**  
+  - Deep earthquakes: **265.72**  
+  - Shallow earthquakes: **264.22**  
 
-- **Magnitude:** Both deep and shallow earthquakes have the same average magnitude of **4.03**; there is no difference in size between the two depth groups.  
-- **Significance:** Shallow earthquakes are slightly more significant on average, with a significance of **267.94** versus **265.81** for deep earthquakes. The difference is modest (≈ 2 points).
+**Comparison**  
+- Deep events have a slightly higher average magnitude (4.03 vs. 4.00) and marginally greater average significance (265.72 vs. 264.22) than shallow events. The differences are small, indicating that, over this period, deep and shallow earthquakes were similar in both size and impact.
