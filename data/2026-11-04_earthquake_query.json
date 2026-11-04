@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -154.798,
+    -25.3174,
+    1,
+    179.8078,
+    63.368,
+    508.132
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -153.379,
+          60.116,
+          154.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vwruvq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vwruvq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwruvq&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 68,
+        "ids": ",aka2026vwruvq,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 94,
+        "place": "52 km E of Port Alsworth, Alaska",
+        "rms": 0.8,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793827922343,
+        "title": "M 2.7 - 52 km E of Port Alsworth, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793828146434,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwruvq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          179.8078,
+          -25.3174,
+          508.132
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tw43",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tw43",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw43&format=geojson",
+        "dmin": 4.4,
+        "felt": null,
+        "gap": 89,
+        "ids": ",us7000tw43,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 44,
+        "place": "south of the Fiji Islands",
+        "rms": 0.86,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793827465643,
+        "title": "M 5.0 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793828359040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.1544,
+          12.6311,
+          159.022
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tw3k",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tw3k",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw3k&format=geojson",
+        "dmin": 1.411,
+        "felt": null,
+        "gap": 144,
+        "ids": ",us7000tw3k,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 73,
+        "place": "2 km W of Chinandega, Nicaragua",
+        "rms": 0.68,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793822126313,
+        "title": "M 4.5 - 2 km W of Chinandega, Nicaragua",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793824002040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -154.798,
+          56.625,
+          1.3
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vwonln",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vwonln",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwonln&format=geojson",
+        "dmin": 0.3,
+        "felt": null,
+        "gap": 177,
+        "ids": ",aka2026vwonln,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 15,
+        "place": "52 km SW of Akhiok, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793822014570,
+        "title": "M 2.5 - 52 km SW of Akhiok, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793822105703,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwonln"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.465,
+          60.362,
+          100.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vwogbw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vwogbw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwogbw&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 51,
+        "ids": ",aka2026vwogbw,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 85,
+        "place": "56 km NW of Ninilchik, Alaska",
+        "rms": 0.6,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793821509512,
+        "title": "M 2.7 - 56 km NW of Ninilchik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793821765719,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwogbw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -147.74,
+          60.068,
+          29.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vwoaud",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vwoaud",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwoaud&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 117,
+        "ids": ",aka2026vwoaud,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 38,
+        "place": "15 km E of Chenega, Alaska",
+        "rms": 0.9,
+        "sig": 104,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793821142999,
+        "title": "M 2.6 - 15 km E of Chenega, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793821406619,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwoaud"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.3935,
+          35.9566666666667,
+          2.49
+        ],
+        "type": "Point"
+      },
+      "id": "ci41358359",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "41358359",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41358359&format=geojson",
+        "dmin": 0.1109,
+        "felt": null,
+        "gap": 33,
+        "ids": ",ci41358359,",
+        "mag": 2.69,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ci",
+        "nst": 50,
+        "place": "21 km N of Searles Valley, CA",
+        "rms": 0.15,
+        "sig": 111,
+        "sources": ",ci,",
+        "status": "reviewed",
+        "time": 1793819713940,
+        "title": "M 2.7 - 21 km N of Searles Valley, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1793824530650,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358359"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.3925,
+          35.958,
+          2.64
+        ],
+        "type": "Point"
+      },
+      "id": "ci41358343",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "41358343",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41358343&format=geojson",
+        "dmin": 0.111,
+        "felt": 1,
+        "gap": 33,
+        "ids": ",ci41358343,",
+        "mag": 3.12,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ci",
+        "nst": 44,
+        "place": "21 km N of Searles Valley, CA",
+        "rms": 0.15,
+        "sig": 150,
+        "sources": ",ci,",
+        "status": "reviewed",
+        "time": 1793818770920,
+        "title": "M 3.1 - 21 km N of Searles Valley, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1793822244857,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358343"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.802,
+          63.368,
+          1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vwjrrv",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026vwjrrv",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwjrrv&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 38,
+        "ids": ",aka2026vwjrrv,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 31,
+        "place": "19 km SSW of Denali National Park, Alaska",
+        "rms": 0.9,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793813316393,
+        "title": "M 2.5 - 19 km SSW of Denali National Park, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793813411212,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjrrv"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.0753,
+          19.4948,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "pr2026308002",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026308002",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026308002&format=geojson",
+        "dmin": 1.1315,
+        "felt": null,
+        "gap": 225,
+        "ids": ",pr2026308002,",
+        "mag": 3.49,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 8,
+        "place": "106 km NNE of Punta Cana, Dominican Republic",
+        "rms": 0.49,
+        "sig": 187,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1793812191240,
+        "title": "M 3.5 - 106 km NNE of Punta Cana, Dominican Republic",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793819180678,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026308002"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1793828882000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
