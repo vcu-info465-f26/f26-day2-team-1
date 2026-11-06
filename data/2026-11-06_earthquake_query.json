@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.191,
+    -18.0741,
+    5.3308,
+    142.1175,
+    61.569,
+    567.218
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -151.891,
+          59.472,
+          57.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wahreq",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "a2026wahreq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wahreq&format=geojson",
+        "dmin": 0.3,
+        "felt": 1,
+        "gap": 110,
+        "ids": ",aka2026wahreq,",
+        "mag": 3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 138,
+        "place": "10 km WNW of Seldovia, Alaska",
+        "rms": 0.7,
+        "sig": 139,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793996795774,
+        "title": "M 3.0 - 10 km WNW of Seldovia, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1793997451001,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wahreq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.098,
+          57.087,
+          72.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wagewp",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wagewp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wagewp&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 125,
+        "ids": ",aka2026wagewp,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 40,
+        "place": "91 km ESE of Ugashik, Alaska",
+        "rms": 0.6,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1793994148122,
+        "title": "M 2.5 - 91 km ESE of Ugashik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793994275348,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wagewp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.9371,
+          7.5079,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twmq",
+      "properties": {
+        "alert": null,
+        "cdi": 5.3,
+        "code": "7000twmq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twmq&format=geojson",
+        "dmin": 3.709,
+        "felt": 2,
+        "gap": 127,
+        "ids": ",us7000twmq,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 95,
+        "place": "10 km ESE of Pedas\u00ed, Panama",
+        "rms": 0.6,
+        "sig": 299,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793992014642,
+        "title": "M 4.4 - 10 km ESE of Pedas\u00ed, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1793998913709,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -178.191,
+          -18.0741,
+          567.218
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twkp",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twkp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twkp&format=geojson",
+        "dmin": 2.819,
+        "felt": null,
+        "gap": 150,
+        "ids": ",us7000twkp,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 66,
+        "place": "263 km E of Levuka, Fiji",
+        "rms": 0.55,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793987605873,
+        "title": "M 4.3 - 263 km E of Levuka, Fiji",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793988990040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twkp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.4987,
+          34.3043,
+          40.657
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twhq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twhq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twhq&format=geojson",
+        "dmin": 1.354,
+        "felt": null,
+        "gap": 115,
+        "ids": ",us7000twhq,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 54,
+        "place": "101 km SSE of Palekastro, Greece",
+        "rms": 0.69,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793978818080,
+        "title": "M 4.5 - 101 km SSE of Palekastro, Greece",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793987842040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -150.017,
+          61.569,
+          14.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026vzxiyp",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "a2026vzxiyp",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzxiyp&format=geojson",
+        "dmin": 0.4,
+        "felt": 3,
+        "gap": 25,
+        "ids": ",aka2026vzxiyp,us7000twhn,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 99,
+        "place": "6 km NNW of Big Lake, Alaska",
+        "rms": 0.9,
+        "sig": 121,
+        "sources": ",ak,us,",
+        "status": "automatic",
+        "time": 1793978237070,
+        "title": "M 2.8 - 6 km NNW of Big Lake, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1793987696817,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzxiyp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.2478,
+          26.9139,
+          450.247
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twhh",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twhh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twhh&format=geojson",
+        "dmin": 8.743,
+        "felt": null,
+        "gap": 136,
+        "ids": ",us7000twhh,",
+        "mag": 4.2,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 46,
+        "place": "Bonin Islands, Japan region",
+        "rms": 0.82,
+        "sig": 271,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1793973176729,
+        "title": "M 4.2 - Bonin Islands, Japan region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793987208040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.428,
+          31.651,
+          5.3308
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026vwborq",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026vwborq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026vwborq&format=geojson",
+        "dmin": 0,
+        "felt": null,
+        "gap": 77,
+        "ids": ",us7000twgh,tx2026vwborq,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 25,
+        "place": "58 km S of Whites City, New Mexico",
+        "rms": 0.2,
+        "sig": 96,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1793963379601,
+        "title": "M 2.5 - 58 km S of Whites City, New Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793980498399,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vwborq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.4766666666667,
+          18.8921666666667,
+          60.24
+        ],
+        "type": "Point"
+      },
+      "id": "pr71538608",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71538608",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538608&format=geojson",
+        "dmin": 0.61,
+        "felt": null,
+        "gap": 215,
+        "ids": ",pr71538608,",
+        "mag": 3.15,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 18,
+        "place": "62 km NNE of Luquillo, Puerto Rico",
+        "rms": 0.47,
+        "sig": 153,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1793962781730,
+        "title": "M 3.2 - 62 km NNE of Luquillo, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1793964721920,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538608"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.1175,
+          34.9677,
+          29
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twg9",
+      "properties": {
+        "alert": "green",
+        "cdi": 4.2,
+        "code": "7000twg9",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twg9&format=geojson",
+        "dmin": 3.545,
+        "felt": 31,
+        "gap": 32,
+        "ids": ",us7000twg9,usauto7000twg9,atto2tlr,",
+        "mag": 6.1,
+        "magType": "mww",
+        "mmi": 0,
+        "net": "us",
+        "nst": 134,
+        "place": "144 km SE of Hasaki, Japan",
+        "rms": 0.76,
+        "sig": 585,
+        "sources": ",us,usauto,at,",
+        "status": "reviewed",
+        "time": 1793961567869,
+        "title": "M 6.1 - 144 km SE of Hasaki, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1793996910732,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794000369000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
