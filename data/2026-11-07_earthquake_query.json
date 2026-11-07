@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -151.7,
+    -22.5556,
+    3.5,
+    170.0629,
+    61.338,
+    81.6
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -66.7781666666667,
+          18.0251666666667,
+          14.4
+        ],
+        "type": "Point"
+      },
+      "id": "pr71538718",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71538718",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538718&format=geojson",
+        "dmin": 0.01372,
+        "felt": null,
+        "gap": 129,
+        "ids": ",pr71538718,",
+        "mag": 2.5,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 19,
+        "place": "1 km NW of Magas Arriba, Puerto Rico",
+        "rms": 0.14,
+        "sig": 96,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1794079483520,
+        "title": "M 2.5 - 1 km NW of Magas Arriba, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794080406950,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538718"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.895166666667,
+          38.4783333333333,
+          3.5
+        ],
+        "type": "Point"
+      },
+      "id": "uu80163521",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "80163521",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163521&format=geojson",
+        "dmin": 0.007243,
+        "felt": 1,
+        "gap": 35,
+        "ids": ",uu80163521,us7000twtf,",
+        "mag": 3.12,
+        "magType": "ml",
+        "mmi": 3.604,
+        "net": "uu",
+        "nst": 34,
+        "place": "13 km NE of Milford, Utah",
+        "rms": 0.17,
+        "sig": 150,
+        "sources": ",uu,us,",
+        "status": "reviewed",
+        "time": 1794075056160,
+        "title": "M 3.1 - 13 km NE of Milford, Utah",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794079009763,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80163521"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.7,
+          59.766,
+          76.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wbytqz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wbytqz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbytqz&format=geojson",
+        "dmin": 0.4,
+        "felt": null,
+        "gap": 101,
+        "ids": ",us7000twtd,aka2026wbytqz,",
+        "mag": 2.9,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 115,
+        "place": "7 km SW of Nikolaevsk, Alaska",
+        "rms": 0.7,
+        "sig": 129,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1794074334493,
+        "title": "M 2.9 - 7 km SW of Nikolaevsk, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794078267040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbytqz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.1439,
+          -1.8505,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twt8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twt8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twt8&format=geojson",
+        "dmin": 1.982,
+        "felt": null,
+        "gap": 143,
+        "ids": ",us7000twt8,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 60,
+        "place": "45 km NNW of Salinas, Ecuador",
+        "rms": 0.73,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794071858931,
+        "title": "M 4.7 - 45 km NNW of Salinas, Ecuador",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794073035040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -151.682,
+          61.338,
+          81.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wbvubh",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "a2026wbvubh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbvubh&format=geojson",
+        "dmin": 0.1,
+        "felt": 1,
+        "gap": 45,
+        "ids": ",aka2026wbvubh,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 89,
+        "place": "38 km NW of Beluga, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1794068964746,
+        "title": "M 2.5 - 38 km NW of Beluga, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794073470277,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbvubh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.691,
+          34.8611,
+          38.081
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twt0",
+      "properties": {
+        "alert": "green",
+        "cdi": 5.6,
+        "code": "7000twt0",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twt0&format=geojson",
+        "dmin": 0.73,
+        "felt": 44,
+        "gap": 49,
+        "ids": ",us7000twt0,",
+        "mag": 5.5,
+        "magType": "mww",
+        "mmi": 5.264,
+        "net": "us",
+        "nst": 129,
+        "place": "10 km NW of Hamakita, Japan",
+        "rms": 0.9,
+        "sig": 490,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794067475125,
+        "title": "M 5.5 - 10 km NW of Hamakita, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,ground-failure,losspager,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794081686085,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.921,
+          7.5067,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twsy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twsy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsy&format=geojson",
+        "dmin": 1.651,
+        "felt": null,
+        "gap": 129,
+        "ids": ",us7000twsy,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 21,
+        "place": "11 km ESE of Pedas\u00ed, Panama",
+        "rms": 0.82,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794067312257,
+        "title": "M 4.5 - 11 km ESE of Pedas\u00ed, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794081191040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          170.0629,
+          -22.5556,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twsz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twsz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsz&format=geojson",
+        "dmin": 2.419,
+        "felt": null,
+        "gap": 98,
+        "ids": ",us7000twsz,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 41,
+        "place": "251 km ESE of Tadine, New Caledonia",
+        "rms": 0.91,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794066900079,
+        "title": "M 4.3 - 251 km ESE of Tadine, New Caledonia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794078853040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.4549,
+          44.0302,
+          11.906
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twsu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twsu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsu&format=geojson",
+        "dmin": 0.292,
+        "felt": null,
+        "gap": 48,
+        "ids": ",us7000twsu,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 67,
+        "place": "25 km S of Clayton, Idaho",
+        "rms": 0.57,
+        "sig": 104,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794066194995,
+        "title": "M 2.6 - 25 km S of Clayton, Idaho",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794076130040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twsu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6467,
+          -19.7402,
+          8.035
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twss",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "7000twss",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twss&format=geojson",
+        "dmin": 2.822,
+        "felt": 2,
+        "gap": 44,
+        "ids": ",us7000twss,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 101,
+        "place": "77 km NNW of Khorixas, Namibia",
+        "rms": 0.7,
+        "sig": 370,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794064970149,
+        "title": "M 4.9 - 77 km NNW of Khorixas, Namibia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794081247137,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794082042000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
