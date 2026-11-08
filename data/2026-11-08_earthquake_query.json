@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -155.83949279785,
+    -27.6901,
+    4.7569,
+    128.6755,
+    62.195,
+    224.59
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -147.861,
+          62.195,
+          20.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wdzewo",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wdzewo",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdzewo&format=geojson",
+        "dmin": 0.4,
+        "felt": null,
+        "gap": 16,
+        "ids": ",aka2026wdzewo,",
+        "mag": 3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 113,
+        "place": "44 km NNW of Glacier View, Alaska",
+        "rms": 1.1,
+        "sig": 138,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1794168669912,
+        "title": "M 3.0 - 44 km NNW of Glacier View, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794168846197,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdzewo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -128.5405,
+          44.0286,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twyw",
+      "properties": {
+        "alert": null,
+        "cdi": 1,
+        "code": "7000twyw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyw&format=geojson",
+        "dmin": 2.303,
+        "felt": 1,
+        "gap": 194,
+        "ids": ",us7000twyw,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 92,
+        "place": "off the coast of Oregon",
+        "rms": 0.78,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794165631718,
+        "title": "M 4.4 - off the coast of Oregon",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,event-sequence,oaf,origin,phase-data,",
+        "tz": null,
+        "updated": 1794169246172,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.6755,
+          2.5497,
+          224.59
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twyd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twyd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyd&format=geojson",
+        "dmin": 5.448,
+        "felt": null,
+        "gap": 80,
+        "ids": ",us7000twyd,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 51,
+        "place": "117 km NE of Tobelo, Indonesia",
+        "rms": 0.86,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794156312938,
+        "title": "M 4.6 - 117 km NE of Tobelo, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794157446040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -36.9451,
+          7.703,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twyc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twyc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyc&format=geojson",
+        "dmin": 13.48,
+        "felt": null,
+        "gap": 110,
+        "ids": ",us7000twyc,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 25,
+        "place": "central Mid-Atlantic Ridge",
+        "rms": 1.03,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794155604915,
+        "title": "M 4.8 - central Mid-Atlantic Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794158459040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.839492797852,
+          19.3120002746582,
+          14.1499996185303
+        ],
+        "type": "Point"
+      },
+      "id": "hv75068552",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75068552",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068552&format=geojson",
+        "dmin": 0.05593,
+        "felt": null,
+        "gap": 149,
+        "ids": ",hv75068552,",
+        "mag": 2.58,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 33,
+        "place": "16 km S of Honaunau-Napoopoo, Hawaii",
+        "rms": 0.25,
+        "sig": 102,
+        "sources": ",hv,",
+        "status": "automatic",
+        "time": 1794152004810,
+        "title": "M 2.6 - 16 km S of Honaunau-Napoopoo, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794152207480,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068552"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.262,
+          18.9528333333333,
+          21.53
+        ],
+        "type": "Point"
+      },
+      "id": "pr71538833",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71538833",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538833&format=geojson",
+        "dmin": 0.479,
+        "felt": null,
+        "gap": 300,
+        "ids": ",us7000twy7,pr71538833,",
+        "mag": 3.42,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 14,
+        "place": "88 km NE of Cruz Bay, U.S. Virgin Islands",
+        "rms": 0.19,
+        "sig": 180,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1794149546630,
+        "title": "M 3.4 - 88 km NE of Cruz Bay, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794157589040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538833"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -150.093,
+          60.69,
+          34.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wdoizt",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "a2026wdoizt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdoizt&format=geojson",
+        "dmin": 0.2,
+        "felt": 10,
+        "gap": 48,
+        "ids": ",aka2026wdoizt,us7000twxz,",
+        "mag": 3.5,
+        "magType": "ml",
+        "mmi": 2.907,
+        "net": "ak",
+        "nst": 192,
+        "place": "26 km NNW of Cooper Landing, Alaska",
+        "rms": 1,
+        "sig": 192,
+        "sources": ",ak,us,",
+        "status": "automatic",
+        "time": 1794149163581,
+        "title": "M 3.5 - 26 km NNW of Cooper Landing, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794164483907,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdoizt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.3064,
+          38.9507,
+          4.7569
+        ],
+        "type": "Point"
+      },
+      "id": "nn00926785",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "00926785",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00926785&format=geojson",
+        "dmin": 0.381,
+        "felt": 1,
+        "gap": 121,
+        "ids": ",nn00926785,us7000twxw,",
+        "mag": 3.54,
+        "magType": "ml",
+        "mmi": 3.286,
+        "net": "nn",
+        "nst": 9,
+        "place": "21 km W of Preston, Nevada",
+        "rms": 0.1699,
+        "sig": 193,
+        "sources": ",nn,us,",
+        "status": "reviewed",
+        "time": 1794146117032,
+        "title": "M 3.5 - 21 km W of Preston, Nevada",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794153513051,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926785"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.1911666666667,
+          19.4585,
+          46.62
+        ],
+        "type": "Point"
+      },
+      "id": "pr71538818",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71538818",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538818&format=geojson",
+        "dmin": 1.122,
+        "felt": null,
+        "gap": 268,
+        "ids": ",pr71538818,",
+        "mag": 3.37,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 12,
+        "place": "126 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "rms": 0.27,
+        "sig": 175,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1794141442680,
+        "title": "M 3.4 - 126 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794143862370,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538818"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          64.443,
+          -27.6901,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000twxn",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000twxn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twxn&format=geojson",
+        "dmin": 7.959,
+        "felt": null,
+        "gap": 111,
+        "ids": ",us7000twxn,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 40,
+        "place": "Southwest Indian Ridge",
+        "rms": 0.67,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794140957722,
+        "title": "M 4.7 - Southwest Indian Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794142283040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794169325000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
