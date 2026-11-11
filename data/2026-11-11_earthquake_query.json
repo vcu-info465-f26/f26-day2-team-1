@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -179.8474,
+    -41.5234,
+    5.8,
+    154.7612,
+    56.136,
+    527.582
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -13.4059,
+          -7.957,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txpa",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txpa",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpa&format=geojson",
+        "dmin": 24.923,
+        "felt": null,
+        "gap": 50,
+        "ids": ",us7000txpa,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 36,
+        "place": "110 km E of Georgetown, Saint Helena",
+        "rms": 0.77,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794434622610,
+        "title": "M 4.9 - 110 km E of Georgetown, Saint Helena",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794435556040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.9294,
+          13.7841,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txns",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txns",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txns&format=geojson",
+        "dmin": 2.598,
+        "felt": null,
+        "gap": 211,
+        "ids": ",us7000txns,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 28,
+        "place": "112 km SW of Brisas Barra de Suchiate, Mexico",
+        "rms": 0.97,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794431722109,
+        "title": "M 4.4 - 112 km SW of Brisas Barra de Suchiate, Mexico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794432814040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txns"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -69.3312,
+          -19.6783,
+          112.957
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txni",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "7000txni",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txni&format=geojson",
+        "dmin": 0.49,
+        "felt": 1,
+        "gap": 91,
+        "ids": ",us7000txni,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 36,
+        "place": "41 km SSE of Cami\u00f1a, Chile",
+        "rms": 0.73,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794429904390,
+        "title": "M 4.5 - 41 km SSE of Cami\u00f1a, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794435761875,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -177.9398,
+          -21.3542,
+          392.607
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txnf",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txnf",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txnf&format=geojson",
+        "dmin": 5.212,
+        "felt": null,
+        "gap": 125,
+        "ids": ",us7000txnf,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 69,
+        "place": "274 km W of Houma, Tonga",
+        "rms": 0.69,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794429502718,
+        "title": "M 4.4 - 274 km W of Houma, Tonga",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794434099040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txnf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.443,
+          56.125,
+          5.8
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wjnswr",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wjnswr",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjnswr&format=geojson",
+        "dmin": 1.1,
+        "felt": null,
+        "gap": 220,
+        "ids": ",us7000txnd,aka2026wjnswr,",
+        "mag": 3.3,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 81,
+        "place": "131 km SSE of Old Harbor, Alaska",
+        "rms": 0.6,
+        "sig": 168,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1794428686192,
+        "title": "M 3.3 - 131 km SSE of Old Harbor, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794433441040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjnswr"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -179.8474,
+          -23.5023,
+          527.582
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txmx",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txmx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmx&format=geojson",
+        "dmin": 6.056,
+        "felt": null,
+        "gap": 89,
+        "ids": ",us7000txmx,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 43,
+        "place": "south of the Fiji Islands",
+        "rms": 0.85,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794426621669,
+        "title": "M 4.5 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794427921040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1759,
+          -41.5234,
+          34.893
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txmq",
+      "properties": {
+        "alert": null,
+        "cdi": 3.4,
+        "code": "7000txmq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmq&format=geojson",
+        "dmin": 1.738,
+        "felt": 4,
+        "gap": 78,
+        "ids": ",us7000txmq,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 121,
+        "place": "48 km NW of Ancud, Chile",
+        "rms": 0.81,
+        "sig": 386,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794424877374,
+        "title": "M 5.0 - 48 km NW of Ancud, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794432119663,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.489,
+          56.136,
+          20.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wjlejc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wjlejc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjlejc&format=geojson",
+        "dmin": 1,
+        "felt": null,
+        "gap": 240,
+        "ids": ",us7000txmn,aka2026wjlejc,",
+        "mag": 3.1,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 52,
+        "place": "128 km SSE of Old Harbor, Alaska",
+        "rms": 0.6,
+        "sig": 148,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1794424099738,
+        "title": "M 3.1 - 128 km SSE of Old Harbor, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794425548040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjlejc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.4194,
+          -28.6411,
+          113.235
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txmi",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txmi",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmi&format=geojson",
+        "dmin": 0.443,
+        "felt": null,
+        "gap": 116,
+        "ids": ",us7000txmi,",
+        "mag": 3.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 36,
+        "place": "34 km ESE of Vallenar, Chile",
+        "rms": 1.01,
+        "sig": 234,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794422516682,
+        "title": "M 3.9 - 34 km ESE of Vallenar, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794424808040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          154.7612,
+          -6.3288,
+          58.822
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txm8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txm8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txm8&format=geojson",
+        "dmin": 3.346,
+        "felt": null,
+        "gap": 21,
+        "ids": ",us7000txm8,",
+        "mag": 5.1,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 161,
+        "place": "80 km W of Panguna, Papua New Guinea",
+        "rms": 0.75,
+        "sig": 400,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794418702582,
+        "title": "M 5.1 - 80 km W of Panguna, Papua New Guinea",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794421474040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794436558000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
