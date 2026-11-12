@@ -9,6 +9,7 @@ from chat import render_chat
 from comparison_plot import make_comparison_plot
 from data_queries import filter_by_magnitude, load_earthquake_data
 from map import make_map
+from summarize import format_summary_markdown
 from time_plot import make_time_plot
 
 
@@ -32,6 +33,10 @@ st.markdown(
         [data-testid="stSidebar"] label,
         [data-testid="stSidebar"] p {
             font-size: 1.2rem !important;
+        }
+
+        [data-testid="stSidebar"] .definitions-heading {
+            font-size: 1.5rem !important;
         }
 
         /* Move the values and rail together below the widget label. */
@@ -73,6 +78,7 @@ st.write(
     "Explore where earthquakes happen, how large they are, "
     "and how their significance compares at different depths."
 )
+st.divider()
 
 # Display the saved AI-generated summary from the full earthquake dataset.
 summary_path = Path(__file__).resolve().parent.parent / "data" / "summary.md"
@@ -82,36 +88,11 @@ st.subheader("Earthquake Data Summary")
 if summary_path.exists():
     st.caption("Generated using Groq AI based on the full earthquake dataset. "
     "Not affected by dashboard filters.")
-    st.markdown(summary_path.read_text(encoding="utf-8"))
+    st.markdown(format_summary_markdown(summary_path.read_text(encoding="utf-8")))
 else:
     st.info("The earthquake summary is not available yet.")
 
-# Shared depth key uses the same colors as every chart.
-st.markdown(
-    """
-    <div class="depth-key">
-        <strong>Depth Key:</strong>
-        <span class="shallow-dot">●</span> <strong>Shallow:</strong> &lt; 30 km deep
-        <span class="deep-dot">●</span> <strong>Deep:</strong> ≥ 30 km deep
-    </div>
-    <style>
-        .depth-key {
-            font-size: 1.2rem;
-            margin-bottom: 1rem;
-        }
-
-        .shallow-dot, .deep-dot {
-            font-size: 1.35rem;
-            vertical-align: -0.08em;
-            margin-left: 1rem;
-        }
-
-        .shallow-dot { color: #7EC8FF; }
-        .deep-dot { color: #1673D1; }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+st.divider()
 
 # Get slider limits from the actual data.
 minimum_magnitude = float(dataframe["magnitude"].min())
@@ -129,6 +110,18 @@ filtered_dataframe = filter_by_magnitude(dataframe, selected_range)
 selected_status = st.sidebar.selectbox(
     "USGS Review Status",
     ["All", "Reviewed", "Automatic"],
+)
+
+st.sidebar.markdown('<h3 class="definitions-heading">Definitions</h3>', unsafe_allow_html=True)
+st.sidebar.markdown(
+    "**Depth:** How far below the surface the earthquake starts, measured in "
+    "kilometers. This dashboard groups events below 30 km as shallow and events "
+    "at 30 km or deeper as deep.\n\n"
+    "**Magnitude:** How large the earthquake was at its source. A higher "
+    "magnitude means a larger earthquake, not necessarily stronger shaking at "
+    "a particular location.\n\n"
+    "**Significance:** A USGS score based on magnitude, felt reports, and "
+    "estimated impact alerts. It is not a direct measure of damage."
 )
 
 # Apply the status filter after the magnitude filter.
@@ -156,11 +149,41 @@ else:
             use_container_width=True,
         )
 
+    # Shared depth key uses the same colors as every chart.
+    st.markdown(
+        """
+        <div class="depth-key">
+            <strong>Depth Key:</strong>
+            <span class="shallow-dot">●</span> <strong>Shallow:</strong> &lt; 30 km deep
+            <span class="deep-dot">●</span> <strong>Deep:</strong> ≥ 30 km deep
+        </div>
+        <style>
+            .depth-key {
+                font-size: 1.2rem;
+                margin-bottom: 1rem;
+            }
+
+            .shallow-dot, .deep-dot {
+                font-size: 1.35rem;
+                vertical-align: -0.08em;
+                margin-left: 1rem;
+            }
+
+            .shallow-dot { color: #7EC8FF; }
+            .deep-dot { color: #1673D1; }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.divider()
+
     # The map sits below both charts and uses the same filtered data.
     st.plotly_chart(
         make_map(filtered_dataframe),
         use_container_width=True,
     )
+    st.divider()
 
     st.subheader("Earthquake Dataframe")
 
@@ -193,6 +216,7 @@ st.caption(
     "Data source: USGS Earthquake Catalog API. "
     "Data is built from committed snapshots in data/."
 )
+st.divider()
 
 # Give the chat the same filtered rows used by the charts and dataframe.
 render_chat(filtered_dataframe, selected_range, selected_status)
