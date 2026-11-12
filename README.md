@@ -51,3 +51,15 @@ Joshua → Danny → Hira → Vishvag → Joshua
 
 ### Tester
 [Hira]
+
+## Sprint 3 Summary
+
+The Daily earthquake refresh workflow runs every day at 11:00 AM. It fetches a new USGS earthquake snapshot, then `src/summarize.py` rebuilds the database and calculates the total event count and each depth group's average magnitude and significance. Groq turns those statistics into a short summary. The workflow saves it to `data/summary.md` and commits it to `main` alongside the snapshots.
+
+The dashboard displays the saved summary and the dates it covers. The summary uses all collected data, so the dashboard filters do not change it. If summary generation fails, the previous summary stays in place and the workflow still commits the new snapshots.
+
+### Required secrets
+
+- GitHub Actions — `GROQ_API_KEY`: lets the workflow generate the daily summary
+- GitHub Actions — `REFRESH_TOKEN1`: lets the workflow push the snapshots and summary to the repo
+- Streamlit — `GROQ_API_KEY`: lets the live dashboard chatbot answer questions
