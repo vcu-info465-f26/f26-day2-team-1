@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -156.79,
+    1.1216,
+    -3.42,
+    178.7626,
+    67.398,
+    483.86
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.1911,
+          27.2239,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txvw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txvw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txvw&format=geojson",
+        "dmin": 5.561,
+        "felt": null,
+        "gap": 54,
+        "ids": ",us7000txvw,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 53,
+        "place": "41 km N of Weining, China",
+        "rms": 1.16,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794513794062,
+        "title": "M 4.9 - 41 km N of Weining, China",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794516498040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.635498046875,
+          36.8901672363281,
+          -0.0599999986588955
+        ],
+        "type": "Point"
+      },
+      "id": "nc75465862",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75465862",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75465862&format=geojson",
+        "dmin": 0.03536,
+        "felt": null,
+        "gap": 89,
+        "ids": ",nc75465862,",
+        "mag": 2.58,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 10,
+        "place": "1 km ENE of Aromas, CA",
+        "rms": 0.32,
+        "sig": 102,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1794512457270,
+        "title": "M 2.6 - 1 km ENE of Aromas, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1794515543214,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465862"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.79,
+          67.398,
+          10.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wlhnqh",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "a2026wlhnqh",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlhnqh&format=geojson",
+        "dmin": 1.9,
+        "felt": 1,
+        "gap": 68,
+        "ids": ",aka2026wlhnqh,",
+        "mag": 3.4,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 69,
+        "place": "54 km N of Kobuk, Alaska",
+        "rms": 1,
+        "sig": 178,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1794511119951,
+        "title": "M 3.4 - 54 km N of Kobuk, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794512076556,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlhnqh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.49333190918,
+          19.1936664581299,
+          29.2800006866455
+        ],
+        "type": "Point"
+      },
+      "id": "hv75069727",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75069727",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75069727&format=geojson",
+        "dmin": 0.04815,
+        "felt": null,
+        "gap": 78,
+        "ids": ",hv75069727,",
+        "mag": 2.64,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 39,
+        "place": "1 km WSW of P\u0101hala, Hawaii",
+        "rms": 0.180000007,
+        "sig": 107,
+        "sources": ",hv,",
+        "status": "automatic",
+        "time": 1794511026730,
+        "title": "M 2.6 - 1 km WSW of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794511241120,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069727"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.878333333333,
+          41.5665,
+          -3.42
+        ],
+        "type": "Point"
+      },
+      "id": "uu80164356",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "80164356",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80164356&format=geojson",
+        "dmin": 0.1166,
+        "felt": 1,
+        "gap": 113,
+        "ids": ",uu80164356,",
+        "mag": 2.95,
+        "magType": "ml",
+        "mmi": null,
+        "net": "uu",
+        "nst": 21,
+        "place": "3 km NNW of Little America, Wyoming",
+        "rms": 0.2,
+        "sig": 134,
+        "sources": ",uu,",
+        "status": "reviewed",
+        "time": 1794503939890,
+        "title": "M 3.0 - 3 km NNW of Little America, Wyoming",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794507642193,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164356"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -153.099,
+          60.218,
+          147.8
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wlbocy",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wlbocy",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlbocy&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 62,
+        "ids": ",us7000txtq,aka2026wlbocy,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 97,
+        "place": "67 km E of Port Alsworth, Alaska",
+        "rms": 0.7,
+        "sig": 96,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1794500347340,
+        "title": "M 2.5 - 67 km E of Port Alsworth, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794501324040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlbocy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.075,
+          59.035,
+          54.9
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wlajid",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wlajid",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlajid&format=geojson",
+        "dmin": 0.5,
+        "felt": null,
+        "gap": 112,
+        "ids": ",us7000txtk,aka2026wlajid,",
+        "mag": 3.2,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 150,
+        "place": "36 km SSW of Nanwalek, Alaska",
+        "rms": 0.8,
+        "sig": 158,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1794498234833,
+        "title": "M 3.2 - 36 km SSW of Nanwalek, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794498723040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlajid"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.1127,
+          1.1216,
+          39.203
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txtd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txtd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txtd&format=geojson",
+        "dmin": 8.804,
+        "felt": null,
+        "gap": 109,
+        "ids": ",us7000txtd,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 41,
+        "place": "115 km ESE of Bitung, Indonesia",
+        "rms": 0.7,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794495512284,
+        "title": "M 4.5 - 115 km ESE of Bitung, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794513205040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txtd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          178.7626,
+          51.3114,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txst",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txst",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txst&format=geojson",
+        "dmin": 0.345,
+        "felt": null,
+        "gap": 193,
+        "ids": ",aka2026wkwfwk,us7000txst,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": 3.238,
+        "net": "us",
+        "nst": 51,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": 1.02,
+        "sig": 298,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1794490797544,
+        "title": "M 4.4 - Rat Islands, Aleutian Islands, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794509689367,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txst"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.4195,
+          26.6767,
+          483.86
+        ],
+        "type": "Point"
+      },
+      "id": "us7000txsu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000txsu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txsu&format=geojson",
+        "dmin": 9.024,
+        "felt": null,
+        "gap": 91,
+        "ids": ",us7000txsu,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 48,
+        "place": "Bonin Islands, Japan region",
+        "rms": 0.76,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794490675661,
+        "title": "M 4.3 - Bonin Islands, Japan region",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794506812040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txsu"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794521482000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
