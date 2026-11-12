@@ -1,0 +1,15 @@
+Sprint 3 Retrospective
+
+What went well was that we added a daily AI summary and a chatbot to the earthquake dashboard. The summary uses the full dataset, while the chat uses the same filtered data as the charts. 
+Calculating the statistics in Python makes it easier to verify the answers and keeps us from sending the entire dataframe to Groq. The refresh also keeps collecting snapshots when summary generation failed.
+
+The chatbot worked on Streamlit, but the daily summary initially failed because GitHub Actions didn't have its own Geoq API key.
+The overall run still showed success because the snapshot commit worked. We had to check the individual step logs and the summary file to see what failed. 
+After configuring the Actions secret, we verified that the workflow generated and committed a fresh summary.
+
+A change to make for final release is that we should do an end-to-end check on the public dashboard part of our release checklist. 
+Before calling the release ready, the Tester confirms that the workflow committed a fresh summary, that the live dashboard displays it, and that a chatbot answer matches the chart after a filter change.
+
+We didn't find any badly wrong estimates. The 3 point refresh story showed stuff that is easy to overlook: verifying the secrets in each environment and checking the output of individual workflow steps.
+
+We completed 18 story points: AI summary (5), automated refresh (3), dashboard chat (5), and data-grounded answers (5).
