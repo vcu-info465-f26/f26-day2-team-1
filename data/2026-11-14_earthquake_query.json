@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -169.239,
+    -40.0345,
+    0.0008,
+    176.3623,
+    52.041,
+    506.268
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -119.3295,
+          41.5538,
+          0.0008
+        ],
+        "type": "Point"
+      },
+      "id": "nn00926979",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "00926979",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00926979&format=geojson",
+        "dmin": 1.859,
+        "felt": null,
+        "gap": 306,
+        "ids": ",nn00926979,",
+        "mag": 2.93,
+        "magType": "ml",
+        "mmi": null,
+        "net": "nn",
+        "nst": 12,
+        "place": "70 km E of Cedarville, California",
+        "rms": 0.3618,
+        "sig": 132,
+        "sources": ",nn,",
+        "status": "automatic",
+        "time": 1794685864046,
+        "title": "M 2.9 - 70 km E of Cedarville, California",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794686061074,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926979"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -63.653,
+          -22.2364,
+          506.268
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ty9z",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ty9z",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty9z&format=geojson",
+        "dmin": 3.666,
+        "felt": null,
+        "gap": 21,
+        "ids": ",us7000ty9z,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 94,
+        "place": "24 km S of Yacuiba, Bolivia",
+        "rms": 0.79,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794679441078,
+        "title": "M 4.7 - 24 km S of Yacuiba, Bolivia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794680337040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          176.3623,
+          -40.0345,
+          27.863
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ty9x",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "7000ty9x",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty9x&format=geojson",
+        "dmin": 0.309,
+        "felt": 1,
+        "gap": 90,
+        "ids": ",us7000ty9x,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 38,
+        "place": "29 km NE of Dannevirke, New Zealand",
+        "rms": 0.81,
+        "sig": 285,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794678689113,
+        "title": "M 4.3 - 29 km NE of Dannevirke, New Zealand",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1794684413944,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9x"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.6097,
+          5.5982,
+          65.399
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ty9v",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ty9v",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty9v&format=geojson",
+        "dmin": 1.785,
+        "felt": null,
+        "gap": 104,
+        "ids": ",us7000ty9v,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 80,
+        "place": "96 km SSE of Pondaguitan, Philippines",
+        "rms": 1.04,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794675399533,
+        "title": "M 4.6 - 96 km SSE of Pondaguitan, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794680102040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.9029,
+          -24.049,
+          197.571
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ty9n",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ty9n",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty9n&format=geojson",
+        "dmin": 1.601,
+        "felt": null,
+        "gap": 59,
+        "ids": ",us7000ty9n,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 34,
+        "place": "62 km WNW of San Antonio de los Cobres, Argentina",
+        "rms": 1.16,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794674179635,
+        "title": "M 4.6 - 62 km WNW of San Antonio de los Cobres, Argentina",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794679074040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -67.3768333333333,
+          17.9923333333333,
+          11.32
+        ],
+        "type": "Point"
+      },
+      "id": "pr71539258",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71539258",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539258&format=geojson",
+        "dmin": 0.2547,
+        "felt": null,
+        "gap": 285,
+        "ids": ",pr71539258,",
+        "mag": 2.54,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 15,
+        "place": "20 km W of Pole Ojea, Puerto Rico",
+        "rms": 0.12,
+        "sig": 99,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1794672908450,
+        "title": "M 2.5 - 20 km W of Pole Ojea, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794675108550,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539258"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.2112,
+          8.3996,
+          154.123
+        ],
+        "type": "Point"
+      },
+      "id": "us7000ty9l",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000ty9l",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty9l&format=geojson",
+        "dmin": 1.462,
+        "felt": null,
+        "gap": 72,
+        "ids": ",us7000ty9l,",
+        "mag": 4.9,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 156,
+        "place": "7 km SE of Tagbina, Philippines",
+        "rms": 0.71,
+        "sig": 369,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794672262205,
+        "title": "M 4.9 - 7 km SE of Tagbina, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794675107040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.46517,
+          32.82033,
+          11.85
+        ],
+        "type": "Point"
+      },
+      "id": "ci41362079",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "41362079",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41362079&format=geojson",
+        "dmin": 0.02153,
+        "felt": null,
+        "gap": 33,
+        "ids": ",ci41362079,us7000ty9h,",
+        "mag": 2.73,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ci",
+        "nst": 44,
+        "place": "8 km W of Holtville, CA",
+        "rms": 0.33,
+        "sig": 115,
+        "sources": ",ci,us,",
+        "status": "automatic",
+        "time": 1794670485400,
+        "title": "M 2.7 - 8 km W of Holtville, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1794677851040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41362079"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.46516,
+          32.82367,
+          11.65
+        ],
+        "type": "Point"
+      },
+      "id": "ci41362071",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "41362071",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41362071&format=geojson",
+        "dmin": 0.02396,
+        "felt": null,
+        "gap": 41,
+        "ids": ",ci41362071,us7000ty9g,",
+        "mag": 3.19,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ci",
+        "nst": 55,
+        "place": "8 km W of Holtville, CA",
+        "rms": 0.330000013,
+        "sig": 157,
+        "sources": ",ci,us,",
+        "status": "reviewed",
+        "time": 1794670414210,
+        "title": "M 3.2 - 8 km W of Holtville, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1794677454060,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41362071"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -169.239,
+          52.041,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wonuxw",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wonuxw",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wonuxw&format=geojson",
+        "dmin": 0.8,
+        "felt": null,
+        "gap": 224,
+        "ids": ",aka2026wonuxw,",
+        "mag": 3.9,
+        "magType": "ml",
+        "mmi": 2.115,
+        "net": "ak",
+        "nst": 38,
+        "place": "103 km SSW of Nikolski, Alaska",
+        "rms": 0.8,
+        "sig": 234,
+        "sources": ",ak,",
+        "status": "reviewed",
+        "time": 1794662758258,
+        "title": "M 3.9 - 103 km SSW of Nikolski, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794687413435,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wonuxw"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794688451000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
