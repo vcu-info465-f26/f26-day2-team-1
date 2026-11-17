@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -166.203,
+    -20.7669,
+    5,
+    179.175,
+    62.344,
+    202.737
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -150.083,
+          61.663,
+          26.6
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wszejn",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wszejn",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wszejn&format=geojson",
+        "dmin": 0.4,
+        "felt": null,
+        "gap": 55,
+        "ids": ",aka2026wszejn,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 65,
+        "place": "9 km SSW of Willow, Alaska",
+        "rms": 0.8,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1794870325904,
+        "title": "M 2.5 - 9 km SSW of Willow, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794870496831,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wszejn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          169.818,
+          -20.7669,
+          119.853
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tyns",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tyns",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tyns&format=geojson",
+        "dmin": 2.87,
+        "felt": null,
+        "gap": 114,
+        "ids": ",us7000tyns,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 27,
+        "place": "146 km SSE of Isangel, Vanuatu",
+        "rms": 1.07,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794866158945,
+        "title": "M 4.6 - 146 km SSE of Isangel, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794867353040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyns"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.709663391113,
+          36.1066665649414,
+          10.6000003814697
+        ],
+        "type": "Point"
+      },
+      "id": "nc75467222",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "75467222",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75467222&format=geojson",
+        "dmin": 0.09237,
+        "felt": 1,
+        "gap": 201,
+        "ids": ",nc75467222,",
+        "mag": 2.79,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 40,
+        "place": "16 km NW of Lopez Point, CA",
+        "rms": 0.1,
+        "sig": 120,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1794863839700,
+        "title": "M 2.8 - 16 km NW of Lopez Point, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1794868343677,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75467222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.4868,
+          -6.0804,
+          68
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tymu",
+      "properties": {
+        "alert": "green",
+        "cdi": 3.4,
+        "code": "7000tymu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tymu&format=geojson",
+        "dmin": 6.729,
+        "felt": 10,
+        "gap": 21,
+        "ids": ",us7000tymu,usauto7000tymu,attom5iv,",
+        "mag": 6.6,
+        "magType": "mww",
+        "mmi": 5.355,
+        "net": "us",
+        "nst": 129,
+        "place": "148 km WSW of Tual, Indonesia",
+        "rms": 0.78,
+        "sig": 674,
+        "sources": ",us,usauto,at,",
+        "status": "reviewed",
+        "time": 1794863480515,
+        "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,ground-failure,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794871083493,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.8061,
+          -1.7205,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tymc",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tymc",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tymc&format=geojson",
+        "dmin": 2.459,
+        "felt": null,
+        "gap": 110,
+        "ids": ",us7000tymc,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 25,
+        "place": "144 km NW of Kavieng, Papua New Guinea",
+        "rms": 0.67,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794857580666,
+        "title": "M 4.6 - 144 km NW of Kavieng, Papua New Guinea",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794868755040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.8684,
+          -14.9779,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tym8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tym8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tym8&format=geojson",
+        "dmin": 3.12,
+        "felt": null,
+        "gap": 160,
+        "ids": ",us7000tym8,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 16,
+        "place": "77 km WSW of Changuillo, Peru",
+        "rms": 0.62,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794857194776,
+        "title": "M 4.7 - 77 km WSW of Changuillo, Peru",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794868285040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tym8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.341,
+          62.344,
+          5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wsrgct",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wsrgct",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wsrgct&format=geojson",
+        "dmin": 2.8,
+        "felt": null,
+        "gap": 334,
+        "ids": ",aka2026wsrgct,",
+        "mag": 3.1,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 6,
+        "place": "63 km NNE of Stony River, Alaska",
+        "rms": 0.4,
+        "sig": 148,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1794856040534,
+        "title": "M 3.1 - 63 km NNE of Stony River, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794868746902,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wsrgct"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -166.203,
+          53.3316,
+          27.968
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tyma",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tyma",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tyma&format=geojson",
+        "dmin": 0.578,
+        "felt": null,
+        "gap": 204,
+        "ids": ",aka2026wspgxc,us7000tyma,",
+        "mag": 3.6,
+        "magType": "ml",
+        "mmi": 2.566,
+        "net": "us",
+        "nst": 27,
+        "place": "64 km SSE of Unalaska, Alaska",
+        "rms": 0.44,
+        "sig": 199,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1794852496110,
+        "title": "M 3.6 - 64 km SSE of Unalaska, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794867433040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.7503,
+          36.4773,
+          202.737
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tykx",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tykx",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tykx&format=geojson",
+        "dmin": 2.36,
+        "felt": null,
+        "gap": 108,
+        "ids": ",us7000tykx,",
+        "mag": 4.1,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 28,
+        "place": "43 km S of Jurm, Afghanistan",
+        "rms": 0.6,
+        "sig": 259,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1794852145427,
+        "title": "M 4.1 - 43 km S of Jurm, Afghanistan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1794869417040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          179.175,
+          51.018,
+          17.1
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026wslxjs",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026wslxjs",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wslxjs&format=geojson",
+        "dmin": 0.4,
+        "felt": null,
+        "gap": 265,
+        "ids": ",aka2026wslxjs,",
+        "mag": 3.9,
+        "magType": "ml",
+        "mmi": 2.254,
+        "net": "ak",
+        "nst": 25,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "rms": 0.6,
+        "sig": 234,
+        "sources": ",ak,",
+        "status": "reviewed",
+        "time": 1794846452660,
+        "title": "M 3.9 - Rat Islands, Aleutian Islands, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1794857411956,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wslxjs"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1794874130000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
