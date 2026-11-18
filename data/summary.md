@@ -1,3 +1,3 @@
-**Data covered:** 09-17-2026 to 11-17-2026 (UTC).
+**Data covered:** 09-17-2026 to 11-18-2026 (UTC).
 
-The 360 earthquakes show that deep events (≥ 30 km) have a slightly higher average magnitude of 4.03 compared with 3.89 for shallow events (< 30 km). Deep earthquakes also have a higher average significance, 265.74 versus 250.58 for shallow earthquakes.
+The average magnitude of deep earthquakes (≥ 30 km) is 4.04, slightly higher than the 3.91 average for shallow earthquakes (< 30 km). Deep events also have a higher average significance, with 266.06 versus 253.54 for shallow events.

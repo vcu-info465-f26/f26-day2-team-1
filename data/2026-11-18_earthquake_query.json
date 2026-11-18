@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -146.746,
+    -57.7514,
+    4.0900001525879,
+    172.9,
+    51.445,
+    133.871
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          172.9,
+          51.445,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ubw3",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ubw3",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ubw3&format=geojson",
+        "dmin": 3.564,
+        "felt": null,
+        "gap": 127,
+        "ids": ",us6000ubw3,aka2026wwodfo,",
+        "mag": 5.1,
+        "magType": "mb",
+        "mmi": 2.563,
+        "net": "us",
+        "nst": 89,
+        "place": "157 km S of Attu Station, Alaska",
+        "rms": 0.87,
+        "sig": 400,
+        "sources": ",us,ak,",
+        "status": "reviewed",
+        "time": 1795037327873,
+        "title": "M 5.1 - 157 km S of Attu Station, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",event-sequence,oaf,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1795040939064,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          146.4693,
+          -2.9421,
+          16.856
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ubvu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ubvu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ubvu&format=geojson",
+        "dmin": 1.268,
+        "felt": null,
+        "gap": 49,
+        "ids": ",us6000ubvu,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 34,
+        "place": "134 km SW of Lorengau, Papua New Guinea",
+        "rms": 0.61,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795034319129,
+        "title": "M 4.7 - 134 km SW of Lorengau, Papua New Guinea",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795040242040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubvu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.257,
+          9.8835,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ubvt",
+      "properties": {
+        "alert": null,
+        "cdi": 2.2,
+        "code": "6000ubvt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ubvt&format=geojson",
+        "dmin": 3.619,
+        "felt": 1,
+        "gap": 112,
+        "ids": ",us6000ubvt,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 50,
+        "place": "12 km SSE of Jimalalud, Philippines",
+        "rms": 0.91,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795033854635,
+        "title": "M 4.4 - 12 km SSE of Jimalalud, Philippines",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1795041985686,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubvt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -146.746,
+          -57.7514,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz37",
+      "properties": {
+        "alert": "green",
+        "cdi": null,
+        "code": "7000tz37",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz37&format=geojson",
+        "dmin": 23.288,
+        "felt": null,
+        "gap": 86,
+        "ids": ",us7000tz37,",
+        "mag": 6.1,
+        "magType": "mww",
+        "mmi": 0,
+        "net": "us",
+        "nst": 105,
+        "place": "Pacific-Antarctic Ridge",
+        "rms": 0.81,
+        "sig": 572,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795029263713,
+        "title": "M 6.1 - Pacific-Antarctic Ridge",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1795036780040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.668663024902,
+          40.5398330688477,
+          4.09000015258789
+        ],
+        "type": "Point"
+      },
+      "id": "nc75468022",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75468022",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75468022&format=geojson",
+        "dmin": 0.09655,
+        "felt": null,
+        "gap": 211,
+        "ids": ",nc75468022,",
+        "mag": 2.55,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 10,
+        "place": "14 km N of Susanville, CA",
+        "rms": 0.06,
+        "sig": 100,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1795027766640,
+        "title": "M 2.6 - 14 km N of Susanville, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1795029140545,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468022"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.368,
+          -21.411,
+          133.871
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz33",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tz33",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz33&format=geojson",
+        "dmin": 0.899,
+        "felt": null,
+        "gap": 58,
+        "ids": ",us7000tz33,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 52,
+        "place": "23 km SSW of Ollag\u00fce, Chile",
+        "rms": 1.01,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795027613317,
+        "title": "M 4.5 - 23 km SSW of Ollag\u00fce, Chile",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795029145040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1065,
+          -5.4599,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz2w",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "7000tz2w",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz2w&format=geojson",
+        "dmin": 4.251,
+        "felt": 2,
+        "gap": 31,
+        "ids": ",us7000tz2w,",
+        "mag": 5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 105,
+        "place": "46 km NNE of Kilimatinde, Tanzania",
+        "rms": 0.81,
+        "sig": 385,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795025280785,
+        "title": "M 5.0 - 46 km NNE of Kilimatinde, Tanzania",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1795041501153,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz2w"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1024,
+          -5.4691,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz32",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tz32",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz32&format=geojson",
+        "dmin": 4.26,
+        "felt": null,
+        "gap": 57,
+        "ids": ",us7000tz32,",
+        "mag": 4.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 59,
+        "place": "45 km NNE of Kilimatinde, Tanzania",
+        "rms": 0.58,
+        "sig": 284,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795025251393,
+        "title": "M 4.3 - 45 km NNE of Kilimatinde, Tanzania",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795027823040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.4609,
+          32.2779,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz1n",
+      "properties": {
+        "alert": null,
+        "cdi": 3.1,
+        "code": "7000tz1n",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz1n&format=geojson",
+        "dmin": 0.766,
+        "felt": 5,
+        "gap": 74,
+        "ids": ",us7000tz1n,",
+        "mag": 5.3,
+        "magType": "mww",
+        "mmi": null,
+        "net": "us",
+        "nst": 148,
+        "place": "4 km NNW of Tsunagi, Japan",
+        "rms": 0.56,
+        "sig": 434,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795022543454,
+        "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,moment-tensor,origin,phase-data,",
+        "tz": null,
+        "updated": 1795042214416,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -113.5736,
+          47.2371,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us7000tz1f",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "7000tz1f",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tz1f&format=geojson",
+        "dmin": 0.312,
+        "felt": null,
+        "gap": 61,
+        "ids": ",mb90213063,us7000tz1f,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 35,
+        "place": "9 km NW of Seeley Lake, Montana",
+        "rms": 0.93,
+        "sig": 112,
+        "sources": ",mb,us,",
+        "status": "reviewed",
+        "time": 1795019607127,
+        "title": "M 2.7 - 9 km NW of Seeley Lake, Montana",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795032122040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1f"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1795042477000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
