@@ -63,3 +63,15 @@ The dashboard displays the saved summary and the dates it covers. The summary us
 - GitHub Actions — `GROQ_API_KEY`: lets the workflow generate the daily summary
 - GitHub Actions — `REFRESH_TOKEN1`: lets the workflow push the snapshots and summary to the repo
 - Streamlit — `GROQ_API_KEY`: lets the live dashboard chatbot answer questions
+
+## Sprint 4 Roles
+
+### Program Manager
+- Josh
+
+### Reviewer Ring
+Joshua → Danny → Hira → Vishvag → Joshua
+
+### Tester
+- Hira
+
