@@ -98,11 +98,19 @@ st.divider()
 minimum_magnitude = float(dataframe["magnitude"].min())
 maximum_magnitude = float(dataframe["magnitude"].max())
 
+
+def reset_filters():
+    # Set both values so Streamlit also updates the visible slider and dropdown.
+    st.session_state["magnitude_range"] = (minimum_magnitude, maximum_magnitude)
+    st.session_state["review_status"] = "All"
+
+
 selected_range = st.sidebar.slider(
     "Magnitude Range",
     min_value=minimum_magnitude,
     max_value=maximum_magnitude,
-    value=(minimum_magnitude, maximum_magnitude),
+    value=None if "magnitude_range" in st.session_state else (minimum_magnitude, maximum_magnitude),
+    key="magnitude_range",
 )
 
 filtered_dataframe = filter_by_magnitude(dataframe, selected_range)
@@ -110,7 +118,10 @@ filtered_dataframe = filter_by_magnitude(dataframe, selected_range)
 selected_status = st.sidebar.selectbox(
     "USGS Review Status",
     ["All", "Reviewed", "Automatic"],
+    key="review_status",
 )
+
+st.sidebar.button("Reset filters", on_click=reset_filters)
 
 st.sidebar.markdown('<h3 class="definitions-heading">Definitions</h3>', unsafe_allow_html=True)
 st.sidebar.markdown(
@@ -160,6 +171,7 @@ else:
         <style>
             .depth-key {
                 font-size: 1.2rem;
+                text-align: center;
                 margin-bottom: 1rem;
             }
 
@@ -206,8 +218,16 @@ else:
             lambda value: f"{value:g}"
         )
 
+    def color_depth_group(depth_group):
+        # Keep the table neutral and match just the depth label to the charts.
+        styles = {
+            "Shallow (< 30 km)": "background-color: #7EC8FF; color: #0E1117",
+            "Deep (>= 30 km)": "background-color: #1673D1; color: #FFFFFF",
+        }
+        return styles.get(depth_group, "")
+
     st.dataframe(
-        displayed_dataframe,
+        displayed_dataframe.style.map(color_depth_group, subset=["depth_group"]),
         use_container_width=True,
         hide_index=True,
     )
