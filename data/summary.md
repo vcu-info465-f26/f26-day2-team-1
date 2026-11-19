@@ -1,3 +1,3 @@
-**Data covered:** 09-17-2026 to 11-18-2026 (UTC).
+**Data covered:** 09-17-2026 to 11-19-2026 (UTC).
 
-The average magnitude of deep earthquakes (≥ 30 km) is 4.04, slightly higher than the 3.91 average for shallow earthquakes (< 30 km). Deep events also have a higher average significance, with 266.06 versus 253.54 for shallow events.
+The dataset includes 380 earthquakes. Shallow events (< 30 km) have an average magnitude of 3.92 and an average significance of 254.80, while deep events (≥ 30 km) average a slightly higher magnitude of 4.02 and a significance of 264.02. Thus, deep earthquakes are marginally stronger and more significant on average than shallow ones.
