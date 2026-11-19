@@ -1,10 +1,88 @@
-# Calculates the filtered statistics supplied to the dashboard chat.
+# Prepares filtered statistics and looks up extra details only when needed.
 
+from contextlib import closing
 from datetime import datetime, timezone
+import json
+import sqlite3
+from time import monotonic
+
+import pandas as pd
+
+
+# These are the columns visitors can see in the dashboard's dataframe.
+DATAFRAME_COLUMNS = {
+    "event_time": "UTC event timestamp; use date(event_time) for a calendar day",
+    "location": "Exact USGS location label; may be missing",
+    "magnitude": "Earthquake magnitude (number)",
+    "depth_km": "Depth in kilometers (number)",
+    "significance": "USGS significance score (number)",
+    "depth_group": "Shallow (< 30 km) or Deep (>= 30 km)",
+    "status": "USGS review status; may be missing",
+}
+
+
+def query_dataframe(dataframe, sql):
+    """Calculate an answer locally without sending the full dataframe to Groq."""
+    if not isinstance(sql, str) or not sql.strip() or len(sql) > 6000:
+        raise ValueError("Use a single short SELECT query.")
+
+    # Work on a temporary copy of only the displayed, currently filtered data.
+    # This never opens project.db or gives the model access to other files.
+    table = dataframe[list(DATAFRAME_COLUMNS)].copy()
+    table["event_time"] = table["event_time"].map(
+        lambda value: value.isoformat() if not pd.isna(value) else None
+    )
+    with closing(sqlite3.connect(":memory:")) as connection:
+        table.to_sql("earthquake_data", connection, index=False)
+        connection.execute("PRAGMA query_only = ON")
+
+        # The model writes the query, so allow reading this table and ordinary
+        # calculations only. Changes, other tables, and file functions are denied.
+        safe_functions = {
+            "count", "sum", "avg", "min", "max", "round", "abs", "total",
+            "lower", "upper", "trim", "ltrim", "rtrim", "substr", "substring",
+            "instr", "length", "replace", "coalesce", "ifnull", "nullif",
+            "date", "datetime", "time", "strftime", "julianday", "unixepoch",
+            "typeof", "like", "glob", "row_number", "rank", "dense_rank",
+        }
+
+        def authorize(action, table_name, column_or_function, database, source):
+            if action == sqlite3.SQLITE_SELECT:
+                return sqlite3.SQLITE_OK
+            if action == sqlite3.SQLITE_READ and table_name == "earthquake_data":
+                return sqlite3.SQLITE_OK
+            if action == sqlite3.SQLITE_FUNCTION and column_or_function in safe_functions:
+                return sqlite3.SQLITE_OK
+            return sqlite3.SQLITE_DENY
+
+        connection.set_authorizer(authorize)
+        connection.setlimit(sqlite3.SQLITE_LIMIT_LENGTH, 16000)
+        connection.setlimit(sqlite3.SQLITE_LIMIT_SQL_LENGTH, 6000)
+        connection.setlimit(sqlite3.SQLITE_LIMIT_COLUMN, 20)
+        connection.setlimit(sqlite3.SQLITE_LIMIT_EXPR_DEPTH, 50)
+        deadline = monotonic() + 2
+        connection.set_progress_handler(lambda: int(monotonic() > deadline), 1000)
+
+        cursor = connection.execute(sql)
+        columns = [column[0] for column in cursor.description]
+        rows = cursor.fetchmany(21)
+
+        # Calculations use every matching row, but only a small result is sent.
+        # Tell the model if we leave rows out so it cannot mistake them for a total.
+        result = {"columns": columns, "rows": [], "truncated": len(rows) > 20}
+        if len(json.dumps(result, allow_nan=False)) > 8000:
+            raise ValueError("Return fewer columns with shorter names.")
+        for row in rows[:20]:
+            result["rows"].append(list(row))
+            if len(json.dumps(result, allow_nan=False)) > 8000:
+                result["rows"].pop()
+                result["truncated"] = True
+                break
+        return result
 
 
 def build_chat_context(dataframe, magnitude_range, review_status):
-    """Describe the current filters and the data used by the charts."""
+    """Describe the current filters, chart statistics, and queryable columns."""
     # app.py has already applied both filters to this dataframe. Use those rows
     # directly so the chat and charts do not accidentally describe different data.
     # Today's date gives the model a reference for questions like "this week."
@@ -18,6 +96,8 @@ def build_chat_context(dataframe, magnitude_range, review_status):
         "earthquake_count": len(dataframe),
         "depth_groups": [],
         "magnitude_chart_days": [],
+        "queryable_table": "earthquake_data",
+        "dataframe_columns": DATAFRAME_COLUMNS,
         "chart_scope": (
             "The bar chart and dataframe use all filtered earthquakes. "
             "The magnitude chart shows only the latest 15 event dates with data. "
