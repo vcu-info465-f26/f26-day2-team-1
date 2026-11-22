@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -178.1773,
+    -24.8265,
+    0.5,
+    179.6648,
+    60.9304,
+    533.96
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -159.294,
+          55.273,
+          12
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xdxwen",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xdxwen",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xdxwen&format=geojson",
+        "dmin": 0.8,
+        "felt": null,
+        "gap": 329,
+        "ids": ",aka2026xdxwen,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 11,
+        "place": "71 km S of Ivanof Bay, Alaska",
+        "rms": 0.4,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1795382517224,
+        "title": "M 2.5 - 71 km S of Ivanof Bay, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795382594066,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xdxwen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -178.1773,
+          -22.0776,
+          381.828
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ucu8",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ucu8",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ucu8&format=geojson",
+        "dmin": 5.583,
+        "felt": null,
+        "gap": 109,
+        "ids": ",us6000ucu8,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 26,
+        "place": "south of the Fiji Islands",
+        "rms": 0.64,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795381181943,
+        "title": "M 4.5 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795383385040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          169.0592,
+          -19.6421,
+          115.367
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ucu7",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ucu7",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ucu7&format=geojson",
+        "dmin": 3.316,
+        "felt": null,
+        "gap": 137,
+        "ids": ",us6000ucu7,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 31,
+        "place": "25 km WSW of Isangel, Vanuatu",
+        "rms": 0.65,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795380892753,
+        "title": "M 4.7 - 25 km WSW of Isangel, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795381720040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.938499450684,
+          40.3540000915527,
+          20.2000007629395
+        ],
+        "type": "Point"
+      },
+      "id": "nc75470722",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75470722",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75470722&format=geojson",
+        "dmin": 0.4603,
+        "felt": null,
+        "gap": 262,
+        "ids": ",nc75470722,",
+        "mag": 2.98,
+        "magType": "ml",
+        "mmi": null,
+        "net": "nc",
+        "nst": 29,
+        "place": "55 km W of Petrolia, CA",
+        "rms": 0.25,
+        "sig": 137,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1795377028580,
+        "title": "M 3.0 - 55 km W of Petrolia, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1795378648429,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470722"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          179.6648,
+          -24.8265,
+          533.96
+        ],
+        "type": "Point"
+      },
+      "id": "us6000uctj",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000uctj",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000uctj&format=geojson",
+        "dmin": 7.205,
+        "felt": null,
+        "gap": 127,
+        "ids": ",us6000uctj,",
+        "mag": 4.6,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 40,
+        "place": "south of the Fiji Islands",
+        "rms": 0.79,
+        "sig": 326,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795370604057,
+        "title": "M 4.6 - south of the Fiji Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795371541040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uctj"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.4273,
+          32.2817,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ucth",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ucth",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ucth&format=geojson",
+        "dmin": 0.771,
+        "felt": null,
+        "gap": 111,
+        "ids": ",us6000ucth,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 32,
+        "place": "6 km NW of Tsunagi, Japan",
+        "rms": 0.76,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795369571214,
+        "title": "M 4.4 - 6 km NW of Tsunagi, Japan",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795370831040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -138.4936,
+          60.9304,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000uctd",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000uctd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000uctd&format=geojson",
+        "dmin": 0.492,
+        "felt": null,
+        "gap": 145,
+        "ids": ",us6000uctd,",
+        "mag": 2.8,
+        "magType": "ml",
+        "mmi": null,
+        "net": "us",
+        "nst": 18,
+        "place": "168 km NNE of Yakutat, Alaska",
+        "rms": 1.02,
+        "sig": 121,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795366233642,
+        "title": "M 2.8 - 168 km NNE of Yakutat, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795375963040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uctd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.452,
+          59.508,
+          0.5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xdnmqb",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xdnmqb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xdnmqb&format=geojson",
+        "dmin": 0.2,
+        "felt": null,
+        "gap": 155,
+        "ids": ",aka2026xdnmqb,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 42,
+        "place": "32 km NE of Igiugig, Alaska",
+        "rms": 0.8,
+        "sig": 104,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1795363860178,
+        "title": "M 2.6 - 32 km NE of Igiugig, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795363944126,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xdnmqb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.182,
+          31.67,
+          6.6125
+        ],
+        "type": "Point"
+      },
+      "id": "tx2026wzuvop",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "2026wzuvop",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wzuvop&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 61,
+        "ids": ",us6000uct8,tx2026wzuvop,",
+        "mag": 2.9,
+        "magType": "ml",
+        "mmi": null,
+        "net": "tx",
+        "nst": 37,
+        "place": "53 km NW of Toyah, Texas",
+        "rms": 0.2,
+        "sig": 129,
+        "sources": ",us,tx,",
+        "status": "reviewed",
+        "time": 1795363229603,
+        "title": "M 2.9 - 53 km NW of Toyah, Texas",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795364103181,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wzuvop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.675,
+          59.996,
+          101.2
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xdlzci",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xdlzci",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xdlzci&format=geojson",
+        "dmin": 0.1,
+        "felt": null,
+        "gap": 69,
+        "ids": ",us6000uct4,aka2026xdlzci,",
+        "mag": 3.6,
+        "magType": "ml",
+        "mmi": 1.963,
+        "net": "ak",
+        "nst": 204,
+        "place": "52 km W of Happy Valley, Alaska",
+        "rms": 0.9,
+        "sig": 199,
+        "sources": ",us,ak,",
+        "status": "reviewed",
+        "time": 1795361121414,
+        "title": "M 3.6 - 52 km W of Happy Valley, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1795383493778,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xdlzci"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1795383589000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
