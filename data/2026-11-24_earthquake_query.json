@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -156.607,
+    7.5171,
+    1.2,
+    87.9467,
+    69.057,
+    74.4
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -156.498,
+          56.555,
+          74.4
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xgetvu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xgetvu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xgetvu&format=geojson",
+        "dmin": 0.9,
+        "felt": null,
+        "gap": 208,
+        "ids": ",aka2026xgetvu,",
+        "mag": 2.6,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 31,
+        "place": "119 km SSE of Ugashik, Alaska",
+        "rms": 0.5,
+        "sig": 104,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1795488506199,
+        "title": "M 2.6 - 119 km SSE of Ugashik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795488605088,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgetvu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.501159667969,
+          19.2045001983643,
+          29.7399997711182
+        ],
+        "type": "Point"
+      },
+      "id": "hv75075652",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "75075652",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75075652&format=geojson",
+        "dmin": 0.0437,
+        "felt": 3,
+        "gap": 73,
+        "ids": ",hv75075652,",
+        "mag": 3.2,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 55,
+        "place": "2 km W of P\u0101hala, Hawaii",
+        "rms": 0.150000006,
+        "sig": 158,
+        "sources": ",hv,",
+        "status": "automatic",
+        "time": 1795487821370,
+        "title": "M 3.2 - 2 km W of P\u0101hala, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1795488398833,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75075652"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.607,
+          56.234,
+          5
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xgdfty",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xgdfty",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xgdfty&format=geojson",
+        "dmin": 1,
+        "felt": null,
+        "gap": 313,
+        "ids": ",aka2026xgdfty,",
+        "mag": 2.7,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 10,
+        "place": "111 km E of Chignik, Alaska",
+        "rms": 0.2,
+        "sig": 112,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1795485729029,
+        "title": "M 2.7 - 111 km E of Chignik, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795485814637,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgdfty"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.449,
+          19.217,
+          13.51
+        ],
+        "type": "Point"
+      },
+      "id": "pr71539833",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71539833",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539833&format=geojson",
+        "dmin": 0.7243,
+        "felt": null,
+        "gap": 287,
+        "ids": ",us6000ud3n,pr71539833,",
+        "mag": 3.26,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 16,
+        "place": "104 km NNE of Cruz Bay, U.S. Virgin Islands",
+        "rms": 0.14,
+        "sig": 164,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1795485656730,
+        "title": "M 3.3 - 104 km NNE of Cruz Bay, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795488620680,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539833"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.6224,
+          7.5171,
+          15.655
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ud3m",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000ud3m",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ud3m&format=geojson",
+        "dmin": 1.814,
+        "felt": null,
+        "gap": 133,
+        "ids": ",us6000ud3m,",
+        "mag": 4.5,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 22,
+        "place": "9 km NNW of La Tronosa, Panama",
+        "rms": 0.63,
+        "sig": 312,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795485357417,
+        "title": "M 4.5 - 9 km NNW of La Tronosa, Panama",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795486728040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          87.9467,
+          27.8328,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ud3i",
+      "properties": {
+        "alert": null,
+        "cdi": 4.3,
+        "code": "6000ud3i",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ud3i&format=geojson",
+        "dmin": 9.152,
+        "felt": 37,
+        "gap": 71,
+        "ids": ",us6000ud3i,",
+        "mag": 5.3,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 39,
+        "place": "67 km WNW of Mangan, India",
+        "rms": 0.59,
+        "sig": 448,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795483962417,
+        "title": "M 5.3 - 67 km WNW of Mangan, India",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1795488603296,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3i"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.9575,
+          17.9863333333333,
+          11.79
+        ],
+        "type": "Point"
+      },
+      "id": "pr71539818",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71539818",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539818&format=geojson",
+        "dmin": 0.04858,
+        "felt": null,
+        "gap": 153,
+        "ids": ",pr71539818,",
+        "mag": 2.81,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 28,
+        "place": "4 km W of Fuig, Puerto Rico",
+        "rms": 0.15,
+        "sig": 121,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1795480723520,
+        "title": "M 2.8 - 4 km W of Fuig, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795482615600,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539818"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.7547,
+          43.2472,
+          10.484
+        ],
+        "type": "Point"
+      },
+      "id": "us6000ud34",
+      "properties": {
+        "alert": null,
+        "cdi": 4.2,
+        "code": "6000ud34",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ud34&format=geojson",
+        "dmin": 0.213,
+        "felt": 159,
+        "gap": 36,
+        "ids": ",us6000ud34,",
+        "mag": 3.9,
+        "magType": "mwr",
+        "mmi": 3.857,
+        "net": "us",
+        "nst": 89,
+        "place": "4 km SSE of Hoback, Wyoming",
+        "rms": 0.5,
+        "sig": 301,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795478997793,
+        "title": "M 3.9 - 4 km SSE of Hoback, Wyoming",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,moment-tensor,origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1795488488767,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -155.841833333333,
+          20.1226666666667,
+          27.8
+        ],
+        "type": "Point"
+      },
+      "id": "hv75075542",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "75075542",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75075542&format=geojson",
+        "dmin": 0.06098,
+        "felt": null,
+        "gap": 260,
+        "ids": ",us6000ud2u,hv75075542,",
+        "mag": 2.55,
+        "magType": "ml",
+        "mmi": null,
+        "net": "hv",
+        "nst": 42,
+        "place": "13 km SSW of Kapaau, Hawaii",
+        "rms": 0.18,
+        "sig": 100,
+        "sources": ",us,hv,",
+        "status": "reviewed",
+        "time": 1795474945780,
+        "title": "M 2.6 - 13 km SSW of Kapaau, Hawaii",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795481768040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75075542"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -144.671,
+          69.057,
+          1.2
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xfwtiz",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xfwtiz",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xfwtiz&format=geojson",
+        "dmin": 0.7,
+        "felt": null,
+        "gap": 65,
+        "ids": ",us6000ud2s,aka2026xfwtiz,",
+        "mag": 3.2,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 49,
+        "place": "109 km NNE of Arctic Village, Alaska",
+        "rms": 0.7,
+        "sig": 158,
+        "sources": ",us,ak,",
+        "status": "automatic",
+        "time": 1795474074673,
+        "title": "M 3.2 - 109 km NNE of Arctic Village, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795481322040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xfwtiz"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1795488679000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
