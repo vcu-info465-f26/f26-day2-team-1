@@ -1,0 +1,422 @@
+{
+  "bbox": [
+    -177.6186,
+    -35.8989,
+    6.1399998664856,
+    178.5511,
+    59.318,
+    64.7
+  ],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -121.202499389648,
+          36.5703315734863,
+          6.1399998664856
+        ],
+        "type": "Point"
+      },
+      "id": "nc75469326",
+      "properties": {
+        "alert": null,
+        "cdi": 2,
+        "code": "75469326",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75469326&format=geojson",
+        "dmin": 0.01383,
+        "felt": 1,
+        "gap": 36,
+        "ids": ",nc75469326,",
+        "mag": 2.66,
+        "magType": "md",
+        "mmi": null,
+        "net": "nc",
+        "nst": 66,
+        "place": "7 km NW of Pinnacles, CA",
+        "rms": 0.28,
+        "sig": 109,
+        "sources": ",nc,",
+        "status": "automatic",
+        "time": 1795648928910,
+        "title": "M 2.7 - 7 km NW of Pinnacles, CA",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+        "tz": null,
+        "updated": 1795651642107,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469326"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -152.339,
+          59.318,
+          64.7
+        ],
+        "type": "Point"
+      },
+      "id": "aka2026xjnqgt",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "a2026xjnqgt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026xjnqgt&format=geojson",
+        "dmin": 0.6,
+        "felt": null,
+        "gap": 123,
+        "ids": ",aka2026xjnqgt,",
+        "mag": 2.5,
+        "magType": "ml",
+        "mmi": null,
+        "net": "ak",
+        "nst": 59,
+        "place": "24 km W of Nanwalek, Alaska",
+        "rms": 0.5,
+        "sig": 96,
+        "sources": ",ak,",
+        "status": "automatic",
+        "time": 1795644801759,
+        "title": "M 2.5 - 24 km W of Nanwalek, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795644913860,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjnqgt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.8233333333333,
+          18.9428333333333,
+          9.76
+        ],
+        "type": "Point"
+      },
+      "id": "pr71540038",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71540038",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71540038&format=geojson",
+        "dmin": 0.5459,
+        "felt": null,
+        "gap": 293,
+        "ids": ",pr71540038,",
+        "mag": 3.12,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 9,
+        "place": "50 km N of Hatillo, Puerto Rico",
+        "rms": 0.23,
+        "sig": 150,
+        "sources": ",pr,",
+        "status": "reviewed",
+        "time": 1795643260980,
+        "title": "M 3.1 - 50 km N of Hatillo, Puerto Rico",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795644412110,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540038"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          178.5511,
+          -35.8989,
+          10
+        ],
+        "type": "Point"
+      },
+      "id": "us6000udib",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000udib",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000udib&format=geojson",
+        "dmin": 1.671,
+        "felt": null,
+        "gap": 145,
+        "ids": ",us6000udib,",
+        "mag": 4.8,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 26,
+        "place": "190 km N of Hicks Bay, New Zealand",
+        "rms": 0.42,
+        "sig": 354,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795642353545,
+        "title": "M 4.8 - 190 km N of Hicks Bay, New Zealand",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795643497040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udib"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          168.224,
+          -17.6508,
+          51.54
+        ],
+        "type": "Point"
+      },
+      "id": "us6000udht",
+      "properties": {
+        "alert": null,
+        "cdi": 2.4,
+        "code": "6000udht",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000udht&format=geojson",
+        "dmin": 4.707,
+        "felt": 2,
+        "gap": 76,
+        "ids": ",us6000udht,",
+        "mag": 4.7,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 31,
+        "place": "13 km NW of Port-Vila, Vanuatu",
+        "rms": 0.87,
+        "sig": 340,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795633169141,
+        "title": "M 4.7 - 13 km NW of Port-Vila, Vanuatu",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",dyfi,origin,phase-data,",
+        "tz": null,
+        "updated": 1795638200022,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udht"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.0725,
+          18.7731666666667,
+          24.57
+        ],
+        "type": "Point"
+      },
+      "id": "pr71540018",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71540018",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71540018&format=geojson",
+        "dmin": 0.5543,
+        "felt": null,
+        "gap": 217,
+        "ids": ",us6000udhp,pr71540018,",
+        "mag": 2.87,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 8,
+        "place": "50 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "rms": 0.31,
+        "sig": 127,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1795631194550,
+        "title": "M 2.9 - 50 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795641054040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540018"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.0263333333333,
+          18.9876666666667,
+          27.74
+        ],
+        "type": "Point"
+      },
+      "id": "pr71540003",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71540003",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71540003&format=geojson",
+        "dmin": 0.6353,
+        "felt": null,
+        "gap": 239,
+        "ids": ",us6000udhj,pr71540003,",
+        "mag": 3.1,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 11,
+        "place": "72 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "rms": 0.15,
+        "sig": 148,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1795630965680,
+        "title": "M 3.1 - 72 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795640887040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540003"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.6921,
+          38.4121,
+          49.971
+        ],
+        "type": "Point"
+      },
+      "id": "us6000udhb",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000udhb",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000udhb&format=geojson",
+        "dmin": 1.422,
+        "felt": null,
+        "gap": 121,
+        "ids": ",us6000udhb,",
+        "mag": 4.4,
+        "magType": "mb",
+        "mmi": null,
+        "net": "us",
+        "nst": 41,
+        "place": "5 km NNW of Ith\u00e1ki, Greece",
+        "rms": 0.83,
+        "sig": 298,
+        "sources": ",us,",
+        "status": "reviewed",
+        "time": 1795630079725,
+        "title": "M 4.4 - 5 km NNW of Ith\u00e1ki, Greece",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795632640040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udhb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -177.6186,
+          51.3121,
+          35
+        ],
+        "type": "Point"
+      },
+      "id": "us6000udfu",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "6000udfu",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000udfu&format=geojson",
+        "dmin": 0.478,
+        "felt": null,
+        "gap": 207,
+        "ids": ",aka2026xjbzmv,us6000udfu,",
+        "mag": 3.4,
+        "magType": "ml",
+        "mmi": 3,
+        "net": "us",
+        "nst": 20,
+        "place": "92 km SW of Adak, Alaska",
+        "rms": 0.38,
+        "sig": 178,
+        "sources": ",ak,us,",
+        "status": "reviewed",
+        "time": 1795623833838,
+        "title": "M 3.4 - 92 km SW of Adak, Alaska",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,shakemap,",
+        "tz": null,
+        "updated": 1795625216040,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udfu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -65.0438333333333,
+          18.9028333333333,
+          23.89
+        ],
+        "type": "Point"
+      },
+      "id": "pr71539988",
+      "properties": {
+        "alert": null,
+        "cdi": null,
+        "code": "71539988",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539988&format=geojson",
+        "dmin": 0.6259,
+        "felt": null,
+        "gap": 225,
+        "ids": ",us6000udfs,pr71539988,",
+        "mag": 3.4,
+        "magType": "md",
+        "mmi": null,
+        "net": "pr",
+        "nst": 19,
+        "place": "63 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "rms": 0.35,
+        "sig": 178,
+        "sources": ",us,pr,",
+        "status": "reviewed",
+        "time": 1795623646470,
+        "title": "M 3.4 - 63 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "tsunami": 0,
+        "type": "earthquake",
+        "types": ",origin,phase-data,",
+        "tz": null,
+        "updated": 1795626054720,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539988"
+      },
+      "type": "Feature"
+    }
+  ],
+  "metadata": {
+    "api": "2.8.4",
+    "generated": 1795651726000,
+    "limit": 10,
+    "offset": 1,
+    "status": 200,
+    "title": "USGS Earthquakes",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=2.5&orderby=time&limit=10"
+  },
+  "type": "FeatureCollection"
+}
